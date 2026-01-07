@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="sshcrack01">
+  <goals>
+    <goal type="FileDownload" target="portcrack01" file="SSHcrack.exe" path="bin"/>
+  </goals>
+  <missionEnd val="0">transitionToBitMissions</missionEnd>
+  <nextMission>NONE</nextMission>
+  <branchMissions>
+    <branch>BitMission2.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Bit</sender>
+    <subject>Unire alcuni strumenti</subject>
+    <body>
+Geniale – questo per ora dovrebbe tenerti al sicuro! Almeno dal tuo computer.
+Prima di iniziare, avrai bisogno di alcune cose – porthack da solo non sara' sufficiente per i computer piu' moderni... Almeno non quelli per cui vale la pena dare un'occhiata.
+      
+Dovresti iniziare investigando su un mio amico. "Viper" – e' orribile, lo so. Lui... onestamente, non e' il piu' brillante del gruppo, ma sembra sempre avere del codice utile.
+Non dovresti avere problemi ad entrare nei suoi file – trovare qualcosa di utile sara' piu' impegnativo.
+
+e' possibile evitare la maggior parte dei file 'generici' – cose che sono registrate o salvate da un programma; record IRC e cosi' via. File .exe con nomi personalizzati, sono quelli che devi cercare.
+Scarica qualsiasi file usando il comando "scp".
+
+Buona fortuna – rispondi di nuovo quando hai finito!
+      
+--Bit
+0
+      
+    </body>
+    <attachments>
+      <link comp="portcrack01"/>
+      <note title="Scheda di riferimento rapido Hacknet">Guida di riferimento rapida
+      
+Analizza la sicurezza di un sistema utilizzando il comando "probe".
+Usa "PortHack" per entrare nel sistema 
+
+Trova i nodi adiacenti usando "scan"
+Elimina i registri nella cartella ~/log usando "rm [NOMEFILE o *]"
+
+Scarica i file con il comando "scp [NOMEFILE]"
+      </note>
+    </attachments>
+  </email>
+</mission>

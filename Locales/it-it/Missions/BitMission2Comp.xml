@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="bitMission02" name="Server di test d'Entropy" ip="199.59.149.230" security="1" type="4">
+  <file path="home" name="Entropy_Induction_Test">
+Congratulazioni,
+  
+Scarica questo file per completare l'esame introduttivo.
+    
+Entropy ti contattera' presto.
+  </file>
+  <file path="bin" name="e_admins_are_lazy.txt">Nessuno si ricorda di svuotare anche la cartella bin. e' un server di prova, idioti, e' fatto per far crollare la gente! Almeno datti una ripulita!</file>
+
+  <file path="bin/zer0cool" name="hack_the_planet.txt">GLI SCHIOCCHI SI INGINOCCHIANO DAVANTI A ME! IO HO LA TECNICA E TU NO!</file>
+  
+  <file path="bin/zer0cool" name="retort.txt">Supponendo che tu conosca il significato di risposta, lasciami dire che non sei altro che un idiota.
+Probabilmente ti ci e' voluta un'intera settimana per scoprire come rompere questo proxy. Devi avere 12 anni e pensi di poter "hackerare il pianeta" quando tua madre avra' 386 anni. Buona fortuna ragazzo. Spostati e lascia i professionisti in carica.</file>
+
+  <file path="bin/OP_Stormwind" name="need_help.txt">Se sei qui, e' molto probabile che tu conosca una o due cose sull'entrare in posti in cui non ti appartieni. Quegli idioti di Stormwind hanno completamente rovinato l'equilibrio di Shaytan 3 con l'ultima patch. Ero un grande fan dello Shayton originale quando e' uscito nel '96, e io dico di metterci dentro e buttare via quella casa d'aste. Se vuoi farne parte, lascia un file qui e ti trovero'.
+-slaggedfire</file>
+
+  <file path="bin/OP_Stormwind" name="Wo_lai_bang.txt">
+400 Jin Stormwind Online.
+</file>
+
+  <file path="bin/OP_Stormwind" name="lulz.txt">
+Gli amministratori sono arrabbiati con te: I cinesi sono stati sui server tutta la notte a chiedere oro.
+</file>
+
+  <file path="bin" name="SOgold.txt">
+Sei stanco di compiti che ti prendono molto tempo? Vorresti poter vivere una vita lunga e felice senza preoccuparti dei soldi? Allora non guardare oltre! SoGold e' il servizio culturale di Stormwind Online. Per un piccolo prezzo, ci occuperemo del tuo conto e ci assicureremo che tu abbia abbastanza oro per comprare tutti gli oggetti che vuoi. Tutto quello che ci serve e' un pagamento di 29,99 dollari, i dettagli del tuo account di Stormwind Online, e ti daremo piu' oro di quanto tu possa immaginare.
+</file>
+
+<file path="bin" name="BIT_PLZ_READ.txt">
+Bit, se gironzoli qui intorno, potresti uscire dall'ombra. Devo parlarti.
+Vap0r non mi lascera' andare, mi dice che qualcosa non va. e' sicura che sta succedendo qualcosa. Me lo farai sapere?
+-T
+</file>
+  
+  <proxy time="0.3"/>
+</Computer>

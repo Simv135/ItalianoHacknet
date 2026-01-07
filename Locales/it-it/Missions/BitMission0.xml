@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="bitMission00">
+  <goals>
+    <goal type="getAdmin" target="bitMission00"/>
+  </goals>
+  <missionStart val="7">changeSong</missionStart>
+  <nextMission>BitMission1.xml</nextMission>
+  <branchMissions>
+    <branch>BitMission2.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Bit</sender>
+    <subject>Volo inaugurale</subject>
+    <body>Complimenti!
+Ad essere onesti, non ho modo di sapere se hai avuto successo in questo compito, ma se stai leggendo questo significa che almeno hai trovato QUALCOSA. Presumo che sia molto utile.
+
+Dovresti provare a violare uno dei miei vecchi server di test. Se Viper ha lasciato dietro di se' le cose per cui e' conosciuto, dovresti avere tutto il necessario per entrare.
+Ricorda, ogni programma non di base ha bisogno di un numero di porta per essere eseguito – come questo:
+
+&gt;SSHCrack 22
+ ^programma ^porta
+
+Basta trovare una porta che si desidera aprire ed eseguire il programma su di essa.     
+
+Oh, e nel caso non lo sapessi ancora, puoi usare il tasto Tab per completare automaticamente i comandi – digitando "ssh" e premendo Tab dovrebbe completare il nome completo, ecc. Funziona per tutto!
+
+Buona fortuna!
+
+--Bit
+0
+      
+    </body>
+    <attachments>
+      <note title="Guida alla sicurezza di base">Sicurezza di base
+      
+Usa Probe per vedere quali porte sono aperte.
+Scegline una con un programma e seleziona la porta corretta
+esempio: "SSHCrack 22"
+     ^programma ^porta
+L'apertura di un numero sufficiente di porte rende l'obiettivo vulnerabile a una violazione della sicurezza "Porthack".
+      </note>
+      <link comp="bitMission00" />
+    </attachments>
+  </email>
+</mission>

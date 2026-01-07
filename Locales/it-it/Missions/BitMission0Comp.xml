@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="bitMission00" name="PC di prova di Bit" security="1">
+  <file path="home" name="Test_File.txt">Congratulazioni, hai vinto!</file>
+  <file path="home" name="L-E_x-server.sys">#PURPLE_THEME#</file>
+  <file path="sys" name="x-server.sys">#PURPLE_THEME#</file>
+
+  <file path="home" name="Hobbes_TerminalGuide.txt.txt">
+Elenco di comandi utili:
+
+cat [nomefile] - mostra il testo contenuto nel file specificato
+
+cd / - ti porta alla directory principale del file system
+
+ls - mostra le directory e i file nella directory corrente
+
+cd .. - torna di un livello nella gerarchia delle directory
+
+replace [nomefile] "[stringa1]" "[stringa2]" - sostituisce il contenuto specificato nel file scelto (stringa1) con quello desiderato (stringa2)
+
+mv [nomefile] [destinazione] - sposta o rinomina un file. Per spostarlo, specifica la cartella di destinazione in questo modo:
+
+mv config.sys /misc/
+
+Per rinominarlo, indica semplicemente il nuovo nome dopo quello vecchio in questo modo:
+
+mv config.sys config.old
+
+Help 1, Help 2, Help 3 - Il file di aiuto in tre pagine. Leggi e assimila.
+
+forkbomb - Non specificato, ma e' un utile pulsante di panico nel caso sia necessario abbandonare rapidamente un sistema; richiede i permessi di amministratore. Puoi usare forkbomb sul tuo sistema come meccanismo di difesa.
+
+shell - crea un host remoto su un sistema a cui hai accesso come amministratore; puo' essere utilizzato sul proprio sistema come meccanismo di difesa. (Vedi "Trap" per maggiori dettagli)
+</file>
+  
+  <file path="home/autolog_reports" name="log01332.txt">
+[shinterland] Sto aspettando che il capo se ne vada.
+[shinterland] Ci vediamo li'.
+[jwalter] Pensi che sospetti qualcosa?
+[shinterland] Pfft, ne dubito. 
+[shinterland] Non ha idea della tempesta che sta arrivando. 
+[jwalter] Non dimenticare di cancellare la cronologia, non vogliamo che ci rintracci. 
+[shinterland] Si' si' si', va bene.
+[shinterland] Ha preso il cappotto, sta entrando dalla porta... ora.
+[jwalter] Ok, dammi un minuto per avviare il flusso video.....
+[jwalter] Pronto. Hai a disposizione tre minuti prima che l'immagine statica si sblocchi.
+[shinterland] Prendo la lista, poi ci beviamo una birra per festeggiare.
+</file>
+  
+  <file path="home/autolog_reports" name="log0177_F.txt">
+[vope] Non ci crederesti neanche se te lo dicessi
+[r@$put1n] cosa?
+[r@$put1n] Funziona?
+[vope] Ho dei mercenari che bussano alla mia porta per il codice
+[r@$put1n] cazzo, sembra che tu sia entrato nelle grandi leghe!
+[r@$put1n] hai un buon stipendio?
+[vope] 12k, non male per due mesi di lavoro.
+[vope] Mi chiedo per cosa lo useranno
+[r@$put1n] probabilmente per svuotare i tuoi conti bancari
+[vope] buona fortuna, non ho soldi da rubare lol.
+
+-- confermato falso --
+</file>
+  
+  <file path="home/autolog_reports" name="log01009.txt">
+[felix] Va bene per me, ora che hanno licenziato quell'idiota di Bill, sono al sicuro.
+[bleedingcool] Fantastico. 
+[felix] Ho sempre odiato Bill. Mi hai fatto un favore.
+[bleedingcool] Per non parlare della bustarella di 10k, giusto?
+[felix] Si', anche questo ha aiutato...
+[felix] Quindi siamo a posto?
+[bleedingcool] Siamo pari. Ho mesi di scoop qui. Ti richiamero' l'anno prossimo quando uscira' il nuovo film di Brisby.
+[felix] Ciao, boss.
+</file>
+  
+</Computer>

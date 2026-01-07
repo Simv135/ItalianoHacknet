@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="alphaCredits">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <email>
+    <sender>Alehanders</sender>
+    <subject>Re: La Fine</subject>
+    <body>
+Ah, un'altra cosa...
+
+So che hai hackerato Hacknet.
+
+Non succede niente, davvero. So che ci sono molte ragioni per farlo, e non giudichero' assolutamente nessuno perche' e' senza soldi, o per non avere fiducia nello stato dei giochi indipendenti di oggi.
+
+Pero'... Ho fatto Hacknet praticamente da solo e le sue vendite servono a finanziare direttamente progetti futuri e aggiornamenti. Se ti e' piaciuto il gioco, se puoi, facci un pensierino e acquistalo!
+
+Se sei contro il digital rights management (DRM), il gioco e' disponibile senza DRM su GOG.com e Humble Store, anche se la versione di Steam e' la mia preferita.
+
+Comunque, grazie per aver giocato. Spero che ti sia divertito tanto a giocarci quanto me a crearlo.
+
+-Alehanders
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

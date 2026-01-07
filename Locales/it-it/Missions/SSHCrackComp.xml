@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="portcrack01" name="Viper-Battlestation" security="0" type="4">
+
+  <dlink target="viperScanEarlyGame"/>
+  
+  <file path="bin" name="SSHcrack.exe">#SSH_CRACK#</file>
+  <file path="home" name="Youtubers.txt">
+Youtubers da controllare:
+
+captainspinifex
+rockleesmile
+northernlion
+officialcalemgames
+jonathancrowgamer
+
+  </file>
+  <file path="home" name="Note.txt">
+    Finalmente sono riuscito a caricare quel nuovo programma haxxor dal server che Gollum mi ha detto di fare!
+
+    Non vedo l'ora di provarlo, ma prima devo imparare ad usarlo.
+  </file>
+  <file path="home" name="asdf.txt">
+    Test di preparazione?
+    199.59.149.230
+    Server Proxy
+    
+    ..
+    
+    Mi serve qualcosa per sovraccaricarlo, forse?
+    Devo continuare a indagare. Forse c'e' un programma che mi possa aiutare? Chiedero' piu' soldi...
+  </file>
+  <file path="home" name="EmailDraft.txt">
+    Papa',
+    Mi dispiace di non averti inviato email ogni tanto - Ero molto impegnato con la scuola, quest'anno e' difficile, ma sto bene.
+    In effetti, volevo chiederti un aiuto: ho bisogno di un nuovo software per un progetto scolastico. Si chiama 'FTPBounce.exe'. E' molto utile! Ma un po' costoso, e non mi e' rimasto nulla dei soldi che mi hai mandato l'ultima volta - tutti questi software per il progetto IT sono costosi.
+    C'e' una possibilita' che tu possa inviarmi altri $2000 sul mio account? Mi sarebbe di grande aiuto.
+
+    Grazie!
+    Ti amo,
+    Tim
+  </file>
+  
+  <file path="home/work" name="jasperlog.txt">
+[viper] hai i codici che ti ho chiesto?
+[jasper] hai i soldi?
+[viper] sono pronti per il trasferimento
+[jasper] ho caricato la prima meta' sul server. Una volta completato il trasferimento, carichero' il resto.
+[viper] OK, sto testando i codici... 
+[viper] fantastico, funzionano.
+[jasper] posso avere i miei soldi ora?
+[viper] inviati.
+[jasper] ricevuti. Chi l'avrebbe pensato "Call of Soldier" quest'anno sarebbe un grande successo.
+[viper] il migliore dell'anno.
+[jasper] gamers.
+  </file>
+  
+  <file path="home/work" name="TARGET.txt">
+[viper] Voglio un rimborso.
+[cs#1575] Mi dispiace signore, non possiamo fare un rimborso per un cambio di opinione.
+[cs#1575] Posso suggerire di ri-elencare l'articolo in J-Bay?
+[viper] Non voglio elencare l'articolo sul tuo dannato sito di aste.
+[viper] Te l'ho detto, ho premuto accidentalmente il pulsante per metterlo all'asta invece che il pulsante per osservare.
+[cs#1575] Mi dispiace molto, signore, ma la nostra politica non copre il premere i pulsanti accidentalmente.
+[cs#1575] Quindi devi accettare che Penetrator 9000 e' tuo o puoi provare a recuperare i tuoi soldi vendendolo all'asta.
+[viper] Si sono messi contro il cliente sbagliato. Ti faro' rimpiangere questo giorno.
+[cs#1575] Grazie, Signore, e le auguro una buona giornata.
+  </file>
+  
+    <file path="home/work" name="ripped_prerelease.log">
+[glaylor] HAI ROVINATO TUTTO.
+[glaylor] 18 MESI DI SVILUPPO
+[glaylor] 3 MILIONI DI DOLLARI
+[glaylor] PER UN GIOCO DOVE OSSERVARE SCHERMI DI TELEFONO PORTATILI
+[glaylor] ..................
+[glaylor] FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+[hoops] Ehi, calmati, amico, la gente lo adorera'.
+[hoops] e' come una critica al mondo di oggi.
+[hoops] Tipo, hai camminato per strada ultimamente?
+[hoops] Tutti guardano il telefono dall'alto in basso, non se ne accorgono.
+[hoops] Cosi' abbiamo progettato un gioco che ti fa guidare, camminare, sparare e hackerare mentre guardi costantemente il tuo telefono.
+[hoops] e' geniale!
+[glaylor] Il consiglio chiedera' la mia testa per questo.
+[glaylor] e' meglio dargli un buon nome.
+[glaylor] E una visione hardcore..
+[glaylor] E aggiungiamo qualche esplorazione. I bambini lo adorano.
+  </file>
+  
+  <file path="home/work" name="seb.txt" EduSafe="false">
+[viper] Com'e' andata?
+[lilsebastian] e' stato un incubo..
+[viper] Perche'?
+[lilsebastian] Abbiamo passato tutta la notte in macchina. e' stato super romantico.
+[lilsebastian] Poi abbiamo iniziato a baciarci.
+[lilsebastian] Poi abbiamo iniziato a farlo... hai capito..
+[lilsebastian] E poi...
+[viper] Cosa?
+[viper] Sputa il rospo!
+[lilsebastian] Ehh, e' finita prima del previsto. Anche con i vestiti addosso.
+[viper]......
+[viper]......
+[viper] HAHAHAHAHAHHAHAHAHAHAHHAA
+[lilsebastian] Sta' zitto.
+[viper] Amico, non ammetterlo mai a nessuno.
+[viper] Sei fortunato che siamo amici, altrimenti direi quella storia a tutti.
+[viper] Ad ogni modo, devo andare. Devo continuare con il codice.
+[lilsebastian] Bene. Ci vediamo domani a scuola.
+[viper] Non arrivare troppo presto.
+  </file>
+  
+  <eosDevice name="ePhone 4S di Tim">
+    <note>Numero di Porte
+Browser Web e servizi Web: 80 (a volte 8080?)
+SSH: 22 (####programma per la)
+FTP: 21
+SQL: 1433
+    </note>
+    <note>entropy
+una classe di hacker?
+sembra piccolo e non ci sono molte notizie su di loro?
+Tranne Slashbot, li odi per qualche motivo?
+"trova e sconfiggi il nostro server di prova" - come?
+Nessun altro dettaglio sul forum?
+
+Potrebbe essere indicizzato da qualche parte? Hai trovato dei registri di rete e dell'entropy?
+    </note>
+    <note>daves
+H22 a Westfield st (stop 22)
+4:25 - 5:12
+4:55 e.30m
+    </note>
+  </eosDevice>
+</Computer>

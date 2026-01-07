@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="bitMission01">
+  <goals>
+    <goal type="FileDeletion" target="bitMission01" file="@18907_Connection_From_XXX.XXX.XXX.XXX" path="log" />
+    <goal type="FileDeletion" target="bitMission01" file="@18922_XXX.XXX.XXX.XXX_Given_Administrator_Access" path="log" />
+    <goal type="FileDeletion" target="bitMission01" file="@18928_XXX.XXX.XXX.XXX_Accessed_File_[Valence_Dossier.pdf]" path="log" />
+    <goal type="FileDeletion" target="bitMission01" file="@19002_XXX.XXX.XXX.XXX_Deleted_File_[Valence_Dossier.pdf]" path="log" />
+    <goal type="FileDeletion" target="bitMission01" file="@19002_XXX.XXX.XXX.XXX_Disconnected" path="log" />
+  </goals>
+  <nextMission>BitMission2.xml</nextMission>
+  <branchMissions>
+    <branch>BitMission2.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Bit</sender>
+    <subject>Qualcosa in cambio</subject>
+    <body>Ottimo lavoro! e' qui che diventera' dura...
+
+Devo chiederti un favore.
+Sono stato un po' negligente ultimamente, il che mi ha messo in questo casino. e' per questo che lo sto scrivendo, credo. Comunque, il punto e' che ci sono dei registri su un paio di computer che preferirei non ci fossero.
+Ricorda, se dimentichi tutto quello che ti ho detto, non essere negligente. Cancella i tuoi registri. Se non l'hai fatto, inizia ora – tutto quello che fai su qualsiasi sistema operativo corrente viene salvato nella cartella ~/log. Basta andare nella cartella e digitare >rm *. Non dimenticarlo mai.
+
+Grazie. Buona fortuna!
+
+--Bit
+0
+      
+    </body>
+    <attachments>
+	<note title="Dettagli richiesti">Elimina tutti i file nella cartella ~/log del computer di destinazione.
+Il comando "rm *" cancella tutti i file nella cartella in cui ti trovi – usalo con cautela!
+    </note>
+      <link comp="bitMission01" />
+    </attachments>
+  </email>
+</mission>

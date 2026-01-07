@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="bitMissionIntro">
+  <goals>
+    <goal type="FileDeletion" target="playerComp" file="SecurityTracer.exe" path="bin"/>
+  </goals>
+  <nextMission>SSHCrackMission.xml</nextMission>
+  <branchMissions>
+    <branch>BitMission2.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Bit</sender>
+    <subject>Primo contatto</subject>
+    <body>Ciao.
+
+Non ti conosco, e mi rattrista dire che non lo faro' mai, ma se stai leggendo questo significa che potresti essere l'unica persona in grado di risolvere tutto.
+
+In questo momento sono bloccato. Non c'e' via d'uscita, non c'e' abbastanza tempo e ho bisogno del tuo aiuto.
+
+Ma c'e' qualcosa che prima devi prendere in carico – prima lo fai, meglio e'.
+Hacknets non dovrebbe essere lanciato in questo modo – tra poco un localizzatore automatico sara' attivato – non possiamo permettere che questo accada.
+Connettiti al tuo nodo (dovrebbe apparire verde nella tua netMap), quindi cerca ed elimina il file "SecurityTracer.exe".
+
+Quando lo hai fatto, rispondi semplicemente a questa email.
+
+Sbrigati!
+-Bit
+0
+    </body>
+    <attachments>
+      <note title="Guida di navigazione Hacknet">Guida di navigazione Hacknet
+      
+Usa il modulo di visualizzazione o il comando "cd [Nome cartella]" e "cat [Nome File]" per navigare e leggere i file.
+
+Elimina i file usando "rm [Nome del file]"
+
+Il tasto Tab puo' essere utilizzato per il completamento automatico dei comandi e dei nomi dei file.
+      </note>
+    </attachments>
+  </email>
+</mission>

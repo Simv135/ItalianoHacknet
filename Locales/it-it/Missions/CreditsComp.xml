@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="creditsComp" name="Server dei Crediti" ip="226.187.99.3" security="0" icon="chip" allowsDefaultBootModule="false" type="4">
+
+  <dlink target="academic"/>
+  <dlink target="deathRow"/>
+  <dlink target="ispComp"/>
+  <dlink target="medical"/>
+  <dlink target="jmail"/>
+  
+  <SongChangerDaemon/>
+  <ports>21, 22, 25, 80, 1433, 104, 3724</ports>
+  
+  <file path="bin" name="SSHcrack.exe">#SSH_CRACK#</file>
+  <file path="bin" name="FTPBounce.exe">#FTP_CRACK#</file>
+  <file path="bin" name="SMTPOverflow.exe">#SMTP_CRACK#</file>
+  <file path="bin" name="WebServerWorm.exe">#WEB_CRACK#</file>
+  <file path="bin" name="SQL_MemCorrupt.exe">#SQL_CRACK#</file>
+  <file path="bin" name="KBTPortTest.exe">#MEDICAL_PROGRAM#</file>
+  <file path="bin" name="SecurityTracer.exe">#SECURITYTRACER_PROGRAM#</file>
+
+  <file path="sys" name="x-server.sys">#MINT_THEME#</file>
+  <file path="home" name="Credits.txt">-- Hacknet --
+^Un Gioco Di
+%MATT TROBBIANI
+
+^Logo, Scrittura Assistita, Testing
+Sarah Riggall
+
+^Mockup Grafico
+Jeremy Mitchell
+
+^Scrittura Aggiuntiva
+Stephen "Hellerphant" Heller
+
+^-Musica-
+
+^The Otherworld Agency
+Fabian Malabello 
+$Fondatore e Direttore Amministrativo
+
+Grazie a Rumblefish Inc.
+- Cinematrik
+"The Quickening" di Cinematrik (RFID15710)
+"Revolve (R Mix)" di Cinematrik (RFID15810)
+
+- Rico Puestel
+Roja Drifts By (Timo Jahns Strings Remix)
+PSTL001
+(C) 2014 Ponsactrilau
+
+- Tonspender
+"Broken Boy" - examples EP
+"Irritations" - examples EP
+
+- Chris Larkin
+Registrazione discorso finale e accompagnamento
+Traccia dei crediti di Hacknet
+
+ROLLER MOBSTER
+(Franck Hueso)
+Interpretata da
+- Carpenter Brut
+(p) No Quarter
+Con permesso di Warner Chappell Music France
+
+- Ryan Burge
+Recursion
+Phase of the moon
+
+- Remi Gallego (AKA The Algorithm)
+Panic Track
+Malware Injection
+
+- Matt Mclean
+Feeding Ear | Out run the wolves
+
+- Sean Gillespie
+TETRAMETH
+
+Ringraziamenti speciali per l'ispirazione da
+www.ccmixter.org
+
+^-Sfondi-
+"Been Away Too Long" - Tema Bianco
+"Journey" - Tema Verde
+Entrambi di Angelus-Hellion
+angelus-hellion.deviantart.com
+
+^-Effetti Sonori-
+Dark Drone 008
+mckinneysound - http://www.freesfx.co.uk
+ECG Ospedaliero
+https://www.sounddogs.com/sound-effects-library/2175.htm
+https://www.sounddogs.com
+Doom Shock + TraceKill
+Ispirazione da
+http://www.kyutwo.com
+Audiojungle.com
+Droni e Transizioni
+
+Grazie a Wertstahl per effetti sonori aggiuntivi
+
+^-Porting e FNA-
+Ethan "flibitijibibo" Lee
+
+^-Testing e Ringraziamenti-
+Elle Dunbar
+Chris Johnson
+Tristan "tijit" Trabilsie
+Jamie Williamson
+Alex Mackay
+Noblekale
+Sam Crisp
+Dylan Sale
+Richard Taylor
+Ben Kislby
+Matt LeKrupa
+Brad Wesson
+Jamie Pillianaros
+Giselle Rosman
+Bec Pelvay
+Ben Carter
+Stephen Trobbiani
+Gib Trobbiani
+Laura Trobbiani
+Ben Trobbiani
+Aidan "Aidy" Coxon
+
+^-Tester Internazionali-
+Quinton Porter
+Radek Golan
+Player Fero
+Jacob Johnson
+Daniel Lieberwirth
+BirdCute
+Andreas Lenhardt
+Rain Shatter
+Colamaeleon
+
+^-Tester delle Porte-
+Ladislav Vydra  -  Richard Baalman  -  Willem-Jan Zijderveld
+Lukasz Klatka  -  Lucia Fabiola Martinez Fajardo  -  Michael Tanzer
+Ambidotus Insignis  -  Barrett Eckhart  -  Heide Queen
+Willem-Jan Zijderveld  -  Daniel Sapelli  -  Kacper Tonia
+Sean Mackedie  -  TECHNO vids  -  Derek Power
+Alexander Ford - Matthieu Rose
+
+^-Traduttori-
+ - Game Scribes - 
+Team guidato da William Farrell
+Ringraziamenti speciali a Colamaeleon per coordinazione e testing
+
+^Tedesco
+ - Hanna Siek - 
+Sebastian Raake
+Thomas Jager
+jonasschloemer
+
+^Olandese
+Master Grid
+
+^Francese
+- Pierre Cholet -
+The Corsaire
+jdbarte
+Wk Slicex
+Aokami
+
+^Spagnolo
+Nahuel Peruzzo
+Victor Sanchez Collado
+Wazbat
+Adam
+delaguila fernando
+
+^Italiano
+Simv135
+
+^- Pubblicato da : Surprise Attack Games -
+
+Chris Wright
+$Direttore Amministrativo, Surprise Attack Games
+
+Stephen Heller
+$Product Manager e Community Manager, Surprise Attack Games
+
+Lex Suurland
+$Business Development Manager, Surprise Attack Games
+
+Fiona Murray
+$Finance Manager, Surprise Attack Games
+
+James Kozanecki
+$PR, Surprise Attack Games
+
+Travis Plane
+$Direttore, Surprise Attack Games
+
+Aaron Bertinetti
+$Direttore, Surprise Attack Games
+</file>
+
+<file path="home" name="Congratulations.txt">
+Congratulazioni! 
+
+Ho creato il prototipo di questo gioco in 48 ore per una sessione di gioco con i miei amici. Puoi trovare un video di me che crea il prototipo sul mio canale YouTube ("TheOrann"). 
+Ho ricevuto una risposta fantastica, quindi l'ho ampliato per diventare quello che hai appena completato in circa tre anni. Spero ti sia piaciuto!
+
+Se ti e' piaciuto (o no), fammelo sapere! Mi piacerebbe sapere cosa ne pensi. Il mio indirizzo email e' "matt@hacknet-os.com" e il mio Twitter e' @Orann. 
+
+Grazie e congratulazioni!
+ -Matt Trobbiani
+
+  </file>
+  
+  
+  <file path="home" name="Hidden_Stuff.txt">
+Ci sono alcuni trucchi non molto ben nascosti nel gioco che sono fondamentalmente resti o funzioni extra della fase di sviluppo che non sono una parte diretta del gioco principale. Eccone alcuni:
+
+--Apre il vassoio CD--
+Il comando "openCDTray" aprira' il vassoio del CD del computer a cui sei connesso. Se sei connesso al tuo computer, si aprira' il tuo lettore CD fisico. Questo funziona anche se sei connesso al computer di un avversario in modalita' multiplayer e lo esegui in quel momento! 
+Il comando "closeCDTray" lo chiude di nuovo.
+
+--Fork Bomb--
+C'e' un "virus" che ho scritto nel gioco per usarlo principalmente nella modalita' multiplayer chiamato ForkBomb che puo' essere eseguito sul nodo connesso con "exe forkbomb". Una volta eseguito, disattivera' quel nodo per 30 secondi! 
+Se lo lanci contro te stesso o contro un avversario in modalita' multiplayer, iniziera' a riempire la tua RAM velocemente. Se e' piena, riavviera' il computer (nel gioco). Se sei veloce, puoi identificare il PID del virus e usare il comando kill per disattivarlo prima che ti rovini completamente!
+
+--SecurityTracker.exe--
+Il file che hai eliminato nella prima missione, SecurityTracker.exe, e' un file eseguibile che inizia a tracciarti se lo esegui. Questo computer ha una copia del file nella cartella /bin se vuoi scaricarlo e provarlo. Assicurati di uccidere il processo rapidamente!
+
+--Generazione di nomi--
+I nomi dei computer e delle aziende in Hacknet sono generati proceduralmente da un elenco di possibili nomi principali e suffissi. Ogni volta che giochi sara' diverso! 
+Le missioni sul server Entropia sono alterate proceduralmente e diventano ogni volta uniche.
+
+--Coerenza interna--
+I server di gioco (come il server di posta elettronica) sono server che sono internamente coerenti con gli account e gli indirizzi email generati proceduralmente. 
+Prova a hackerare il server di posta a cui ti connetti continuamente (Jmail.com) e dai un'occhiata! Vediamo se riesci a decifrare il formato di archiviazione dei messaggi e-mail e come funziona il mio analizzatore. (Suggerimento: "@*[AMPERSAND]^#%@)_!_)*#^@![AMPERSAND]*)(#^[AMPERSAND]").
+
+--E molto altro!--
+I computer hanno file system che, anche se non incredibilmente complessi, di solito hanno alcune gemme. Esplora un po' per vedere cosa riesci a trovare!
+  </file>
+  
+  <file path="home" name="SecretPath.txt">
+C'e' un grande percorso segreto in Hacknet che e' essenzialmente una terza fazione. Se stai cercando di piu', prova a giocare di nuovo ed essere piu' aggressivo. Cerca i segreti piu' da vicino, soprattutto guardando come sono andate le cose, dove sono andate e da dove sono arrivate. 
+Tutte le persone e gli hacker possono essere rintracciati e indagati, se cerchi piu' a fondo.
+  </file>
+  
+  <file path="home" name="Thanks_Again.txt">
+
+    Grazie ancora!
+    Insisto, se ti e' piaciuto (o no) il gioco, scrivimi un'email a: "matt@hacknet-os.com".
+    Prometto che la leggero'!
+
+    Un rapido regalo se decidi di giocare di nuovo. C'e' un server a cui puoi accedere dall'inizio del gioco con tutti gli exploit di porte a cui puoi accedere: "1337.1337.1337.1337".
+
+    Grazie ancora!
+    -Matt Trobbiani
+  </file>
+  
+  <file path="home" name="Wallpapers.txt">
+Gli sfondi dei temi verdi e bianchi sono stati forniti dal grande artista Angelus-Hellion. 
+
+Troverai i due sfondi a piena risoluzione sulla sua pagina DEVIANTART,
+
+ http://angelus-hellion.deviantart.com
+
+  </file>
+  
+</Computer>
