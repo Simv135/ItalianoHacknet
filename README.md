@@ -4,7 +4,7 @@
 
 **Procedura di installazione:**
 
-1. **Sottoscrivi** l'estensione della traduzione.
+1. **Sottoscrivi** l'[estensione](https://steamcommunity.com/sharedfiles/filedetails/?id=3641295746) della traduzione.
 2. Vai al percorso:
    ```
    C:\Program Files (x86)\Steam\steamapps\workshop\content\365450\3641295746\
