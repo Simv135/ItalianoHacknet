@@ -1,4 +1,4 @@
-**Traduzione italiana (IT) di [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)**
+**Traduzione italiana (IT) di *[Hacknet](https://store.steampowered.com/app/365450/Hacknet/)***
 
 [![preview](https://github.com/user-attachments/assets/158ec32c-2c3a-41c6-b3ff-cefbdb82776a)](https://steamcommunity.com/sharedfiles/filedetails/?id=3641295746)
 
@@ -25,3 +25,7 @@
 - Missioni e dialoghi
 - Email e documenti di gioco
 - Testo del tutorial
+
+---
+
+*[Simv135 - Steam](https://steamcommunity.com/profiles/76561199195216664/)*
