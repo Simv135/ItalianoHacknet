@@ -1,0 +1,11 @@
+English,en-us,english
+Italian,it-it,italian
+German,de-de,german
+French,fr-be,french
+Russian,ru-ru,russian
+Spanish,es-ar,spanish
+Korean,ko-kr,koreana
+Japanese,ja-jp,japanese
+Chinese,zh-cn,schinese
+Turkish,tr-tr,turkish
+Dutch,nl-nl,dutch
