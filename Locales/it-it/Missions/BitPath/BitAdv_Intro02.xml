@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="bit02_Phase2">
+  <goals>
+    <goal type="getString" target="156.151.59.35"/>
+  </goals>
+  <nextMission>BitPath/BitAdv_Intro03.xml</nextMission>
+  <email>
+    <sender>V</sender>
+    <subject>Bit -- Conferma</subject>
+    <body>Eccellente.
+    
+TraceKill, come suggerisce il nome, devia la traccia attiva contro di te mentre e' in esecuzione. Dovrebbe renderti il lavoro molto piu' facile. 
+
+Iniziamo. 
+
+Ho indagato un po', dopo l'ultima operazione – hai visto anche il messaggio – hai scoperto cosa stava succedendo. In breve, l'idea che cio' che accadeva fosse legato a questo lavoro era abbastanza per cominciare. Ho fatto un po' di tracciamento e ho trovato un elenco di server o relay; Non so quanti terminali virtuali sono in esecuzione sulla stessa macchina, ma e' un buon inizio. 
+Il piu' promettente e' uno il cui collegamento e' alla fine. e' un server di lavoro personale, qualcosa che stava usando per salvare, in apparenza, copie dei repository di controllo delle versioni su cui stava lavorando. 
+Questo potrebbe persino essere un indizio. Chi salva le copie di backup di una soluzione VC da un'azienda? Posso solo pensare a tre casi. O sei responsabile se sbagliano perche' sei circondato da incompetenti e vuoi essere sicuro, o hai bisogno dei tuoi backup e dei registri per motivi legali o sei preoccupato per qualcosa e vuoi dei registri in caso qualcosa fallisca. 
+
+Comunque, questo sembra il posto giusto per iniziare a scavare. Vuoi dare un'occhiata?  Anch'io ho guardato un po', ma non ho trovato niente di concreto. 
+
+Non sono riuscito a decifrare i dump del repository. Dimmi se trovi qualcosa, mandami l'indirizzo IP di qualsiasi cosa strana che trovi.
+
+ -V 
+    </body>
+    <attachments>
+      <link comp="BitWorkServer"/>
+    </attachments>
+  </email>
+</mission>

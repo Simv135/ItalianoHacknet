@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="EnTechPrometheus" name="En_Prometheus" security="5" ip="156.151.1.1">
+
+  <adminPass pass="d88vAnnX"/>
+
+  <dlink target="enMail"/>
+  <ports>80, 22, 1433, 25, 21</ports>
+  <portsForCrack val="9999999"/>
+  <trace time="500"/>
+
+  <positionNear target="EnTechMainframe" position="3" total="6"/>
+
+  <file path="STORE/Hacknet_Project" name="Hacknet_NetCore.dll">#BINARY##BINARY#</file>
+  <file path="STORE/Hacknet_Project" name="HN_Connect_doc.txt">Progetto Hacknet
+--Riservato da EnTech--
+
+COMANDO: "connect" 
+Da utilizzare come contenitore su canali di connessione remota (solitamente SSH) per combinare metodi di connessione a servizi esterni. 
+Il comando dovrebbe analizzare le porte disponibili e i servizi supportati per trovare un metodo di connessione valido e utilizzarlo,
+ che avvolge l'output per emulare una connessione standardizzata. 
+In effetti, i metodi di connessione di Hacknet dovrebbero sembrare universali e standardizzati, ma alla fine e' in grado di utilizzare tutti i metodi di connessione 
+comune (e non comune) ai servizi dell'utente praticamente su qualsiasi cosa.
+  </file>
+    <file path="STORE/Hacknet_Project" name="HN_Connect_TESTGUIDE.txt">Progetto Hacknet
+--Riservato da EnTech--
+
+COMANDO: "connect" 
+GUIDA DI PROVA: 
+
+Oltre alla connessione tra le postazioni di lavoro e i server host dell'azienda, dobbiamo anche abilitare la connessione a dispositivi wireless e limitati dal sistema operativo. 
+Il nostro piano di test comprende servizi di connessione a vari dispositivi mobili (alcuni hackerati, alcuni di fabbrica).  Questi dispositivi sono sincronizzati con Prometheus
+dal personale del supporto tecnico, e se ne avete bisogno per i test (controllando l'uscita fisica, dovreste essere in grado di connettervi da qualsiasi luogo), contattate il team del server.
+  </file>
+  
+  <file path="STORE/Hacknet_Project" name="SyncedDevices.txt">Progetto Hacknet
+--Riservato da EnTech-- 
+
+I dispositivi mobili e wireless utilizzati nei test del modulo di connessione Hacknet devono essere sincronizzati con questo server (inclusi tutti i dispositivi eOS). 
+Di tanto in tanto li formatteremo tutti (non si sa mai) ed e' meglio farlo da qui; non accoppiateli con altre macchine! 
+I dispositivi sono spesso intorno al tavolo perche' le persone ci lavorano, ma se si esaurisce la batteria, bisogna formattarli o sincronizzarli di nuovo, farlo sempre con Prometheus.
+  </file>
+  
+  <file path="STORE/Hacknet_Project" name="Hacknet_Project_Contacts.txt">Progetto Hacknet
+--Riservato a EnTech--
+
+Contatti e fonti 
+
+A causa della natura confidenziale del progetto Hacknet (e del rigoroso accordo di riservatezza firmato da tutte le parti coinvolte), le richieste di informazioni, le richieste di modifica delle funzioni e le questioni di gestione devono essere inviate alla mailbox del team di gestione Hacknet: 
+hnManager@entech.com 
+Da qui sara' inviata a tutti i dipendenti interessati, alcuni dei quali potranno contattarvi personalmente se e' rilevante per il vostro settore.
+
+  </file>
+
+  <file path="STORE/EnSec_Project" name="EnSec_Invioability_Project.txt">
+Il progetto EnSec Invioability e' un livello di sicurezza a livello di OS attraverso il quale passano tutti i tentativi di autenticazione e i comandi di gestione, fornendo un livello unico di protezione di sicurezza per i sistemi contro tutti i metodi convenzionali (e molti non convenzionali) di penetrazione e violazione della sicurezza. 
+Il progetto mira ad essere completamente trasparente per gli utenti finali (tranne in caso di aggiornamenti di emergenza, che vengono mantenuti da EnTech Inc. tramite abbonamento) e fornisce una sicurezza assoluta per i sistemi sensibili e riservati. 
+
+Insieme al progetto Hacknet, che mira a dimostrare le falle degli attuali sistemi di sicurezza, EnSec mostra chiaramente il perche' dovrebbe essere, e sara', il nuovo standard minimo accettato di vera sicurezza e fiducia digitale.
+
+ - EnSec - 
+ La liberta' che vuoi, la sicurezza che ti meriti.
+  </file>
+
+  <file path="STORE/EnSec_Project" name="EnSec_Core_11-05.dll">#BINARY#</file>
+  
+  
+  
+  <eosDevice id="enPrometheus_eos1" name="ePhone 4S di ENTECH_TEST_01">
+    <note>pass
+1
+1
+3</note>
+    <note>HN 
+Questo dispositivo e' configurato come ePhone 4S 
+standard non hackerato. Se il collegamento si interrompe senza interferenze esterne, e non vi sono metodi di collegamento
+ aprire il terminale.</note>
+    <mail username="nstanford@entech.com" pass="murloc33"/>
+  </eosDevice>
+  
+  <eosDevice id="enPrometheus_eos2" name="ePhone 4S di ENTECH_TEST_02">
+    <note>HN 
+Questo dispositivo e' configurato come ePhone 4S 
+hacking personalizzato. Il collegamento deve essere effettuato poiche' questo dispositivo e' stato modificato per consentire i collegamenti SSH.</note>
+    <note>UTILIZZO - Avviso 
+NOTA: Questo dispositivo e' *intenzionalmente non sicuro* a scopo di test. NON deve essere collegato 
+a qualsiasi servizio interno o sistema di posta elettronica, e NON deve memorizzare dati sensibili di sviluppo o di test.</note>
+    <note>Test di creazione a distanza
+ asdf asdf asdf scrivere una nota a distanza</note>
+    <note>Test remoto 2
+12345678</note>
+  </eosDevice>
+  
+</Computer>

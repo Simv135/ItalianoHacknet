@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="EnTechOutsiderRepo" name="Server di ritrasmissione per contraenti esterni d'EnTech" security="5" ip="156.151.59.35">
+
+  <adminPass pass="ax889msjA"/>
+
+  <ports>80, 22, 1433, 25, 21</ports>
+  <portsForCrack val="9999999"/>
+  <trace time="500"/>
+
+  <positionNear target="EnTechMainframe" position="1" total="6"/>
+
+  <encryptedFile path="Contractors/Bit" name="heart.dec" ip="23.236.62.147" extension=".txt" header="Bitwise / ultime parole" pass="divingsparrow">
+Ti scrivo confidando di averti detto questa password e che sei la persona che spero tu sia. E perche' e' tutto cio' per cui devo lavorare ora. 
+Grazie di essere venuto. Sembra un compito arduo perche' chiunque puo' leggere, ma credo che io stia facendo molto ultimamente. 
+In breve, se stai leggendo questo, e' accaduto il peggio, e ho bisogno di aiuto. Devi esserti imbattuto nei file che parlano di EnTech, e spero che tu la pensi come me. Hai visto che EnSec e' gia' molto bravo. Una volta che sara' completamente diffuso, mi chiedo quante delle nostre liberta' svaniranno. 
+Non e'... necessariamente sbagliato. Per me va bene, anche a molti livelli. Li rispetto per cercare di mettere in sicurezza il mondo, anche se mi impedisce di usare i miei talenti. 
+
+Ma non in questo modo. 
+
+Il problema e' il progetto Hacknet.  e' fantastico creare una buona sicurezza, e' persino accettabile averci un grande controllo e sul suo utilizzo. Ma rompere tutto tranne quello che hai fatto non lo e'. 
+Prima che me ne rendessi conto, avevo contribuito troppo a Hacknet. e' stato un progetto incredibile, divertente e stimolante e hanno utilizzato tutte le loro risorse senza sosta. Un progetto incredibile su cui lavorare. E ho fatto qualcosa di incredibile. 
+Si chiama "Porthack", e' fondamentalmente una somma delle mie conoscenze e abilita', che apre le porte a praticamente tutto.
+
+ Dopo un po' di tempo ero curioso e sono entrato nel sistema centrale, e ho compilato tutto, forse e' la prima versione "completa" che e' stata fatta del progetto con un Porthack completo.... 
+Non e' difficile vedere cosa succede da qui: completando questo, HackNet lancia in qualche modo il mondo nel caos totale e la nostra unica possibilita' per evitare la caduta della sicurezza digitale in questo folle monopolio ci sfugge. 
+Quello che abbiamo non e' perfetto, e la sicurezza di EnTech e' buona, ma HackNet rovina tutto, e se non ci fermiamo adesso, potrebbe essere troppo tardi per fermare tutto. 
+
+L'account email del Presidente spiega il resto. 
+
+Utente: rc@entech.com 
+Password: "byC89kMMe" 
+
+Ti prego, aiutami, 
+-Bit
+0
+</encryptedFile>
+
+  <file path="Contractors/teja" name=".gitkeep">#questo file e' intenzionalmente vuoto per assicurarsi che questa cartella rimanga attiva in Git una volta rimosso il contenuto</file>
+  
+</Computer>

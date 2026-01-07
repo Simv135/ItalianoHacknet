@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="EnWS04" name="Stazione di lavoro di EnTech _008" security="5" type="3" ip="156.151.0.42">
+
+  <ports>80, 22, 104</ports>
+
+  <portsForCrack val="3"/>
+
+  <trace time="78"/>
+
+  <admin type="fast" resetPassword="true" isSuper="true"/>
+  
+  <file path="WORKSTATION/store" name="comp.bin">#BINARY#</file>
+  <file path="WORKSTATION/store" name="MedStreamRef.txt">Dopo la nostra conversazione, ecco il mio permesso scritto per tenere aperta la comunicazione sulla vostra scrivania. Come abbiamo discusso, conservatene una copia a livello locale per mostrarla a chiunque vi faccia domande. Se non vi credono, mandateli da me. 
+Per chi lo legge, l'operatore della postazione 008, un certo Sig. Jorioni, soffre di una grave malattia cardiaca. Il software che lo aiuta a monitorare invia i dati alla sua postazione di lavoro, che ho aiutato a configurare in modo da poter monitorare le sue condizioni in caso di emergenza. 
+Abbiamo fatto uno sforzo eccezionale per aiutare il Sig. Jorioni a trovare una posizione qui come parte della nostra nuova "Diversita' del luogo di lavoro". 
+Qualsiasi problema con la vostra configurazione potra' essere indirizzato a me personalmente. 
+
+-D. Tagg, 
+Direttore di Risorse Umane
+  </file>
+  <file path="WORKSTATION/store" name="StoreServIPs.txt">--SERVER DI ARCHIVIAZIONE IP--
+Prometheus (archiviazione del progetto di sviluppo in corso)
+156.151.1.1
+
+Romulus (server di distribuzione/compilazione (anche caricamento della versione di distribuzione))
+156.151.1.12
+  </file>
+  <file path="WORKSTATION/store" name="AssetPack_012.zip">#BINARY##BINARY#</file>
+  <file path="WORKSTATION/store" name="AssetPack_013.zip">#BINARY##BINARY#</file>
+  <file path="WORKSTATION/store" name="Prometheus.txt">
+    d88vAnnX
+  </file>
+  <file path="WORKSTATION/hn_os" name="Hacknet_NetCore.dll">#BINARY##BINARY#</file>
+  
+
+  <positionNear target="EnTechWSCore" position="8" total="12"/>
+
+</Computer>

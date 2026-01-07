@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="bit02_Phase5">
+  <goals>
+    <goal type="getString" target="ax889msjA"/>
+  </goals>
+  <nextMission>BitPath/BitAdv_Intro06.xml</nextMission>
+  <email>
+    <sender>V</sender>
+    <subject>Bit -- Propagazione</subject>
+    <body>Stai guardando questa rete? 
+Questa nuova sicurezza e' praticamente ovunque, ma ci sto riuscendo. Ci sono ancora dei buchi, ma l'avanzamento e' lento. 
+
+Ho allegato l'IP di cio' che sto guardando in questo momento. Dal lato a cui sto accedendo, non vedo ancora lacune, hai avuto piu' fortuna? 
+Se trovi la password dell'amministratore, rispondi a questo messaggio. Ho la sensazione che questo server sia la chiave per capire dove Bit si inserisce in tutto questo. 
+
+Questo "Progetto Hacknet" sembra piuttosto preoccupante... Ne hai sentito parlare? Un SO riscritto... 
+Possiamo darci un'occhiata piu' tardi. Per il momento, vedi se riesci ad entrare in questo relay server; studieremo il nostro prossimo passo piu' tardi. 
+
+Guarderei sicuramente i server di produzione e archiviazione: "Prometheus" e "Romulus", ecc. Potresti avere accesso da qualche parte.
+
+ Buona fortuna,
+ -V
+    </body>
+    <attachments>
+      <link comp="EnTechOutsiderRepo"/>
+    </attachments>
+  </email>
+</mission>
