@@ -18,7 +18,7 @@
 ---
 
 **Contenuto della traduzione:**
-La mod include la localizzazione completa in italiano di:
+
 - Menu e interfaccia utente
 - Missioni e dialoghi
 - Email e documenti di gioco
