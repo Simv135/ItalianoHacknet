@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Computer id="advExamplePC"
+          name="Esempio PC Estensione"
+          ip="167.194.132.7"
+          security="2"
+          allowsDefaultBootModule="false"
+          icon="chip"
+          type="1">
+  <!-- 1 = aziendale, 2 = casa, 3 = server, 4 = vuoto -->
+  <!-- icon: se non specificato, usa l'icona predefinita in base al livello di sicurezza:
+  laptop
+  chip
+  kellis
+  tablet
+  ePhone
+  ePhone2-->
+
+  <!--
+  Security e' un numero da 0 a 5 che rappresenta quanto e' difficile hackerare il sistema.
+  Da 1 a 4 richiedera' quel numero di porte da aprire, 4 e oltre aggiungera' automaticamente
+  altre misure di sicurezza per scalare facilmente, puoi sovrascrivere le impostazioni specifiche sotto (consigliato).
+
+  AllowsDefaultBootModule e' impostato su true di default e significa che quando ti connetti a un nodo
+  lancera' automaticamente il suo programma (l'ultimo demone definito in questo file) e
+  lo mostrera' sul modulo di visualizzazione.
+  Poiche' questo computer di esempio mostra molte funzionalita', l'ho impostato su false qui.
+  -->
+
+  <!-- Account -->
+  <adminPass pass="password"/>
+  <account username="Matt" password="testpass" type="1"/>
+  <!-- Aggiunge un account a questo computer.
+  Type rappresenta i privilegi:
+  ADMIN = 0;
+  ALL = 1;
+  MAIL = 2;
+  MISSIONLIST = 3;
+  -->
+  <account username="mailGuy" password="mailPass" type="2"/>
+  <!-- Crea account per il server di posta in questo modo -->
+
+  <!-- Sicurezza -->
+  <ports>80, 22</ports>
+  <proxy time="2"/>
+  <!-- Server proxy. Imposta il valore a -1 per rimuoverlo -->
+  <portsForCrack val="2"/>
+  <!-- Numero di porte da aprire per permettere l'esecuzione di porthack -->
+  <firewall level="6" solution="Scypio" additionalTime="1.0"/>
+  <!-- Aggiunge un firewall - imposta level a -1 per rimuoverlo.
+      Solution e' la soluzione che il giocatore dovra' trovare per violarlo,
+      il livello idealmente dovrebbe essere uguale alla lunghezza della soluzione, ma puo' essere piu' lungo
+      (non piu' corto pero'!) - additional time e' il tempo extra non standard di valutazione
+      per step di cui il risolutore Hacknet avra' bisogno -->
+  <trace time="300"/>
+  <!-- Aggiunge un timer di tracciamento - imposta a -1 per rimuoverlo -->
+  <admin type="fast" resetPassword="false" isSuper="false"/>
+  <!-- Aggiunta amministratore automatico - questo resetta le porte e le impostazioni quando il giocatore
+  si disconnette. I tipi disponibili sono "basic" e "fast" - basic resetta solo dopo
+  15 secondi circa.
+  Gli amministratori super ripristinano le password istantaneamente in modalita' fast
+  -->
+
+  <!-- Rete -->
+  <dlink target="advExamplePC2"/>
+  <!-- Collega questo computer a un altro (in modo unidirezionale) - se lo scannerizzi rivela i collegamenti -->
+
+  <positionNear target="advExamplePC2" position="1" total="3" extraDistance="0.1"/>
+  <!-- Posiziona questo computer vicino al bersaglio sulla mappa di rete
+       Position e' la sua posizione radiale attorno ad esso, e total e' il
+       numero di nodi disposti radialmente che ha - in questo modo puoi creare
+       reti dall'aspetto interessante
+
+       ExtraDistance dovrebbe essere tra -0.6 e 0.3 - valori piu' grandi appariranno molto distanti e possono causare problemi.
+       0.1 e' una buona distanza.
+       -->
+
+  <!-- File -->
+  <file path="home" name="Test_File">Questo e' un file di prova nella directory home</file>
+  <file path="bin" name="Binary_File">#BINARY#</file>
+  <file path="home/NewDirectory" name="Test_File">
+    Questo e' un file piu' lungo che crea anche una nuova directory aggiungendo qualcosa al percorso
+
+    #BINARY#
+    Questo genera del codice binario (2000 caratteri)
+
+    #BINARYSMALL#
+    Questo genera del codice binario (1000 caratteri)
+
+    #PLAYER_IP#
+    Diventa l'IP del computer del giocatore
+
+    #PLAYERNAME#
+    la stringa sopra si converte nel nome del giocatore
+
+    test test
+  </file>
+  <file path="bin" name="SSHCrack.exe">#SSH_CRACK#</file>
+  <file path="bin" name="FTPBounce.exe">#FTP_CRACK#</file>
+  <file path="bin" name="WebServerWorm.exe">#WEB_CRACK#</file>
+  <file path="bin" name="SMTPOverflow.exe">#SMTP_CRACK#</file>
+  <file path="bin" name="SQLBufferOverflow.exe">#SQL_CRACK#</file>
+  <file path="bin" name="HexClock.exe">#HEXCLOCK_EXE#</file>
+  <file path="bin" name="Clock.exe">#CLOCK_PROGRAM#</file>
+  <file path="bin" name="Decypher.exe">#DECYPHER_PROGRAM#</file>
+  <file path="bin" name="DECHead.exe">#DECHEAD_PROGRAM#</file>
+  <file path="bin" name="KBTPortTest.exe">#MEDICAL_PROGRAM#</file>
+
+  <!-- Temi -->
+  <file path="sys" name="White-Theme.sys">#WHITE_THEME#</file>
+  <file path="sys" name="Green-Theme.sys">#GREEN_THEME#</file>
+  <file path="sys" name="Yellow-Theme.sys">#YELLOW_THEME#</file>
+  <file path="sys" name="Teal-Theme.sys">#TEAL_THEME#</file>
+  <file path="sys" name="Base-Theme.sys">#BASE_THEME#</file>
+  <file path="sys" name="LE-Theme.sys">#PURPLE_THEME#</file>
+  <file path="sys" name="Mint-Theme.sys">#MINT_THEME#</file>
+
+  <!-- Varie -->
+  <file path="home" name="PacemakerFirmwareWorking.dll">#PACEMAKER_FW_WORKING#</file>
+  <file path="home" name="PacemakerFirmwareDanger.dll">#PACEMAKER_FW_DANGER#</file>
+
+  <!-- File tema personalizzati -->
+  <customthemefile path="sys" name="Custom_x-server.sys" themePath="Themes/TestTheme2.xml"/>
+
+  <encryptedFile path="home" name="encrypted_File.dec" extension=".txt" ip="192.168.1.1" header="Questa e' l'intestazione" pass="decryptionPassword">
+    Questo genera un file crittografato che puo' essere decrittato usando la password sopra
+  </encryptedFile>
+
+  <encryptedFile path="home" name="easy_encrypted_File.dec" ip="192.168.1.1" header="Questa e' l'intestazione">
+    Semplicemente non fornendo una password come in questo caso, puo' essere decrittato senza password
+  </encryptedFile>
+
+  <!-- Demoni -->
+  <!-- Questi sono i "programmi" in esecuzione sui nodi che fanno cose
+  e' improbabile che tu possa usare la maggior parte di questi poiche' non puoi cambiare il loro codice
+  ma eccone alcuni che potrebbero funzionare-->
+
+  <mailServer name="Esempio Server di Posta" color="50,237,212">
+    <email recipient="mailGuy" sender="Sender Guy" subject="Aggiunta di un'email!">
+      Questo e' il modo per aggiungere email al server di posta - accedendo con l'account di qualcuno
+      mostrera' queste email proprio come il giocatore riceve le email.
+    </email>
+    <email recipient="mailGuy" sender="Spam" subject="caratteristiche incredibili">
+      Puoi averne quante ne vuoi
+    </email>
+    <email recipient="Matt" sender="Spam" subject="caratteristiche incredibili">
+      Anche utenti diversi
+    </email>
+  </mailServer>
+
+  <!-- Aggiungere questa sezione creera' un secondo computer al caricamento, collegato a questo
+  che e' un dispositivo eos, completamente configurato, con questi file su di esso.
+  Generera' anche automaticamente alcune app e file di salvataggio e cose
+  per aggiungere dettagli.-->
+  <eosDevice name="ePhone 4S di Deliliah" id="eosIntroPhone" icon="ePhone2">
+    <note>
+      Nota di prova
+      Altro testo
+    </note>
+    <note>
+      Nomi file delle note
+      I nomi dei file delle note sono generati automaticamente prendendo la prima riga del file
+      (in questo caso "Nomi file delle note") e sostituendo gli spazi con underscore.
+    </note>
+    <mail username="test@jmail.com" pass="thisIstheaccountpass"/>
+    <mail username="test2@jmail.com" pass="YouCanHaveLotsOfThese"/>
+  </eosDevice>
+
+  <!--
+  <addOnlineWebServer name="Reddit" url="http://www.reddit.com"/>
+  -->
+  <!-- Questo aggiunge un riflesso di un sito web del mondo reale. Puoi avere solo un server web
+  per computer, quindi questo non lo avra'.-->
+
+  <uploadServerDaemon name="Upload Dropbox" folder="Drop"
+                      needsAuth="false" color="204,116,212"/>
+  <!-- Questo e' un tipo speciale di server che permette di caricare file su di esso
+       senza permessi di amministratore -->
+  <addWebServer name="Server Sito Web"
+                url="Content/Web/Presets/Nortron/NortronPublicPage.html"/>
+  <!-- I server web sono aggiunti cosi' - puoi aggiungere le tue pagine web nella cartella dei preset web
+  e farle apparire anche in gioco! renderizza correttamente l'html e tutto (anche se
+  non accetta ancora input).
+  Questo e' ancora un lavoro in corso per il supporto alle mod.-->
+
+  <!-- Il database dei condannati a morte carica una raccolta preimpostata di record -->
+  <deathRowDatabase/>
+
+  <academicDatabase/>
+
+  <ispSystem/>
+
+  <!-- Bacheca messaggi in stile /el -->
+  <messageBoard name="Nome Personalizzato della Bacheca!">
+    <thread>Nodes/MessageBoardThreads/ExampleThread1.txt</thread>
+    <thread>Nodes/MessageBoardThreads/ExampleThread2.txt</thread>
+  </messageBoard>
+
+  <MedicalDatabase/>
+
+  <!-- patient e' l'ID della persona - la loro iniziale del nome underscore, poi il cognome-->
+  <HeartMonitor patient="J_Stalvern"/>
+
+  <PointClicker/>
+
+  <SongChangerDaemon/>
+
+  <variableMissionListingServer name="esempio server di elenco" iconPath="Logo.png" articleFolderPath="Nodes/ListingServerArticles" color="120,200,2" assigner="false" public="true"/>
+
+  <missionHubServer groupName="ExTech" serviceName="Esempio Hub Contratti Tecnici" missionFolderPath="Missions/MissionHubMissions" themeColor="200,10,10" lineColor="255,80,80" backgroundColor="20,20,20"/>
+
+  <!-- Bonus -->
+  <!--
+  <ExternalCounterpart id="testEP" name="Dimostrazione Controparte Esterna"/>
+  -->
+  <!-- Questo aggiunge una controparte esterna del mondo reale a questo computer virtualizzato
+  Se hai una sessione hacknet in esecuzione in modalita' server e aggiungi il suo id e ip a Content/Network/NetworkIPList.txt
+  poi aggiungi la sua controparte esterna qui, funzionera' come un server del mondo reale quando fai cose
+  su questo - la cosa piu' ovvia da fare e' aprire i lettori CD e simili.
+  -->
+
+</Computer>

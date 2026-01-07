@@ -1,0 +1,45 @@
+﻿GGG  RRRR   OOO    CCC  EEEE RRRR   22   11   11  
+G     R   R O   O  C     E    R   R 2  2 111  111  
+G  GG RRRR  O   O C      EEE  RRRR    2   11   11  
+G   G R  R  O   O  C     E    R R    2    11   11  
+ GGG  R  RR  OOO    CCC  EEEE R  RR 2222 11l1 11l1 
+                                                 
+Simulatore di shopping 2010 REGISTRO COMPLETO
+COPYRIGHT 2011 COMPRA211
+Per INFORMAZIONI SULL'ACQUISTO
+inviare un'e-mail a compra211@mailcompra.comp!
+
+========================================
+==========INDICE=======================
+
+INTRO
+
+MISSIONE 1
+
+MISSIONE 2
+
+MISSIONE 3
+
+MISSIONE 4
+
+CAPO FINALE
+
+HAX + CHEATZ
+
+NOTE FINALI
+========================================
+
+INTRO
+
+da WIKI:
+"Shopping Simulator 2010" e' un gioco di simulazione in cui il giocatore assume il ruolo di John Citizen, un negoziante che deve servire i clienti, rifornire gli scaffali e pulire i pavimenti di tanto in tanto. E' stato rilasciato nell'ottobre 2011 e ha ricevuto recensioni che lo valutano bene".
+
+Superbrothers, oggi vi guidero' attraverso l'ultima sensazione nel mondo delle simulazioni basate su negozi di alimentari, Shopping Simulator 2010.
+
+In questo gioco sei John Citizen: un droghiere la cui vita viene stravolta (lol!) e deve vendere ogni tipo di schifezza per ottenere un po' di denaro.
+
+Quindi, per prima cosa: l'HUD. L'HUD e' dove puoi vedere quali corsie devi rifornire, dove devi pulire e quanti clienti hai. Se ti blocchi, puoi accendere il tuo visiondetendero, che ti mostrera' il lavoro piu' importante che devi fare. Per muoverti, usa e (avanti) s (sinistra), d (indietro) e f (strafe a sinistra), e z per interagire e usare un oggetto (fondamentalmente usa questo per fare qualsiasi lavoro che hai piu' vicino, come pulire o rifornire). CONSIGLIO: Puo' sembrare che il tuo personaggio non stia camminando, ma se guardi da vicino puoi vedere che si sta muovendo senza che i suoi piedi si muovano.
+
+========================================
+
+MISSIONE 1

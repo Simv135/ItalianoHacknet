@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Computer id="advExamplePC2"
+          name="Computer Esempio Avventura 2"
+          ip="167.194.132.8"
+          security="0"
+          allowsDefaultBootModule="false"
+          type="1">
+  <!-- 1= aziendale, 2 = casa, 3 = server, 4 = vuoto-->
+  <!-- Security e' un numero da 0 a 5 che rappresenta quanto e' difficile hackerare
+  Da 1 a 4 richiedera' quel numero di porte da aprire, 4 e oltre aggiungera' automaticamente
+  altre misure di sicurezza per scalare facilmente, puoi sovrascrivere le impostazioni specifiche sotto-->
+
+  <!-- Account -->
+  <adminPass pass="password"/>
+
+  <!-- File -->
+  <file path="home" name="Test_File">Questo e' un file di prova nella directory home</file>
+  <file path="home/NewDirectory" name="Test_File">
+    Questo e' un file piu' lungo che crea anche una nuova directory aggiungendo qualcosa al percorso
+
+    #BINARY
+    Questo genera del codice binario (2000 caratteri)
+
+    #PLAYER_IP#
+    Diventa l'IP del computer del giocatore
+
+    #PLAYERNAME#
+    la stringa sopra si converte nel nome del giocatore
+
+    test test
+  </file>
+  <file path="bin" name="SSHCrack.exe">#SSH_CRACK#</file>
+  <file path="bin" name="FTPBounce.exe">#FTP_CRACK#</file>
+  <file path="bin" name="WebServerWorm.exe">#WEB_CRACK#</file>
+  <file path="bin" name="SMTPOverflow.exe">#SMTP_CRACK#</file>
+  <file path="bin" name="SQLBufferOverflow.exe">#SQL_CRACK#</file>
+  <!-- porta 1433 -->
+
+  <file path="sys" name="White-Theme.sys">#WHITE_THEME#</file>
+  <file path="sys" name="Green-Theme.sys">#GREEN_THEME#</file>
+  <file path="sys" name="Yellow-Theme.sys">#YELLOW_THEME#</file>
+  <file path="sys" name="Teal-Theme.sys">#TEAL_THEME#</file>
+
+  <addOnlineWebServer name="Reddit" url="http://www.reddit.com"/>
+  <!-- Ricorda di includere http:// -->
+
+</Computer>
