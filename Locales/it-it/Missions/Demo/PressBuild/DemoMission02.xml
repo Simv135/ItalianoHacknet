@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="pressdemoMission01">
+  <goals>
+    <sendemail recipient="gila" subject="MedicalRecord - Helleran_Elanor"/>
+  </goals>
+  <nextMission>Demo/PressBuild/DemoMission03.xml</nextMission>
+  <email>
+    <sender>Bit</sender>
+    <subject>Fantasmi nella cripta</subject>
+    <body>Ottimo lavoro, sei a posto.
+Qui arriviamo al motivo per cui ti chiedo questo cosi' presto. Sto ancora facendo finta di mettere tutta questa roba in rete, ho bisogno di tutte le opportunita' che posso avere, e per quanto tu sia in cima a quella lista, non posso contare solo sulle "mie migliori ipotesi".
+Ci sono debiti da pagare per le persone che mi hanno aiutato in questo (anche se non sapevano di farlo).
+
+ Uno in particolare, Gila, un mio amico hacker del CSEC, mi ha offerto un aiuto per questo progetto in cambio di un lavoro, che non posso piu' fare. Ho cancellato completamente i miei dischi rigidi per paura di lasciare qualsiasi traccia di questo all'ultimo minuto, quindi sono di nuovo irragionevole.
+
+Vuole che mi procuri una cartella clinica e gliela mandi. Ho fatto del mio meglio per sabotare la sicurezza di Int.Medical, quindi dovresti essere in grado di entrare con quello che hai ora. Ho allegato i dettagli di cio' che vuoi qui sotto. Questo server e' un server serio, quindi dovrai cancellare i tuoi log, non essere maldestro.
+
+ Questo sara' il tuo primo vero lavoro. Buona fortuna.
+
+--Bit
+0
+    </body>
+    <attachments>
+      <note title="Descrizione della missione">
+Collegati al database medico internazionale
+Passa attraverso la sicurezza attiva
+(Probe/Programs/Porthack)
+
+Cerca il documento di
+"Elanor Helleran"
+Invia la cartella clinica a
+"gila@jmail.com"
+
+Cancella tutti i documenti nella cartella /logs (rm *)
+      </note>
+      <link comp="medicalDemo"/>
+    </attachments>
+  </email>
+</mission>

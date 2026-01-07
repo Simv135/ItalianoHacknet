@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="FileUpload" target="hubCrossroads" file="encrypt_source.dec" path="home" destTarget="hubPubDrop" destPath="Drop/Uploads" decrypt="true"/>
+  </goals>
+  <missionEnd val="1">addFlags:decypher</missionEnd>
+  <nextMission>MainHub/Misc/Faction_Gain_Helper.xml</nextMission>
+  <posting title="Identifica o crea un software di decrittazione">
+Una nuova azienda ha rilasciato un software di crittografia dei file e ha bloccato molti codici che prima erano disponibili apertamente per noi.
+L'algoritmo non sembra complesso come i precedenti, ma non l'abbiamo ancora compreso. Con questo contratto, risolverai il problema come preferisci, ma abbiamo bisogno che tu decrittografassi un file.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Fantasmi nella cripta</subject>
+    <body>
+DEC Solutions ha recentemente completato la sua nuova suite di crittografia DEC; fondamentalmente, e' un pacchetto per la crittografia dei file. Abbiamo un file che vogliamo farti esaminare, bloccato con questo cifrario.
+Ho lasciato una copia sul nostro server di scambio (un deposito non protetto per tutti gli utenti CSEC) chiamata encrypt_source.dec. .dec e' l'estensione del file generata da questo nuovo cifrario.
+
+A proposito, potresti voler prima dare un'occhiata al file stesso. Non c'e' quasi nulla di utile sul sito web dell'azienda, ma se scavi un po', potresti trovare qualcosa che ti aiuti. Una volta dentro, esplora per vedere se la rete e' piu' profonda.
+
+Quando l'hai decrittato, caricalo sul server di consegna CSEC.
+    </body>
+    <attachments>
+      <link comp="hubCrossroads"/>
+      <link comp="hubPubDrop"/>
+      <link comp="decSoftWeb"/>
+      <note title="Dati del contratto">Indaga sulla rete aziendale di DEC Solutions.
+Trova un metodo per decifrare i file DEC.
+Decripta il file dal server di scambio CSEC.
+Carica il file decrittato sul server di consegna CSEC.</note>
+    </attachments>
+  </email>
+</mission>

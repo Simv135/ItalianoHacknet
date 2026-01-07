@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyServer01">
+  <goals>
+    <goal type="FileDeletion" target="#COMP#" file="#FILE#" path="#PATH#"/>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Operazione di pulizia">
+Un cliente stimato del nostro gruppo ci ha chiesto di cancellare un file sul computer privato di un ex dipendente.
+I file non sono unici e l'azienda intende solo eliminare questa singola copia.
+e' improbabile che l'obiettivo realizzi una traccia passiva contro di te.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>Cancellare le questioni in sospeso 2 - e' NECESSARIO MODIFICARE</subject>
+    <body>
+Salve agente:
+
+Un dipendente ha recentemente lasciato la nostra azienda per lavorare per un concorrente. Cosi' facendo, ha portato con se' una grande quantita' di dati interni della nostra azienda, e sarebbe un peccato per noi se gli fosse permesso di tenerli.
+
+Vogliamo che tu acceda al suo computer personale e cancelli queste informazioni. Molto probabilmente sono memorizzate in un unico file privo di backup.
+
+Grazie,
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

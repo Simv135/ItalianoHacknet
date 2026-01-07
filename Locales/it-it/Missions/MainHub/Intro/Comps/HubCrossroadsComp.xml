@@ -1,0 +1,137 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="hubCrossroads" name="Server di scambio CSEC" security="0">
+
+  <positionNear target="mainHub" position="1" total="6"/>
+
+  <file path="home" name="REQUEST.zip">#BINARY##BINARY#</file>
+  <file path="home" name="CT2.zip">#BINARY##BINARY#</file>
+
+  <encryptedFile path="home" name="encrypt_source.dec" ip="101.0.89.154" header="Secured Source Code" extension=".cs">
+    
+        private static string Encrypt(string data, ushort passcode)
+        {
+            StringBuilder ret = new StringBuilder();
+            for (int i = 0; i LESS_THAN data.Length; i++) {
+                int newVal = ((ushort)data[i] * 1822) + ushort.MaxValue / 2 + passcode;
+                ret.Append(newVal + &quot; &quot;);
+            }
+            return ret.ToString().Trim();
+        }
+        
+         ///resumen
+        /// Restituisce una matrice contenente
+        /// [0] Messaggio d'intestazione
+        /// [1] Collegamento IP
+        /// [2] Dati del messaggio
+        /// [3] Estensione del file se fornita, altrimenti null
+        /// [4] &quot;1&quot; se la password e' valida, &quot;0&quot; se non lo e'
+        ///resumen
+        public static string[] DecryptString(string data, string pass = &quot;&quot;)
+        {
+            string[] ret = new string[5];
+            ushort passcode = GetPassCodeFromString(pass);
+
+
+            string[] split = data.Split(Utils.robustNewlineDelim, StringSplitOptions.RemoveEmptyEntries);
+            if (split.Length LESS_THAN 2) throw new FormatException(&quot;Tried to decrypt an invalid valid DEC ENC file&quot;);
+            string[] headersSplit = split[0].Split(HeaderSplitDelimiters, StringSplitOptions.None);
+            if (headersSplit.Length LESS_THAN 4) throw new FormatException(&quot;Tried to decrypt an invalid valid DEC ENC file&quot;);
+
+            string headerMsg = Decrypt(headersSplit[1], passcode);
+            string ipLink = Decrypt(headersSplit[2], passcode);
+            string check = Decrypt(headersSplit[3], passcode);
+            string fileExtension = null;
+            if (headersSplit.Length &gt; 4) fileExtension = Decrypt(headersSplit[4], passcode);
+            string message;
+            string passValid = &quot;1&quot;;
+            if (check == &quot;ENCODED&quot;) {
+                //¡La password e' corretta!
+                message = Decrypt(split[1], passcode); 
+           } 
+           else { 
+               //password non valida
+                headerMsg = null;
+                ipLink = null;
+                message = null;
+                passValid = &quot;0&quot;;
+            }  
+          ret[0] = headerMsg; 
+           ret[1] = ipLink;
+            ret[2] = message;
+            ret[3] = fileExtension;
+            ret[4] = passValid;
+            return ret;
+        }
+  </encryptedFile>
+
+  <encryptedFile path="home" name="CSEC_encode_1.dec" ip="168.61.82.245" header="WinC Firmware Specifications" extension=".pdf" pass="beepbeep">
+    Guida allo sviluppo di firmware e driver WinCE
+   ------------------------------------------------------
+  Per lo sviluppo di driver e firmware da utilizzare in sistemi embedded che eseguono sistemi operativi WinCE. Migliaia di dispositivi usano questo sistema operativo, dalle automobili ai lettori multimediali. Ricordate la grande varieta' di dispositivi su cui il vostro codice sara' distribuito quando sviluppate i vostri driver o firmware.
+    ------------------------------------------------------
+
+  Molti driver di dispositivi WinCE implementano l'interfaccia di streaming. I principali punti di ingresso dell'interfaccia di trasmissione sono XXX_Open (gestore del dispositivo), XXX_Close (gestore del dispositivo), XXX_Read (gestore del dispositivo), e XXX_Write (gestore del dispositivo). Per ulteriori informazioni, vedere Driver di interfaccia di streaming.
+    Adattatori di rete, adattatori di visualizzazione, mouse, tastiere e altri dispositivi speciali non usano l'interfaccia di streaming. Questi dispositivi utilizzano un'interfaccia appropriata alle funzioni di quel dispositivo.
+    Indipendentemente dall'interfaccia che il driver del dispositivo espone, potrebbe essere necessario implementare una routine di servizio di interrupt (ISR). Per maggiori informazioni sugli interrupt e gli ISR, vedete Interrupts.
+    Processi diversi caricano driver diversi. La tabella seguente mostra i processi che caricano i driver e quali driver ogni processo carica.
+
+    Per inserire il codice del controller dovreste usare i seguenti percorsi:
+
+   %_WINCEROOT%\Platform\%_TGTPLAT%
+    Contiene il codice dipendente dalla piattaforma hardware. Questa directory contiene principalmente l'OAL, i file di configurazione e i driver BSP. Non dovrebbe essere necessario modificare i driver dipendenti dalla piattaforma hardware nel %_WINCEROOT%\Platform\%_TGTPLAT%\Drivers.
+    %_WINCEROOT%\Platform\Common\Src\SOC
+    Contiene driver SOC per microprocessori altamente integrati o add-on di microprocessori con molte periferiche integrate nel microprocessore. I driver SOC includono driver OAL specifici del microprocessore per orologi in tempo reale, timer, schede Ethernet di debug, ecc. Una scheda di sviluppo standard (SDB) con gli stessi microprocessori puo' utilizzare lo stesso set di driver SOC.
+    %_WINCEROOT%\Public\Common\OAK\Drivers
+    Contiene driver comuni per periferiche non native che sono dispositivi su una scheda plug-in o che si inseriscono direttamente in un circuito. I driver comuni contengono codice indipendente dalla piattaforma che si collega al codice dipendente dalla piattaforma per creare un driver hardware. I driver comuni non sono specifici per nessuna piattaforma hardware o microprocessore. Qualsiasi SDB puo' usare i driver comuni.
+  </encryptedFile>
+
+  <file path="home" name="FOF_Screenplay.doc">
+    NIENTE STRONZATE
+    - Un copione -
+
+ Scena d'apertura: Una morbida musica di pianoforte suona in sottofondo. Vediamo l'orologio sul cruscotto di un golf cart. L'ora e' 7:22.
+    Un uomo vestito in modo trasandato beve un sorso da un cartone di vino evidentemente rubato. Non giudicarlo: e' cio' di cui ha bisogno, ed e' delizioso. Da mal vestito
+Cioe', ovviamente, non indossa altro che un costume da bagno aderente. Il suo profilo e' chiaramente visibile.
+
+    Passando davanti a una caffetteria alla velocita' massima del carrello di 40 km/h (ha un turbocompressore sul retro) allunga la mano come se niente fosse e lancia il caffe' a un uomo d'affari.
+
+    Sbanda fino a fermarsi tra due parcheggi per disabili, esce, svuota cio' che resta del cartone e lo getta sulla strada, come se non gliene potesse importare di meno. Niente di niente.
+    La musica si fa molto piu' forte. Raggiunge un punto drammatico, con le corna e tutto il resto. Il nostro eroe cammina coraggiosamente verso un cassonetto vicino, vi si arrampica e, senza esitazione, si toglie il costume da bagno e ci salta dentro con soddisfazione.
+
+    Taglio sul volto inorridito di una donna anziana. Viene mostrato il titolo.
+  </file>
+
+  <encryptedFile path="home" name="T2_Screenplay.dec" ip="37.187.27.55" header="Secure Script Encryption inc (c)" extension=".doc" pass="DANGER">
+    Titanic 2: La vendetta dell'iceberg
+    - Un copione -
+
+JACK DAWSON: «Nessuno ci ha pensato, ma l'iceberg non ci ha colpito.... L'ABBIAMO COLPITO NOI!»
+ROSE DEWITT BUKATER: «Come? L'operazione da scienziato pazzo che ti ha riportato in vita ti ha incasinato la testa? Ti ho riportato in vita perche' ti *AMO*!».
+JACK DAWSON: «Lo so, ma qui siamo in pericolo. Quell'iceberg aveva una famiglia e vuole vendicarsi. Mi hanno detto che quando stavo per morire... loro non se lo aspettavano....».
+- JACK DAWSON scuote i suoi occhiali da sole refrigeranti e li indossa.
+JACK DAWSON: «Tornero'».
+
+Taglio sulla costa della California.
+
+Un iceberg appare nell'acqua e si avvicina alla citta' a una velocita' incredibile.
+Le sirene di evacuazione iniziano a suonare, la gente sulla spiaggia urla, lo indica e fugge per la propria vita.
+Insieme ad esso, appaiono altri iceberg, anch'essi velocissimi verso la riva.
+
+ROSE DEWITT BUKATER: «Aiuto!».
+JACK DAWSON: «Rose! Sono qui per te! Non ti lascero' mai!».
+
+Il primo iceberg e' gia' sulla riva e scivola verso i due protagonisti. Tira fuori una pistola.
+
+ROSE DEWITT BUKATER: «¡JAAAAACCCKKKKKKK!».
+
+  </encryptedFile>
+  
+  <encryptedFile path="home" name="C_EXE_contact.dec" ip="74.125.237.119" header="Encrypted Messaging Systems inc" extension=".txt" pass="quinnoq">
+
+    Il contatto usa un account JMail con lo pseudonimo «dlocke».
+
+  So che lo stiamo cercando da molto tempo, ma non avere fretta perche' e' una pista solida - ce la prenderemo con calma.
+    Altri aggiornamenti quando avro' un piano.
+
+  </encryptedFile>
+</Computer>

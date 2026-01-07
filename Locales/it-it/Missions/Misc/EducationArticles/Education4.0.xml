@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Guida rapida ai server proxy">
+I server proxy agiscono come uno strato tampone tra il computer di destinazione e un computer collegato che filtra, memorizza nella cache e controlla il traffico in entrata, sia per ottimizzare le prestazioni web per le query ripetute che per prevenire alcuni attacchi.
+
+Il difetto piu' noto dei server proxy e' il loro limite superiore di memoria: quando viene raggiunto, costringe i server proxy a far passare il traffico non controllato.
+
+Per sfruttare questo, gli hacker e i tester spesso eseguono delle shell su altre macchine a cui un attaccante ha accesso (spesso usando il programma di shell integrato) e poi, usando una serie di shell sulle macchine server, si connettono alla macchina bersaglio e usano la funzione «overload» delle shell per inondare il server proxy bersaglio con dati spazzatura, permettendo al traffico potenzialmente dannoso di passare attraverso.
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

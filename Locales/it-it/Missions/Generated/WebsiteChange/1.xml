@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="generatedWebVandal01">
+  <generationKeys Data="Content/Web/BaseCorporateRecruiterPage.html"/>
+  <goals>
+    <goal type="FileChange" target="#COMP#" file="#FILE#" path="#PATH#" keyword="#LC_CLIENT#@jmail.com"/>
+  </goals>
+  <missionEnd val="5">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Assisti la campagna di reclutamento per #CLIENT#">
+#CLIENT# sta cercando di risolvere i propri problemi di reclutamento dirottando alcune candidature per un'azienda concorrente verso la propria email.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>Supporto al reclutamento</subject>
+    <body>
+Agente,
+
+La nostra azienda ha recentemente avuto difficolta' ad assumere nuovo personale, soprattutto a causa delle efficaci campagne di reclutamento di alcuni nostri concorrenti.
+Vogliamo pareggiare il campo di gioco reindirizzando temporaneamente una parte del loro flusso di candidature verso di noi.
+
+Il loro sito dedicato al reclutamento e' al link che fornisco qui sotto. Vogliamo che tu sostituisca il loro indirizzo email di contatto con il nostro:
+
+#LC_CLIENT#@jmail.com
+
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

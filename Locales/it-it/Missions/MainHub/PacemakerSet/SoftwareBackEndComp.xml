@@ -1,0 +1,70 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="pacemakerSW_BE" ip="111.105.22.1" name="Server di produzione Eidolon Soft" security="4" type="1"> <!-- 1= corporate, 2 = Home, 3 = server -->
+  <!-- Security Stuff -->
+  
+  <ports>80, 22, 1443, 25, 21</ports>
+  <trace time="320"/>
+  <firewall level="-1"/>
+
+  
+  
+  <!-- Spazzatura -->
+  <file path="projects/EnTech" name="SynergysticCloudGlassCeilingBreaker.app">#BINARY#</file>
+  <file path="projects/EnTech" name="HumanCapitalEnhancer.dll">#BINARY#</file>
+  <file path="projects/EnTech" name="IntergratedChannelHarnesser.dll">#BINARY#</file>
+  <file path="projects/EnTech" name="ProactiveFocusStorageExtender.dll">#BINARY#</file>
+  <file path="projects/EnTech" name="QualityVectorStreamliner.dll">#BINARY#</file>
+
+  <!-- Il materiale utile -->
+  <file path="projects/KellisBT" name="Catalyst_Driver.cfg">#BINARY#</file>
+  <file path="projects/KellisBT" name="KBT_PacemakerFirmware_0.1.dll">#PACEMAKER_FW_WORKING#</file>
+  <file path="projects/KellisBT" name="KBT_PacemakerFirmware_0.22.dll">#PACEMAKER_FW_WORKING#</file>
+  <file path="projects/KellisBT" name="KBT_PacemakerFirmware_1.0.dll">#PACEMAKER_FW_WORKING#</file>
+  <file path="projects/KellisBT" name="KBT_PacemakerFirmware_1.11.dll">#PACEMAKER_FW_WORKING#</file>
+
+  <file path="projects/KellisBT/Tests" name="TestGuide.txt">
+Come parte del nostro ciclo di test, prima di eseguire la suite di test unita' su un chip, dobbiamo fare un controllo ciclico: collegarlo alla stazione di test ed eseguire il programma di ciclo, perche' e' fondamentalmente un firmware. Esegue un ciclo attraverso tutte le uscite e le coordinate valide per controllare che i vostri tempi siano corretti.
+e' piu' un test hardware che e' sotto la nostra responsabilita', ma aiuta anche a rilevare errori sottili. Dopo l'esecuzione, scarica i dati nella stazione e puoi andare avanti e applicare la patch alla nuova versione di prova.
+
+---
+Attenzione: Firmware di test attualmente firmato Nome: PacemakerFirmware_Cycle_Test.dll
+NON CARICARE SU DISPOSITIVI PRONTI PER LA DISTRIBUZIONE
+---
+Ovviamente, il firmware del ciclo di test e' firmato e codificato per essere effettivamente eseguito sui chip, il che significa che devi fare attenzione quando distribuisci le tue build a non includerlo in nessuna cartella di output.
+</file>
+
+  <file path="projects/KellisBT/Tests" name="KBTPM_Test_Suite.kbts">#BINARY#</file>
+  <file path="projects/KellisBT/Tests" name="PacemakerFirmware_Cycle_Test.dll">#PACEMAKER_FW_DANGER#</file>
+  
+  
+
+  <file path="projects/Internal" name="Goals.txt">
+- massimizzare progressivamente i vettori di qualita' tra le unita'
+
+valutare sinergicamente le relazioni cliente-centriche - massimizzare progressivamente i vettori di qualita''
+
+ valutare sinergicamente la centralita' del cliente -
+
+immaginare chiaramente la collaborazione di prossima generazione e lo scambio di idee
+
+ - plagiare con competenza i servizi elettronici ottimali
+
+ - convertire correttamente l'outsourcing incentrato sui processi in denaro
+
+- fornire in modo efficiente metodologie combinate tradizionali e basate sul web - influenzare in modo ottimale i benefici in tempo reale
+  </file>
+  
+  <file path="projects/Internal" name="Eidolon_Security_Notes.txt">Come abbiamo discusso nelle ultime riunioni, i nostri team di supporto tecnico hanno bisogno di un accesso completo ai nostri sistemi per la manutenzione e gli aggiornamenti in loco. A tal fine, introdurremo un nuovo account «EAdmin» (Eidolon Support Administrator) sui nuovi prodotti.
+Questo account avra' pieni privilegi e capacita' di test e sara' coerente in tutta la nostra gamma e le versioni. Per i team di supporto tecnico, questo significhera' che avranno un mezzo facile per accedere alle funzioni di debug e di amministrazione quando testano i prodotti in loco. Per i deployer, dovrebbero ricordarsi di aggiungere questo account negli script di configurazione dei nostri prodotti.
+
+Dettagli dell'account:
+Nome utente: EAdmin
+Password: tens86
+Permessi: Tutti
+Impostazioni di debug: Attivato
+  </file>
+  
+  
+  
+  
+</Computer>

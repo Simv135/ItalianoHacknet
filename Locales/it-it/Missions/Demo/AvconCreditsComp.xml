@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="avconCreditsComp" name="Server di crediti Avcon" security="0">
+  <addAvconDemoEndDaemon name="Demo End"/>
+  <file path="home" name="Entropy_Contact.txt">
+    A quanto pare, il gruppo di hacker "Entropia" sta cercando membri, hanno un server di reclutamento e tutto il resto.
+
+    e' possibile connettersi al server all'indirizzo "199.59.149.230"
+      
+  -M
+  </file>
+  <file path="home" name="ProxyOverloadGuide.txt">
+    Per sovraccaricare un proxy, configurate prima alcuni nodi shell su nodi dove avete accesso come amministratore.
+    Per farlo, eseguite semplicemente il comando "shell" (vale a dire: "exe shell").
+       
+ Una volta che avete piu' shell in esecuzione, se usate la sua funzione di sovraccarico mentre siete connessi a una macchina di destinazione, 
+comincera' a inondare di richieste e lo sovraccaricherete finche' il proxy non si spegnera' temporaneamente per rinfrescarsi.
+        
+Questo creera' una finestra considerevole in cui i programmi che un proxy impedirebbe altrimenti possono essere eseguiti liberamente.
+    -M
+  </file>
+  <file path="home" name="Credits.txt">
+    -----HackNet-----
+
+    Un gioco di:
+    --Matt Trobbiani--
+    Twitter: @Orann
+    Email: mtrobbia@gmail.com
+
+    Testi e loghi:
+    --Sarah Riggall--
+
+    Concetto di design
+    Jeryth
+    http://www.reddit.com/user/jeryth
+
+    -Musica-
+    Revolve - Hisboyelroy
+    Leviathan - Kirkoid 
+   Ana - Hisboyelroy
+    www.ccmixter.org  
+
+  -Prove e riconoscimenti-  
+  Tristan "tijit" Trabilsie 
+   Jamie Williamson 
+   Alex Mackay   
+ Noblekale  
+  Chris Johnson 
+   Sam Crisp
+    Dylan Sale 
+   Richard Taylor
+    Ben Kislby 
+   Matt LeKrupa
+    Brad Wesson  
+  Jamie Pillianaros
+  </file>
+  <file path="sys" name="DefaultBootModule.txt">[Bloccato]</file>
+  <!--
+  <addEmailDaemon />
+  -->
+</Computer>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="xcRepBAD" activeCheck="true">
+  <goals>
+    <goal type="delay" time="2.5"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="ERRORE">
+ERRORE EDITORIALE SCONOSCIUTO
+  </posting>
+  <email>
+    <sender>X-C Proj. : Bradford</sender>
+    <subject>Re: Investigazioni interne</subject>
+    <body>
+Ah, allora va bene.
+
+Questo sembra... poco professionale. Credo che faro' una chiacchierata con il nostro stimato dottore riguardo... l'uso corretto delle risorse del progetto in futuro.
+
+Grazie per avercelo fatto sapere,
+-Direttore Bradford
+    </body>
+    <attachments></attachments>
+  </email>
+</mission>

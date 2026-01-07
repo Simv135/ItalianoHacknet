@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="bitHubSet01" activeCheck="true">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Errore">
+    
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Re: Il progetto Junebug</subject>
+    <body>
+Capiamo perfettamente:
+
+Grazie per la tua attenzione.
+Inutile dire che apprezzeremmo la massima discrezione in questa materia.
+
+- Gli amministratori del CSEC
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyNews03">
+  <goals>
+    <goal type="getAdmin" target="entropy01"/>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Nuovo telefono Macrosoft: Il male che ti aspettavi">
+Sembra che Macrosoft non riesca a darsi pace. Il suo nuovo telefono "Waterfall", che i nostri colleghi sono stati abbastanza fortunati da acquisire da un anonimo benefattore, secondo quanto riferito ha alcuni gravi difetti di sicurezza.
+
+Gli utenti possono aspettarsi lo stesso sistema operativo next-gen buggato a cui si sono abituati dal gigante dell'informatica onnipresente, ma ora con enormi buchi di sicurezza: qualsiasi app installata puo' facilmente ottenere accesso illimitato al telefono,
+e un bug di rete potrebbe causare l'invio di dati privati non crittografati attraverso la rete. e' previsto che
+
+ "Waterfall", il telefono di quarta generazione di Macrosoft, sara' rilasciato in due settimane, ma con questa scoperta, gli esperti ritengono che il lancio possa essere ritardato fino a un mese. Restate sintonizzati per eventuali nuovi sviluppi.
+  </posting>
+  <email>
+    <sender>Tom Wilkins</sender>
+    <subject>Entropy deve essere fermata</subject>
+    <body>
+Distruggi il database di Entropy
+    </body>
+    <attachments>
+      <link comp="entropy01"/>
+    </attachments>
+  </email>
+</mission>

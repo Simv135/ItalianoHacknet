@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="File .exe ed esecuzione remota">
+Sui terminali moderni, il comando exe esegue un file che risiede sul computer locale dell'utente che lo esegue e indirizza quel programma al computer a cui l'utente locale e' collegato.
+
+In effetti, il comando serve come scorciatoia semantica e rende inutile aggiungere l'indirizzo IP della macchina collegata come argomento a qualsiasi comando di esecuzione. Questo permette a piu' programmi di inviare traffico sullo stesso socket, il che aumenta l'efficienza della rete a livello di sistema operativo.
+Naturalmente, molti file exe non sono scritti per avere funzioni su una rete, nel qual caso il programma ignora il socket di rete disponibile ed esegue la sua funzione localmente.
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

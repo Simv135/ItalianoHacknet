@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyNews04">
+  <goals>
+    <goal type="getAdmin" target="entropy01"/>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="I tuoi dati sono a rischio?">
+Il popolare social network FriendHole e' stato l'ultima vittima di un gruppo di hacker malintenzionati apparentemente deciso a compromettere tutte le forme di social network. Le identita' e la posizione del gruppo rimangono un mistero per la polizia informatica, ma il loro messaggio e' chiaro: "Nessun posto e' sicuro". Il presidente di FaceSpace oggi ha cercato di
+ rassicurare gli utenti nervosi che la "sicurezza di FaceSpace e' a tenuta stagna" e che le uniche persone che avranno accesso ai dati personali degli utenti di FaceSpace sono gli utenti di FaceSpace, e gli utenti che scelgono di condividere i loro dati con, e i 12.000 fedeli inserzionisti di FaceSpace.
+  </posting>
+  <email>
+    <sender>Tom Wilkins</sender>
+    <subject>Entropy deve essere fermata</subject>
+    <body>
+Distruggi il database di Entropy
+    </body>
+    <attachments>
+      <link comp="entropy01"/>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="WipeDegrees" owner="Jacob Stevens"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Cancella un record accademico">
+Un membro del CSEC che vuole rimanere anonimo ha bisogno di un lavoro. Lui stesso non puo' completarlo per ragioni di anonimato e di prova del movente.
+
+Un ex capo ha sottopagato i dipendenti e ha imposto pratiche di risparmio dei costi che hanno compromesso il benessere del personale per un certo periodo.
+L'agente vorrebbe che il curriculum accademico di questa persona scomparisse completamente, come parte di un progetto parallelo per rimediare alle sue malefatte.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Far sparire il registro</subject>
+    <body>Questo contratto e' stato aggiunto da un membro anonimo del CSEC. Sebbene sia possibile scoprire l'identita' dello sponsor attraverso questo contratto, il CSEC chiede, come sempre, di rispettare la privacy e l'anonimato dei suoi membri e di non farlo.
+
+ Contratto:
+Un ex datore di lavoro deve far sparire tutto il suo curriculum accademico, non ci deve essere piu' alcuna laurea.
+
+Nome: Jacob Stevens
+
+IMPORTANTE: Non dimenticare di cancellare le tue tracce; le istituzioni internazionali dipendono dalla loro reputazione per rimanere rilevanti e tu la metteresti in pericolo. Se scoprono, non avranno pieta'.
+
+CSEC
+    </body>
+    <attachments>
+      <link comp="academic"/>
+      <note title="Nome del contatto">Cancella il registro
+Nome: Jacob Stevens</note>
+    </attachments>
+  </email>
+</mission>

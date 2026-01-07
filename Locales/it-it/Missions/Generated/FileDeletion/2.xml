@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="GenMission">
+  <goals>
+    <goal type="FileDeletion" target="#COMP#" file="#FILE#" path="#PATH#"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="#CLIENT# - Chiudere il cerchio">
+Degli hacker hanno rubato dati aziendali preziosi. Ci siamo gia' occupati di loro, ma dobbiamo ancora eliminare cio' che hanno trafugato.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>#CLIENT# - Chiudere il cerchio</subject>
+    <body>
+Salve Agente,
+
+La nostra azienda, #CLIENT#, e' stata recentemente vittima di un attacco informatico. I responsabili sono gia' stati consegnati alle autorita' per le loro azioni, ma non siamo riusciti a recuperare il file che hanno rubato.
+Tuttavia, abbiamo tracciato l'indirizzo IP del server coinvolto e vorremmo che te ne occupassi.
+
+Ti saremmo grati per la massima discrezione.
+
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

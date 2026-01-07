@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="hubTestComp01" name="Guanto di invito CSEC" security="2">
+  <link target="hubTestComp02"/>
+  <file path="home/Test" name="CONTINUE.txt">
+Segui il server collegato per passare alla fase successiva di questo test.
+  </file>
+  <firewall solution="KRAKEN"/>
+  <proxy time="0"/>
+  <account username="admin" password="easy"/>
+</Computer>

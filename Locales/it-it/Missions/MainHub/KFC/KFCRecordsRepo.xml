@@ -1,0 +1,81 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="kfcRecordsRepo" ip="202.7.177.65" name="Deposito registri KFC" security="2" type="4">
+  <ports>80,25</ports>
+  <trace time="125"/>
+  <proxy time="0"/>
+  <firewall level="2" solution="CHICKEN"/>
+  <positionNear target="kfcMainframe" position="1" total="3"/>
+  <link target="kfcMainframe"/>
+
+  <file path="home/Ordering" name="Seasoning_Order_Guidelines.docx">
+LINEE GUIDA PER LA SEPARAZIONE DEGLI ORDINI
+   
+Gli ordini di miscele di condimento devono essere spediti a due aziende separate, ognuna delle quali fornisce meta' della miscela (l'impianto del New Mexico miscela le spezie da 1 a 6, e l'impianto nazionale del Kentucky miscela le restanti 5 spezie, attualmente).
+Le due consegne separate devono essere mescolate alla sede centrale di KFC Distribution e messe in sacchetti bianchi non contrassegnati per la distribuzione ai franchisee.
+
+I sacchetti con il condimento preparato vengono inviati ai franchising, dove nel negozio stesso viene combinato con una miscela di farina, uova in polvere, latte in polvere e sale per creare il prodotto finale.
+Questo assicura che una copia digitale della ricetta segreta nella sua interezza non possa mai essere distribuita.
+  </file>
+
+  <file path="home/Ordering" name="Seasoning_Order_Placement_Template_Pt1.docx">
+    MODELLO DI ORDINE DI CONSEGNA DI MERCI SECCHE KFC
+
+ Struttura: 228 Esperenza Rd. New Mexico
+ Prodotto: Miscela di erbe e spezie
+Unita' Volume: 1 kg
+ Unita' totali: [UNIT_VOLUME_NEEDED]
+
+Guida alla produzione del prodotto:
+
+   Formula --
+   16% | Paprika.
+    09% | Salvia tritata.
+    24% | Aglio in polvere.
+    28% | Pepe bianco.
+    07% | Origano.
+    16% | Maggiorana.
+
+  </file>
+  
+    <file path="home/Ordering" name="Seasoning_Order_Placement_Template_Pt2.docx">
+    MODELLO D'ORDINE PER LA CONSEGNA DI PRODOTTI SECCHI KFC
+
+ Strutture: 11 Mt Eden Rd. Shelbyville, Kentucky
+Prodotto: Miscela di spezie
+Volume unitario: 1 kg
+Unita' totali: [UNIT_VOLUME_NEEDED]
+
+Guida alla produzione del prodotto:
+
+    Formula --
+    14% | Basilico.
+    04% | Chili in polvere.
+    42% | Glutammato monosodico.
+    24% | Sale di cipolla.
+    16% | Pepe rosso (cayenna).
+
+  </file>
+
+  <file path="home/Ordering" name="Order_Requirement_Certs.docx">
+Certificazione per gli addetti alla manipolazione degli alimenti - Inglese PDF/Spagnolo PDF, formulario
+
+DBPR HR 5030-080, foglio pretagliato usato dagli ispettori della Divisione Hotel e Ristoranti per ricordare ai licenziatari il requisito dell'addetto agli alimenti. (7 maggio 2010)
+ Guida alle risorse per il recupero degli alimenti - PDF
+
+ Guida del Florida Department of Agriculture and Consumer Services per le organizzazioni che hanno indicato un interesse a partecipare al Food Recovery Program per la fornitura di avanzi di cibo in scatola o deperibile a chi ne ha bisogno o per la raccolta e il trasporto di cibo a tali organizzazioni -
+Formulario PDF
+
+ DBPR HR 5022-015, modulo di esempio usato dalla Divisione degli alberghi e dei ristoranti per registrare le ispezioni negli stabilimenti pubblici di ristorazione. (Rivisto il 1 ottobre 2009)
+  </file>
+  
+  <file path="home/Media" name="Logo.png">#BINARY#</file>
+  <file path="home/Media" name="Logo_Small.png">#BINARY#</file>
+  <file path="home/Media" name="MediaKit_2011.zip">#BINARY##BINARY#</file>
+  <file path="home/Media" name="Guide.txt">
+    Al Kernel's Food Corner abbiamo una missione: servire il miglior pollo del mondo.
+    Ecco perche' usiamo solo i migliori ingredienti, polli interi consegnati freschi.
+    Poi viene preparato sul posto, battuto a mano con le nostre ricette segrete e cucinato proprio in quel momento dai nostri chef certificati KFC in tutti i nostri ristoranti.
+    e' facile? No. Ma basta un solo morso per ricordarti perche' vale la pena fare uno sforzo in piu'.
+    Perche' appena fatto, ha un sapore migliore. Fermati al tuo KFC locale e provalo.
+  </file>
+</Computer>

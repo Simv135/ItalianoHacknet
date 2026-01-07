@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet08_p2" activeCheck="true">
+  <goals>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Analizza una cartella clinica">
+    Ottieni una copia della cartella clinica di qualcuno per risolvere una discussione.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>RE: Vara di Asclepio</subject>
+    <body>
+Io... io...
+Cosa? Davvero? L'hai preso da... e' autentico, vero?!
+Voglio dire,....
+
+Oh, wow, wow, wow.
+
+Si', e' che... non so piu' a cosa credere. Wow, uh...,
+
+ah, si', grazie comunque per l'aiuto. Ho intenzione di rivalutare la mia vita.
+-G
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

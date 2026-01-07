@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="pacemakerHWArticle03">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="##0E0014 - Pacemaker v2.44 Strumenti remoti">
+Questo post spiega il monitoraggio remoto e la funzione di aggiornamento del pacemaker v2.44. Per le operazioni generali, fate riferimento alla documentazione stampata o richiedetene un'altra copia a support@kellisBio.com
+---------------------------------------------
+
+Il pacemaker v2.44 di Kellis Biotech (di seguito denominato «pacemaker») e' progettato per i pazienti che sono considerati ad alto rischio o che hanno bisogno di un monitoraggio costante ma non possono rimanere in un ospedale.
+Grazie alla connessione remota al pacemaker, l'osservatore puo' ottenere dati ECG in tempo reale e alcuni strumenti di aggiornamento dei dati. A causa della sua natura sensibile (100% uptime richiesto), il sistema ha una sicurezza rigorosa che accetta solo pacchetti di aggiornamento binari firmati dal build server del progettista del software assegnato al chip.
+
+Gli aggiornamenti sono spesso specifici, come quando le impostazioni di un paziente devono essere cambiate a causa di un cambiamento nel suo ritmo cardiaco (a causa dell'eta' o di un intervento chirurgico).
+Il sistema di aggiornamento di Kellis permette di apportare queste modifiche senza bisogno di alcuna operazione intrusiva. Anche se le versioni precedenti del chip includevano strumenti per aggiornare manualmente le impostazioni, questi sono stati rimossi per motivi di sicurezza. Nella versione attuale, le modifiche possono essere apportate solo tramite patch di firmware (che possono essere applicate in modalita' wireless in modo che non sia necessario alcun tipo di intervento chirurgico).
+
+Se il tuo caso richiede tale aggiornamento, contatta il tuo rappresentante Kellis Biotech per assistenza e un preventivo.
+  </posting>
+    <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Per favore, state in guardia.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

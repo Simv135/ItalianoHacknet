@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="milburgHigh" name="Ufficio IT di Milburg" security="2" type="4">
+  
+  <proxy time="0.9"/>
+  <portsForCrack val="1"/>
+  <!-- Numero di porte da aprire per permettere l'esecuzione di porthack -->
+  <firewall level="-1"/>
+
+  <adminPass pass="*******"/>
+  
+  <file path="home/misc" name="People_not_To_Trust.txt" EduSafe="false">
+[jinkle] Ehi amico, sai dove posso trovare dell'erba?
+[jinkle] uno zio di Lacy mi ha dato le informazioni.
+[marcy] si' amico, quanto vuoi?
+[jinkle] bene, quanto per un grammo?
+[marcy] 145 $
+[jinkle] Ok, amico, affare fatto. Dove sono?
+[marcy] quindi affare fatto, 145 dollari per un grammo di buona erba?
+[jinkle] perfetto, amico.
+[marcy] Fico. Ho il tuo indirizzo IP. Quindi mi fermero'.
+[jinkle] Aspetta, come fai a saperlo?
+[marcy] essere un poliziotto ha i suoi vantaggi...
+[jinkle] cazzo, mia madre mi uccidera'.
+  </file>
+  
+  <file path="home/MH_STAFF" name="Student_TopSearchHistory.txt" EduSafe="false">
+1 Google
+2 Tette
+3 Tetta
+4 Sesso
+5 Tette laterali
+6 Porno
+7 come disabilitare il filtro porno
+8 cose che passano il filtro del porno
+9 immagini della guerra civile
+10 GTA
+11 Twerking
+12 Cos'e' il twerking
+13 Tecniche di twerking
+14 una ragazza in topless in una foto di guerra francese
+15 Sport
+16 Palla
+...
+  </file>
+  
+  <file path="home/MH_STAFF" name="Announcements.txt">
+In relazione agli annunci di interruzioni del server Internet/proxy,
+
+Anche se alcuni del nostro staff non sanno cosa significa che "il server proxy e' giu'", e' chiaro che alcuni studenti lo sanno.
+Durante l'annunciata interruzione della notte scorsa, alcuni studenti hanno apparentemente scoperto che, sebbene l'accesso a Internet fosse ancora attivo, il filtro di ricerca non lo era, e nei 20 minuti di interruzione hanno scaricato un totale di 22 terabyte di pornografia sui server della scuola e su diversi PC della classe.
+Ovviamente vorremmo evitare che questo accada di nuovo attraverso mezzi piu' sicuri, ma per lo meno, forse non dovremmo annunciarlo la prossima volta?
+
+ Grazie,
+ -L'amministrazione
+  </file>
+  
+  <file path="home/MH_STAFF" name="pw_memo.log">
+4:37 PM - MBIT: Ho pensato alla sicurezza.
+4:37 PM - JBrooks: Si'?
+4:37 PM - MBIT: Si', e penso che tutti questi miglioramenti saranno un dolore da implementare e con cui lavorare e altro.
+4:37 PM - MBIT: ma dai un'occhiata a questo.
+4:38 PM - MBIT: soluzione facile:
+4:38 PM - MBIT: abbiamo appena creato la password IT.
+4:38 PM - MBIT: *******
+4:38 PM - JBrooks: Non capisco
+4:38 PM - MBIT: Esattamente!!!
+4:38 PM - MBIT: Solo 7 asterischi
+4:38 PM - MBIT: Questa e' letteralmente la password, solo asterischi.
+4:38 PM - MBIT: Chi la indovina? Nessuno. Qualcuno l'ha violato? Sembra ancora protetto!!!
+4:38 PM - MBIT: Letteralmente indecifrabile!
+  </file>
+  
+  <file path="home/MH_STAFF/PRIVATE_STUDENT_EMAILS" name="mail.txt">Se qualche studente mi manda un'email la memorizzero' qui.
+Dio, mi sento cosi' solo. Notepad.exe, sei l'unico che mi capisce :(</file>
+  
+</Computer>

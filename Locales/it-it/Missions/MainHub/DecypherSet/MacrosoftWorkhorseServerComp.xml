@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="macrosoftWorkhorse04" name="Server Macrosoft Workhorse 04" ip="168.61.82.245" security="3" type="3">
+  <ports>21, 80, 1433</ports>
+  <portsForCrack val="3"/>
+  <firewall level="-1"/>
+  <trace time="240"/>
+  <proxy time="0"/>
+
+  <file path="WORKLOGS" name="0118917.log">
+    LAVORO: CRITTA IL FILE
+    ARGOMENTI:
+    File: LemonStealingWhore.avi
+    Output: SeriousBuisnessDocuments.dec
+    --------------------------------------
+    LAVORO COMPLETATO: 0 ERRORI RILEVATI
+  </file>
+
+  <file path="WORKLOGS" name="8978163.log">
+    LAVORO: COMPILA CODICE SORGENTE (C#)
+    ARGOMENTI:
+    File: Main.cs
+    Output: WinC_DEBUG_NONRELEASE.exe
+    --------------------------------------
+    LAVORO INCOMPLETO: 1 ERRORE RILEVATO
+    FILE Main.cs NON TROVATO
+  </file>
+
+  <file path="WORKLOGS" name="3345633.log">
+    LAVORO: CRITTA IL FILE
+    ARGOMENTI:
+    File: WinCE_FirmwareSpecs.pdf
+    Output: WinCE_FirmwareSpecs.dec
+    Password: beepbeep
+    --------------------------------------
+   LAVORO COMPLETATO: 0 ERRORI RILEVATI
+  </file>
+
+  <file path="WORKLOGS" name="489820.log">
+    LAVORO: COMPILA CODICE SORGENTE (C#)
+    ARGOMENTI:
+    File: Main.cs
+    Output: WinC_DEBUG_NONRELEASE.exe
+    --------------------------------------
+   LAVORO COMPLETATO: 0 ERRORI RILEVATI
+    1 AVVISO RILEVATO:
+    Main.cs Linea 12, posizione 8: Rilevato codice irraggiungibile
+  </file>
+
+  <file path="WORKLOGS" name="9982711.log">
+    LAVORO: CRITTA IL FILE
+    ARGOMENTI:
+    File: Naruto_Xrated_Collection.zip
+    Output: printer_Drivers.dec
+    Password: BELIEVEIT
+    --------------------------------------
+   LAVORO COMPLETATO: 0 ERRORI RILEVATI
+  </file>
+  
+  
+</Computer>

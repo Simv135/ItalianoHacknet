@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="pressdemoMission04" activeCheck="true">
+  <goals>
+    <goal type="FileDeletion" target="finalNodeDemo" file="@19002_185.11.124.4_Disconnected" path="log"/>
+    <goal type="FileDeletion" target="finalNodeDemo" file="@19002_logarchive" path="log"/>
+    <goal type="FileDeletion" target="finalNodeDemo" file="x-server.sys" path="sys"/>
+    <goal type="FileDeletion" target="finalNodeDemo" file="netcfgx.dll" path="sys"/>
+  </goals>
+  <missionStart>demoFinalMissionStart</missionStart>
+  <missionEnd>demoFinalMissionEnd</missionEnd>
+  <nextMission>NONE</nextMission>
+  <email>
+    <sender>Bit</sender>
+    <subject>Ripartizione</subject>
+    <body>Siamo pronti.
+
+Voglio che tu faccia una caduta. Come avrai gia' indovinato, ti ho preparato fino ad ora e ora e' dove si inizia davvero.
+ Quando si esegue "Sequencer", si attivera' uno script che ho lasciato su uno dei miei server. Aprira' una connessione ad un server web e voglio che tu distrugga il server. Accedi li' e cancella tutto cio' che c'e' nella cartella /sys/.
+
+Non sara' come prima, quel server e' nascosto per un motivo. Ci saranno tracker dappertutto. Ed e' qui che il sequenziatore aiuta. Manterra' la connessione aperta il piu' a lungo possibile e inviera' alla tua interfaccia un'indicazione di quanto tempo hai a disposizione. Assicurati che sia in funzione.
+
+Allego i dettagli, come sempre.
+Per ora, questo sara' l'ultimo messaggio da parte mia; tuttavia, questa versione e' pensata per essere temporanea e per preparare la cosa reale.
+
+Buona fortuna.
+Lucha.
+--Bit
+0
+    </body>
+    <attachments>
+      <note title="Descrizione della missione">Prima di iniziare, memorizza queste note e cancellale. Avrai bisogno di tutte le risorse del tuo sistema.
+
+Esegui Sequencer
+Collegati a EnTech
+Testare il sistema
+Eseguire i cracker di porta
+ Porthack
+Vai alla cartella /sys/ folder
+Cancella tutto (rm *)
+ Elimina tutti i registri
+Disconnettersi
+      </note>
+    </attachments>
+  </email>
+</mission>

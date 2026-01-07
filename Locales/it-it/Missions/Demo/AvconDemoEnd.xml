@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="avconMissionEnd" activeCheck="true">
+  <goals>
+    <goal type="FileDownload" target="bitMission02" file="Entropy_Induction_Test" path="home"/>
+  </goals>
+  <missionEnd val="2">changeSong</missionEnd>
+  <nextMission>Entropy/EntropyMission1.1.xml</nextMission>
+  <email>
+    <sender>Matt Trobbiani</sender>
+    <subject>Non c'e' tempo</subject>
+    <body>Congratulazioni!
+
+Hai appena finito la demo Avcon di Hacknet!
+La versione alfa del gioco e' stata rilasciata e puoi ottenerla gratuitamente su Desura o IndieCity.
+Il gioco e' ancora in fase di sviluppo, e sto lavorando per finirlo bene e renderlo il miglior gioco possibile prima del prossimo rilascio.
+
+Fammi sapere cosa ne pensi del gioco e se hai qualche suggerimento per il futuro.
+
+ Grazie per aver giocato!
+
+--Matt Trobbiani
+
+PS: Se vuoi di piu', il server nel link potrebbe avere qualche indizio...
+
+    </body>
+    <attachments>
+      <link comp="avconCreditsComp"/>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="kellisHW" ip="66.96.147.84" name="Servizi assistenza clienti Kellis Biotech" security="4" icon="kellis" type="2"> <!-- 1= corporate, 2 = Home, 3 = server -->
+  <!-- Security Stuff -->
+  <dlink target="kellisHW_BE"/>
+  <trace time="60"/>
+  <firewall level="6" solution="BIOGEL"/>
+
+  <missionListingServer name="Servizi ai clienti Kellis Biotech" group="Kellis Biotech" assigner="false" public="true"/>
+  
+  
+</Computer>

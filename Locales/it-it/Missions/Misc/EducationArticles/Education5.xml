@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Tracce - Passive">
+In risposta a un mondo sempre piu' ostile e attivo della sicurezza informatica e dell'hacking, le nuove suite di sicurezza digitale includono tipicamente metodi per tracciare la posizione di qualsiasi attivita' ostile contro quel server.
+
+Questa, naturalmente, e' una scienza inesatta, quindi le tracce possono generalmente assumere 2 forme: attiva e passiva.
+
+Questo articolo descrive le tracce passive.
+
+1: Tracce passive
+-----------------
+Una scansione passiva e' un programma in esecuzione su un computer che tenta di rilevare un'azione ostile e montare un'azione di scansione contro di essa. Il metodo per farlo varia da programma a programma (e quindi di solito anche il tempo richiesto per eseguirlo).
+In teoria, una traccia passiva puo' essere impedita dal completamento di un blocco autoindotto nel momento esatto in cui il ping arriva dal server ostile, senza restituirlo, in modo che il server ostile assuma che il pacchetto non sia mai arrivato.
+Tuttavia, questo richiederebbe l'integrazione nel sistema operativo stesso, e questa non e' una caratteristica di nessun sistema operativo ampiamente riconosciuto, quindi rimane un metodo efficace per rintracciare i potenziali attaccanti.
+
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

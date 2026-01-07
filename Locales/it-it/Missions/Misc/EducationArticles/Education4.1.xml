@@ -1,0 +1,26 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Server Proxy - Avanzato">
+Essenzialmente, i server proxy sono un computer secondario attraverso il quale ci si connette a una destinazione, che filtra e memorizza nella cache il traffico di rete per fornire sicurezza e aumentare le prestazioni web per le informazioni altamente richieste.
+
+Per impostazione predefinita, i proxy sono configurati per rifiutare il traffico che puo' essere considerato un pericolo per la rete (come l'inondazione FTP), al prezzo di dover mettere in whitelist il traffico autorizzato (come lo streaming video di YouTube).
+Cio' significa che, anche se possono essere scomodi per alcuni utenti nonostante siano ben configurati, sono in grado di impedire completamente l'esecuzione di programmi che potrebbero compromettere una porta o un servizio di sicurezza.
+
+Il difetto piu' noto dei server proxy e' il loro limite superiore di memoria: quando viene raggiunto, costringe questi server a chiudere del tutto la rete a cui sono collegati (una funzione usata raramente) o a permettere al traffico non controllato di passare.
+Ecco perche' l'aumento dei budget per la sicurezza della rete ha permesso di avere server proxy piu' robusti, con molta piu' memoria, il che rende il loro sovraccarico un compito che richiede tempo e fatica, impossibile con un solo computer.
+
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

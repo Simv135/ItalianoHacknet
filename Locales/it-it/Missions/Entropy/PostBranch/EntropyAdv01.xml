@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyMission03">
+  <goals>
+  </goals>
+  <missionStart>entropySendCSECInvite</missionStart>
+  <nextMission>NONE</nextMission>
+  <email>
+    <sender>Entropy</sender>
+    <subject>Congratulazioni</subject>
+    <body>
+Sembra che tu abbia completato il compito richiesto, speriamo che il profilo di questa comunita' rimanga in qualche modo civile per qualche tempo a venire.
+
+Mentre apprezziamo molto il tuo attuale servizio a Entropy, e' ormai chiaro che questa organizzazione non ti soddisfa.
+Ad essere onesti, Entropy non sarebbe mai stata una grande protagonista nel mondo degli hacker. L'ho creato per essere una sorta di fronte di buona volonta' di fronte a quello che e' un'immagine pubblica in rapido deterioramento della sottocultura hacker.
+
+Mentre spero che continuerai ad aiutarci se Entropy avra' bisogno di te, ti meriti piu' che bene questa offerta.
+
+Sono membro di un gruppo di hacker su invito piuttosto potente chiamato CSEC, un gruppo che include solo hacker eccezionali ed esperti di sicurezza informatica, e penso che ti troverai bene.
+Ti ho fatto una richiesta di invito e a breve dovresti ricevere un'email da loro con la prova dell'accettazione.
+
+ Sappi che non lo faccio alla leggera, gli inviti a questo gruppo sono molto richiesti in alcuni ambienti.
+
+Buona fortuna,
+-Tex
+
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

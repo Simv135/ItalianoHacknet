@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="getString" target="beepbeep"/>
+  </goals>
+  <missionEnd val="1">addFlags:dechead</missionEnd>
+  <nextMission>MainHub/Misc/Faction_Gain_Helper.xml</nextMission>
+  <posting title="Traccia un file crittato">
+Penso di aver trovato un modo per tracciare dove i file crittati DEC sono stati crittati: abbiamo un file bloccato da password e vogliamo aprirlo. Dovrebbero esserci abbastanza indizi da seguire.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>RE: Attraverso il Cannocchiale</subject>
+    <body>
+Ottimo, hai qualcosa di valido?
+
+Si', abbiamo rinominato il file in questione, "CSEC_encode_1.dec", cosi' la gente non lo tocchi. Originariamente si chiamava "WinCE_FirmwareSpecs.dec", per quello che vale.
+Comunque, leggi le intestazioni, scopri dove e' stato crittato e trova la password! Rispondi a questo messaggio con la password e noi ci occuperemo del resto.
+
+Grazie per l'aiuto,
+- CT Team
+    </body>
+    <attachments>
+      <link comp="hubCrossroads"/>
+    </attachments>
+  </email>
+</mission>

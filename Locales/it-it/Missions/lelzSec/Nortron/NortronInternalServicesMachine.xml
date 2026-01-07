@@ -1,0 +1,57 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="nortronInternalServices" name="Server servizi interni Nortron" security="2">
+  <ports>22,21</ports>
+  <trace time="60"/>
+  <firewall level="1"/>
+  <link target="nortronMail"/>
+  <link target="nortronMainframe"/>
+  <positionNear target="nortronMainframe" position="1" total="3"/>
+  <!-- J. Abrams -->
+  <file path="staff_folders/J.Abrams" name="SecuDoc.bat">#BINARY#</file>
+  <file path="staff_folders/J.Abrams" name="REMINDER.txt">
+    NOTA:
+    dettagli della nuova email 
+   Utente = j.abrams
+    Password = bootyking420 
+
+   perche' dobbiamo cambiarlo ogni anno?
+  </file>
+  <file path="staff_folders/J.Abrams" name="Rootkit_analysis_report_2(Copy).doc">
+COMPITO: Scrivere un report 
+http://en.wikipedia.org/wiki/Antivirus
+  </file>
+  <file path="staff_folders/J.Abrams" name="Rootkit_analysis_report_2(Copy)(Copy).doc">
+Il software antivirus puo' tentare di rilevare i rootkit;
+un rootkit e' un tipo di malware progettato per ottenere il controllo amministrativo di un sistema informatico senza essere rilevato. I rootkit possono alterare
+ il funzionamento del sistema operativo e in alcuni casi possono interferire con il software antivirus, rendendolo inefficace.
+I rootkit sono anche difficili da rimuovere,
+in alcuni casi richiedendo una reinstallazione completa del sistema.
+
+Fonte: http://en.wikipedia.org/wiki/Antivirus
+  </file>
+  <file path="staff_folders/J.Abrams" name="SecuDoc.bat">#BINARY#</file>
+
+  <!-- P. Evans -->
+  <file path="staff_folders/P.Evans" name="SecuDoc.bat">#BINARY#</file>
+
+  <!-- L.L. Coolay -->
+  <file path="staff_folders/L.L.Cooljay" name="SecuDoc.bat">#BINARY#</file>
+
+  <!-- T.Stark -->
+  <file path="staff_folders/T.Stark" name="SecuDoc.bat">#BINARY#</file>
+  <file path="staff_folders/T.Stark" name="Harrasment_Evidence.txt">
+    
+Quella che segue e' una copia di un'email ricevuta da un collega:
+    
+| T-BONE, Tony, amico, che succede?
+| Ci siamo ancora per il pranzo oggi? Ho voglia di pollo.  
+| Forse anche dell'anguria. Vedremo.
+| Fammi sapere.
+| 
+| -Figo JJJJJJJJJJJJ
+
+IL MIO NOME NON e' TONY, ADESSO BASTA. 
+THOMAS STARK e' UN NOME PERFETTO.
+
+  </file>
+</Computer>

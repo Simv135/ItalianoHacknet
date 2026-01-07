@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="xcRepOK" activeCheck="true">
+  <goals>
+    <goal type="delay" time="2.5"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="ERRORE">
+ERRORE EDITORIALE SCONOSCIUTO
+  </posting>
+  <email>
+    <sender>X-C Proj. : Bradford</sender>
+    <subject>Re: Investigazioni interne</subject>
+    <body>
+Ottimo lavoro, civile, non hai lasciato nulla al caso e il lavoro ha dato i suoi frutti.
+
+Tutto sembra essere in ordine, questi sono esattamente il tipo di file che speravamo di vedere. Speriamo che la diligenza del team nel portare a termine questi progetti ci dia un vantaggio negli impegni futuri.
+
+Grazie,
+-Direttore Bradford
+    </body>
+    <attachments></attachments>
+  </email>
+</mission>

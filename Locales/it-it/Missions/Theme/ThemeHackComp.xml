@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="themeHackComp" name="Proxy_Node-X22" security="1">
+  <dlink target="naixGateway"/>
+  <file path="bin" name="SSHcrack.exe">#SSH_CRACK#</file>
+  <file path="bin" name="WebServerWorm.exe">#WEB_CRACK#</file>
+  <file path="sys" name="x-server.sys">#GREEN_THEME#</file>
+  <file path="home" name="Get_Out.txt">
+Oh, tesoro:
+
+Stai molto meglio di quanto pensassi! Sono totalmente sorpreso.
+
+Vorrei che tu potessi trasmettere meglio il sarcasmo nel testo.
+
+E poi, non fare cazzate, mi piace questa delega.
+  </file>
+  <file path="log" name="@11907_Connection_Routed_173.194.35.172_To_173.188.235.2">Connessione diretta di 173.194.35.172 a 173.188.235.2</file>
+  <file path="log" name="@28907_Connection_Routed_173.194.35.172_To_203.194.22.112">Connessione diretta di 173.194.35.172 a 203.194.22.112</file>
+  <file path="log" name="@52734_Connection_Routed_173.194.35.172_To_#PLAYER_IP#">Connessione diretta di 173.194.35.172 a #PLAYER_IP#</file>
+</Computer>

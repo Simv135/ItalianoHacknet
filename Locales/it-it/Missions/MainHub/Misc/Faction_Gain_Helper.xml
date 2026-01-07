@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="csecFactionGainHelper" activeCheck="true">
+  <goals>
+    <goal type="delay" time="1.5"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission IsSilent="true">NONE</nextMission>
+  <email>
+    <sender>CSEC Admin</sender>
+    <subject>Invito del CSEC</subject>
+    <body>
+Salve, #PLAYERNAME#:
+
+Congratulazioni per il tuo recente successo con il contratto: le tue capacita' non sono passate inosservate.
+
+Congratulazioni e buona fortuna.
+- L'amministrazione del CSEC
+
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

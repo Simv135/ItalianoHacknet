@@ -1,0 +1,36 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="lelzSec0">
+  <goals>
+    <goal type="FileChange" target="nortronWebServer" file="index.html" path="web" keyword="dicks"/>
+  </goals>
+  <missionStart val="10">changeSong</missionStart>
+  <nextMission>lelzSec/NortronBreakIn.xml</nextMission>
+  <branchMissions>
+    <branch>Theme/ThemeHackEndMission.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Naix</sender>
+    <subject>Bella mossa</subject>
+    <body>
+Ok, ok, l'ho capito. D'accordo, va bene. Smettila di rompere i coglioni.
+
+e' stato un po' maldestro lasciare quei dischi sul tuo computer, seriamente, sembrava che non avessi la piu' pallida idea di quello che stessi facendo.
+Ma hey, forse e' anche una buona cosa, non capita tutti i giorni di incontrare qualcuno online che non sia un completo idiota.
+
+Ho un piccolo test per te, dovrebbe essere abbastanza divertente. C'e' una societa' di sicurezza che e' praticamente una fottuta barzelletta, la Nortron, la conosci?
+Si', la verita' e' che preferirei avere un virus piuttosto che la loro stronzata di "sicurezza" che mi blocca il computer. e' una fottuta stronzata. Ottengono la maggior parte delle loro vendite da gente che non sa cosa sta facendo.
+
+e' un po' che voglio fottere il loro sito web e mettere la parola "CAZZI" su tutta la pagina. CAZZI nel titolo, nell'intestazione, seriamente, non mi interessa se cambi la fottuta pagina per metterci solo la parola CAZZI.
+Se vuoi fare un po' di hacktivismo per far divertire il mondo, fammi vedere di cosa sei capace. Sicuramente questo e' piu' divertente di tutta la roba per cui eri qui all'inizio, giusto?
+
+-Naix
+
+PS: sono sicuro che non hai ancora idea di cosa sia la vera sicurezza, quindi ti ho anche dato un link a una guida per hacker principianti, divertiti!
+    </body>
+    <attachments>
+      <link comp="nortronWebServer"/>
+      <link comp="netEduComp"/>
+      <note title="Istruzioni">Sostituisci qualcosa nel titolo con "CAZZI". Approvero' anche altri cambiamenti, purche' siano divertenti.</note>
+    </attachments>
+  </email>
+</mission>

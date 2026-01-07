@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="getString" target="1299"/>
+  </goals>
+  <nextMission>Entropy/StartingSet/Misc/XC_Replies/XC_OK_Reply.xml</nextMission>
+  <branchMissions>
+    <branch>Entropy/StartingSet/Misc/XC_Replies/XC_OK_Reply2.xml</branch>
+    <branch>Entropy/StartingSet/Misc/XC_Replies/XC_OK_Reply3.xml</branch>
+    <branch>Entropy/StartingSet/Misc/XC_Replies/XC_OK_Reply4_Penetrator.xml</branch>
+    <branch>Entropy/StartingSet/Misc/XC_Replies/XC_OK_Reply5.xml</branch>
+  </branchMissions>
+  <posting title="Progetto X-C">
+Una richiesta piuttosto strana. Qualcuno eccezionalmente ricco ha chiesto aiuto per indagare sul tablet di una collega per vedere se lo sta usando per affari personali sul posto di lavoro.
+
+Dopo una rapida occhiata al loro sistema sembra che siano ossessionati dagli alieni, forse sono un gruppo di gioco di ruolo, o un gruppo di teorici della cospirazione?
+ </posting>
+  <email>
+    <sender>X-C Proj. : Bradford</sender>
+    <subject>Investigazioni interne</subject>
+    <body>
+Salve, civile:
+Il progetto X-C ha bisogno del tuo aiuto. Anche se questa e' una questione strettamente interna e tranquilla, e' qualcosa che mi piacerebbe esaminare personalmente, dato che ho i miei sospetti da un po' di tempo. Credo che uno dei migliori leader di ricerca del nostro team scientifico sia meno... produttivo di quanto potrebbe essere.
+Voglio che un operatore esterno indaghi sul suo tablet e veda se c'e' qualcosa fuori posto o non legato al lavoro.
+
+I nostri server utilizzano un sistema di archiviazione dei dati che contiene una replica dei file tramite un codice ID. Voglio che indaghiate sul sistema e che mi facciate sapere il codice di tutti i file che pensate valga la pena studiare.
+I file che ci interessano dovrebbero avere il loro ID indicato in alto, come questo: X-C_PROJECT:ID#1111111111, dove "1111111111" e' l'ID che stiamo cercando.
+
+Allego un link diretto al tablet in questione.
+
+Buona fortuna,
+-Direttore Bradford
+    </body>
+    <attachments>
+      <link comp="xcTablet"/>
+    </attachments>
+  </email>
+</mission>

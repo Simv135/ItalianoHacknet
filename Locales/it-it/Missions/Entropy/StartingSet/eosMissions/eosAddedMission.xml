@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="eosAdded1">
+  <goals>
+    <goal type="getString" target="warsix22"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Schiacciare e Frantumare">
+Un cliente vuole che gli vengano inviate informazioni sul numero di telefono di un collega.
+  </posting>
+  <email>
+    <sender>Entropy Mailbot</sender>
+    <subject>Schiacciare e frantumare</subject>
+    <body>
+Agente:
+
+Questo contratto richiede che lei abbia familiarita' con i dispositivi eOS e la loro sicurezza. Un cliente sta cercando alcune informazioni memorizzate sul telefono di un collega, una password per essere precisi, e vuole estrarle. Ci hanno fornito l'IP del computer su cui e' sincronizzato il dispositivo, come richiesto.
+
+Includo un link in questa e-mail. Dovresti cercare una password che usano; se ne trovi diverse, rispondi con tutte se possibile, il bot di verifica le provera' tutte.
+
+Buona fortuna,
+-Amministratori di Entropy
+    </body>
+    <attachments>
+      <link comp="eosAdded1Comp"/>
+    </attachments>
+  </email>
+</mission>

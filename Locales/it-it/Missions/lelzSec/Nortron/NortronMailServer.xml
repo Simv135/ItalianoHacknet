@@ -1,0 +1,94 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="nortronMail" name="Server di posta Nortron" security="1">
+  <ports>25</ports>
+  <trace time="10.0"/>
+  <firewall level="17" solution="123456789ABC"/>
+  <link target="nortronMainframe"/>
+  <positionNear target="nortronMainframe" position="2" total="3"/>
+  
+  <!-- Mail Server Accounts -->
+  <account username="j.abrams" password="bootyking420" type="2"/>
+  
+  <mailServer name="Nortron Mail" color="220,208,69">
+    <email recipient="j.abrams" sender="Peter Evans" subject="Dov'e' quel rapporto?">
+John,
+
+Sto ancora aspettando il rapporto sull'analisi dei rootkit, ci sono novita'?
+Stiamo cercando di lanciare una nuova campagna
+e gli altri direttori vogliono qualche garanzia che il team marketing sappia cosa sta facendo.
+
+Cerca di consegnarmelo entro lunedi', se puoi.
+Odio mettere fretta, ma ne hanno bisogno.
+
+Grazie,
+-Peter
+    </email>
+    <email recipient="j.abrams" sender="hornberg@gmx.de" subject="Fw:Fw: Migliori graffiti">
+      -------- Messaggio originale -------- Oggetto:     Rv: migliori graffiti
+      Data:     Mer, 31 ottobre 2012 18:54:54 +1300
+      Da:     TK Skull tkn.skull@xtra.co.nz
+        A:     skull1@ntlworld.com
+          , "JJ SK" e4@bigpond.com
+            , "Günter Hornberg" ghornberg@gmx.de
+              , "Andrea Senior" senior@xtra.co.nz
+                , "Cols" C.D.Wilson@xtra.co.nz
+                  , "Flo Wilson" FloJoW@xtra.co.nz
+
+Da: gandgrichards@xtra.co.nz
+ Inviato: Mercoledi', 31 ottobre 2012 2:58 PM
+A: gandgrichards@xtra.co.nz 
+Oggetto: Rv: migliori graffiti
+
+Oggetto: I migliori graffiti 
+
+>  
+> 
+ > Sono assolutamente fantastici... divertiti.
+> 
+ 
+--Alcuni contenuti potrebbero non essere stati caricati.--
+    </email>
+        <email recipient="j.abrams" sender="gandgrichrds@xtra.co.nz " subject="Fw: Foto aeree!">
+Da: gandgrichrds@xtra.co.nz 
+Inviato: Venerdi', 19 ottobre 2012 8:41 AM
+A: gandgrichrds@xtra.co.nz 
+Oggetto: Rv: foto aeree
+
+Oggetto: Foto aeree...
+ 
+Apri il file allegato pps:...
+
+
+Emoticon GRATUITE per le tue email - di IncrediMail
+
+--Allegati rimossi a causa di una firma exe sospetta--
+    </email>
+    <email recipient="j.abrams" sender="Nortron IT Support" subject="RE: Non riesci ad accedere">
+Sig. Abrams:
+
+Questa e' la quarta volta che te lo ricordiamo. Sopra la tua scrivania c'e' un avviso che probabilmente hai visto e che ti ricorda la politica dei firewall di Nortron. Prendiamo la sicurezza molto seriamente e il login per bypassare il firewall prima di accedere a Internet e' vitale per mantenere la sicurezza aziendale.
+
+Come ti abbiamo gia' detto, la password per bypassare il firewall su tutti i server interni e':
+
+123456789ABC
+
+Scrivila dove non la dimenticherai.
+
+-IT
+
+
+ | IT,
+ | questo NON e' ANCORA RISOLTO!
+  | Non ho accesso a internet!
+  | Come faro' a lavorare senza internet?
+  | Mi chiede una password per il firewall.
+  | e' rotto? Perche' non lo riparate? Non smette di succedere!
+  |
+  | Come accedo a internet? e' MOLTO IMPORTANTE!
+  |
+ | Sig. J. Abrams
+ | Nortron Marketing
+    </email>
+    
+  </mailServer>
+</Computer>

@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="lelzSec2" activeCheck="true">
+  <goals>
+  </goals>
+  <missionStart>assignPlayerToLelzSec</missionStart>
+  <nextMission>lelzSec/CompletedPathMission.xml</nextMission>
+  <email>
+    <sender>Naix</sender>
+    <subject>Un collegamento importante</subject>
+    <body>
+Ok, sai una cosa? Ti avevo giudicato male. Quindi mi scuso. Oh, questo e' un bene.
+
+Ti sei dimostrato abbastanza in gamba, ho parlato con gli altri e ti abbiamo accettato nel gruppo.
+Il tuo IP e' ora in whitelist (quindi per ora non cambiarlo), dovresti essere in grado di accedere adesso.
+
+Ti diamo il benvenuto.
+
+-Naix
+    </body>
+    <attachments>
+      <link comp="lelzSecHub"/>
+    </attachments>
+  </email>
+</mission>

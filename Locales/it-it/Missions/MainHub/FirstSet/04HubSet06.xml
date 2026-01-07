@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="FileDownload" target="jscottHome" file="DECHead.exe" path="home/work"/>
+  </goals>
+  <nextMission>MainHub/DecypherSet/DECHeadMission02.xml</nextMission>
+  <posting title="Traccia un file crittato">
+Penso di aver trovato un modo per tracciare dove i file crittati DEC sono stati crittati: abbiamo un file bloccato da password e vogliamo aprirlo. Dovrebbero esserci abbastanza indizi da seguire.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Attraverso il cannocchiale</subject>
+    <body>
+A quanto pare, i file crittati DEC memorizzano l'IP su cui sono stati crittati (insieme ad alcuni messaggi vari) nelle intestazioni crittate. Presumibilmente e' per scopi di debug o qualcosa del genere, ma per noi e' una grossa vulnerabilita' di sicurezza... che e' una figata, perche' dobbiamo decrittare qualcosa e non abbiamo idea di quale sia la password.
+
+Quindi, primo passo: trovare un modo per leggere le intestazioni. Abbiamo fatto qualche ricerca e abbiamo scoperto che uno degli impiegati di DEC Solutions potrebbe avere un modo per decodificare le intestazioni senza conoscere la password di un file.
+Dategli un'occhiata e rispondete se trovate qualcosa di utile. Dopo di che, avremo altre cose per voi.
+
+-Team CT
+    </body>
+    <attachments>
+      <link comp="jscottHome"/>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="pacemakerHWArticle04">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="#0E0015 - Pacemaker v2.44 Sicurezza e autorizzazioni">
+Questo post spiega la funzione di sicurezza del pacemaker v2.44. Per le operazioni generali, fate riferimento alla documentazione stampata o richiedetene un'altra copia a support@kellisBio.com
+---------------------------------------------
+
+Superare la sicurezza ed eseguire un aggiornamento del firmware quando un binario firmato e' stato ricevuto dagli sviluppatori del software richiede diversi passaggi.
+Per prima cosa, collegatevi al chip del pacemaker con l'indirizzo IP di riferimento del paziente.
+
+Poi, accedi come amministratore, con i dati assegnati ad ogni caso dal cliente. Questo passo e' protetto dal sistema brevettato di protezione delle microporte di Kellis (porta 6652).
+
+A questo punto, il monitoraggio remoto sara' abilitato, permettendo all'utente di visualizzare i dati ECG dal vivo.
+
+Per aggiornare il firmware, e' necessario accedere nuovamente con un codice di autenticazione del produttore di software autorizzato.
+
+Quando entrambi i dati sono confermati, l'aggiornamento puo' essere caricato e attivato sul chip, che gradualmente si riavvia automaticamente, senza pericolo per il paziente, e attiva il nuovo codice.
+
+  </posting>
+    <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Per favore, state in guardia.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

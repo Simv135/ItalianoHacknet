@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education07">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Sistema Note *Nix">
+Tutti i sistemi operativi controllati da terminale basati sul kernel *Nix hanno un programma di note integrato (eseguito con «note») che puo' essere molto utile.
+Di solito e' usato poco, consuma poca RAM e si integra bene con molti client di posta e altri programmi (che possono autocompletare le note per te).
+
+Eseguirlo e' semplice come usare il comando «note». Per aggiungere note, potete farlo manualmente nell'interfaccia utente o con il comando «addNote [NOTE]».
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

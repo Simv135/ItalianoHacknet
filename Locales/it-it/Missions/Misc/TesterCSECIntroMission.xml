@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="bitMission00">
+  <goals>
+    <goal type="getAdmin" target="practiceServer"/>
+  </goals>
+  <missionStart val="0">CSECTesterGameWorldSetup</missionStart>
+  <missionEnd val="0">assignPlayerToHubServerFaction</missionEnd>
+  <nextMission>MainHub/Intro/Intro01.xml</nextMission>
+  <email>
+    <sender>Matt Trobbiani</sender>
+    <subject>Missione di test super speciale segreta</subject>
+    <body>
+    Amico:
+      
+ Grazie per aver aiutato con i test! Questa e' una missione di riscaldamento progettata per riapprendere le meccaniche dell'hacking.
+    Ti sono stati dati alcuni nodi amministrativi da utilizzare e il set base di 4 programmi (SSHCrack, WebServerWorm, SMTPOverflow e FTPBounce).
+     
+   Diventa Amministratore sul computer collegato e rispondi a questo per continuare.
+    Facendo questo, passerai direttamente al livello CSEC, dove potrai iniziare ad accettare gli ultimi contratti.
+    Non dimenticare di visitare prima il server delle risorse CSEC!
+       
+   -Matt
+   
+    
+    .  
+   
+   
+    </body>
+    <attachments>
+      <link comp="practiceServer"/>
+    </attachments>
+  </email>
+</mission>

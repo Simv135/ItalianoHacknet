@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="generatedWebVandal00">
+  <goals>
+    <goal type="FileChange" target="#COMP#" file="#FILE#" path="#PATH#" keyword="liars"/>
+  </goals>
+  <missionEnd val="5">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="#CLIENT# : Esporre la Verita'">
+Un cliente ci ha chiesto di smascherare l'immagine pubblica di un concorrente per rivelare la verita'.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>Esporre la verita'</subject>
+    <body>
+Salve Agente,
+
+Vogliamo smascherare la verita' su #TARGET#. Hanno ingannato deliberatamente il pubblico con una campagna pubblicitaria mendace per ottenere un vantaggio sulla nostra azienda.
+
+Vorremmo che la verita' venisse rivelata sul loro stesso sito web; considereremo il contratto completato quando il loro sito li definira' pubblicamente "BUGIARDI".
+
+Grazie,
+ -#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubIntro2Alt">
+  <goals>
+    <goal type="FileUpload" target="kfcRecordsRepo" file="Seasoning_Order_Placement_Template_Pt1.docx" path="home/Ordering" destTarget="hubPubDrop" destPath="Drop/Uploads"/>
+    <goal type="FileUpload" target="kfcRecordsRepo" file="Seasoning_Order_Placement_Template_Pt2.docx" path="home/Ordering" destTarget="hubPubDrop" destPath="Drop/Uploads"/>
+  </goals>
+  
+  <missionEnd val="0">assignPlayerToHubServerFaction</missionEnd>
+  <nextMission>MainHub/Intro/Intro03Pass.xml</nextMission>
+  <email>
+    <sender>CSEC Admin</sender>
+    <subject>Invito CSEC: Mitigazione</subject>
+    <body>
+#PLAYERNAME#:
+
+Ho appena ricevuto un'email con una raccomandazione molto intimidatoria di offrirti un invito al nostro piccolo gruppo. Non so come hai fatto a fare amicizia con contatti del genere (o se addirittura sai di chi sto parlando) ma questa e' una grande opportunita'.
+Sono del CSEC e salterai le sezioni automatiche dell'introduzione, per volonta' del tuo sponsor, quindi cerca di essere all'altezza. Ma prima che tu vada avanti, dovrai anche superare il mio test.
+
+Ho in mente qualcosa di buono per te, ma non dovrebbe nemmeno essere troppo facile!
+
+Voglio che tu vada nei server KFC e mi trovi le 11 erbe e spezie segrete.
+
+Se riesci a mettere le mani sulla lista e a caricarla sul server pubblico di consegna del CSEC, saro' felice di farti entrare.
+
+- Vap0r
+Amministratore del CSEC
+
+    </body>
+    <attachments>
+      <link comp="kfcWebServer"/>
+      <link comp="hubPubDrop"/>
+    </attachments>
+  </email>
+</mission>

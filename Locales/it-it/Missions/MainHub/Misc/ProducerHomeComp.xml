@@ -1,0 +1,59 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="producerComp" ip="37.187.27.55" name="Il LackBook Pro di Jason" security="2" allowsDefaultBootModule="false" icon="laptop" type="2"> <!-- 1= corporate, 2 = Home, 3 = server -->
+  <adminPass pass="DANGER"/>
+  <!-- Security Stuff -->
+  <trace time="-1"/> <!-- Aggiunge un timer per la traccia - imposta a -1 per rimuoverlo -->
+  <firewall level="6" solution="DANGER"/>
+  
+  <file path="sys" name="x-server.sys">#WHITE_THEME#</file>
+
+  <file path="home/scripts" name="DANGER.txt">
+    Perche' la parola «pericolo» e' una parola cosi' bella? Non solo «pericolo», ma PERICOLO, tutto in maiuscolo. Oggettivamente, e' la parola migliore.
+    La zona migliore? La zona di pericolo. Il miglior cognome? PERICOLO.
+    Vorrei poter usare questa parola per tutto.
+  </file>
+
+  <encryptedFile path="home/scripts" name="T2_Screenplay.dec" ip="37.187.27.55" header="Secure Script Encryption inc (c)" extension=".doc">
+    Titanic 2: La vendetta dell'iceberg
+    - Un copione -
+
+JACK DAWSON: «Nessuno ci ha pensato, ma l'iceberg non ci ha colpito.... L'ABBIAMO COLPITO NOI!»
+ROSE DEWITT BUKATER: «Come? L'operazione da scienziato pazzo che ti ha riportato in vita ti ha incasinato la testa? Ti ho riportato in vita perche' ti *AMO*!».
+JACK DAWSON: «Lo so, ma qui siamo in pericolo. Quell'iceberg aveva una famiglia e vuole vendicarsi. Mi hanno detto che quando stavo per morire... loro non se lo aspettavano....».
+- JACK DAWSON scuote i suoi occhiali da sole refrigeranti e li indossa.
+JACK DAWSON: «Tornero'».
+
+Taglio sulla costa della California.
+
+Un iceberg appare nell'acqua e si avvicina alla citta' a una velocita' incredibile.
+Le sirene di evacuazione iniziano a suonare, la gente sulla spiaggia urla, lo indica e fugge per la propria vita.
+Insieme ad esso, appaiono altri iceberg, anch'essi velocissimi verso la riva.
+
+ROSE DEWITT BUKATER: «Aiuto!».
+JACK DAWSON: «Rose! Sono qui per te! Non ti lascero' mai!».
+
+Il primo iceberg e' gia' sulla riva e scivola verso i due protagonisti. Tira fuori una pistola.
+
+ROSE DEWITT BUKATER: «¡JAAAAACCCKKKKKKK!».
+
+  </encryptedFile>
+
+  <encryptedFile path="home/scripts" name="GHL_ChapterList.dec" ip="37.187.27.55" header="Secure Script Encryption inc (c)" extension=".doc">
+    La leggenda dell'eroe galattico
+   -Indice-
+
+  CAPITOLO 1: Ingresso nella stratosfera
+   CAPITOLO 2: Impatto profondo
+    CAPITOLO 3: Boost all'indietro
+    CAPITOLO 4: Al cuore
+    CAPITOLO 5: Tremori intensi
+    Capitolo 6: Attacco al contrammiraglio
+    CAPITOLO 7: I quattro bottini di guerra
+    CAPITOLO 8: La portata della sua gratitudine
+    CAPITOLO 9: Rimpianti, paure e desideri
+   CAPITOLO 10: Esplosioni nelle profondita'
+    CAPITOLO 11: Con un ritmo rigoroso
+    CAPITOLO 12: All'inizio gentile, poi con grande furore
+  </encryptedFile>
+  
+</Computer>

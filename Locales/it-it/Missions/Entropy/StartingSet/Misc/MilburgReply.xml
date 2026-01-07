@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entRep01" activeCheck="true">
+  <goals>
+    <goal type="delay" time="2.5"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="ERRORE">
+ERRORE EDITORIALE SCONOSCIUTO
+  </posting>
+  <email>
+    <sender>Entropy Mailbot</sender>
+    <subject>Re: Ritorno a Scuola</subject>
+    <body>
+Ok, sul serio?
+
+*******... Wow. Non so se questo tizio e' un genio o un idiota. Forse entrambi?
+Cazzo, voglio dire, ho controllato da solo perche' lo script di verifica diceva che funzionava e volevo *testarlo*.
+
+Uh... La... risposta agli amministratori del liceo sara' confusa. Ugh.
+
+Ottimo lavoro da parte tua, ora ci occuperemo del resto.
+-Amministratori
+    </body>
+    <attachments></attachments>
+  </email>
+</mission>

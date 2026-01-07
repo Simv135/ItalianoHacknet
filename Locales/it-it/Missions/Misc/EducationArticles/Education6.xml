@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Tracce - Attive">
+In risposta a un mondo sempre piu' ostile e attivo della sicurezza informatica e dell'hacking, le nuove suite di sicurezza digitale includono tipicamente metodi per tracciare la posizione di qualsiasi attivita' «ostile» contro quel server.
+
+Questa, naturalmente, e' una scienza inesatta, quindi le tracce possono generalmente assumere 2 forme:
+
+attiva e passiva. Questo articolo descrive le tracce attive.
+
+2: Tracce attive
+----------------
+Una traccia attiva e' un'azione di tracciamento eseguita da una persona contro una connessione attualmente attiva o, piu' comunemente, contro i log lasciati su un server da un hacker disattento.
+Una traccia attiva non e' rilevabile e di solito viene fatta tentando di violare la sicurezza dei nodi utilizzati nel percorso di routing e osservando i log del percorso di connessione.
+Una traccia attiva puo' essere evitata cancellando una stringa nel collegamento di connessione, in modo che il tracker non abbia nulla da seguire. Si raccomanda quindi che, se una traccia attiva e' impostata contro un attaccante, dovrebbe essere eseguita il piu' presto possibile.
+
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

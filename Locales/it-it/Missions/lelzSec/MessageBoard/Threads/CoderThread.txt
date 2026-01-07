@@ -1,0 +1,44 @@
+﻿junkCoder
+------------------------------------------
+#Academic
+Discussione di programmazione giornaliera
+A cosa state lavorando, /el/?
+------------------------------------------
+Sto cercando di capire di nuovo il programma.
+Mi riporta tanti ricordi della mia ex. ;_;
+------------------------------------------
+Ma e' sicuro programmare eventi come questo, semplicemente creando un nuovo thread?
+
+boost::thread( [] { boost::this_thread::sleep (boost:: posix_time :: seconds(5)); running = false;});
+>inb4 >C++ >boost
+------------------------------------------
+>>37334564
+Basta fare attenzione con quei flag. Usa invece i lock o gli atomici.
+------------------------------------------
+>>37334598
+Cosa intendi con flag e cosa sono le operazioni atomiche?
+------------------------------------------
+>>37334626
+>running = false
+
+Il problema con le basi C++ a basso livello e' che a livello ASM possono fare cose assurde.  
+Le operazioni atomiche garantiscono che tutte le azioni su quella variabile vengano eseguite come un'unica operazione indivisibile.
+------------------------------------------
+Qualcuno vuole valutare il mio risolutore di Sudoku?
+http://pastebin.com/Q6Qhm66E
+------------------------------------------
+Nella funzione di controllo, gli int tx e ty sono assegnati rispettivamente a x/3 e y/3, ma poi vengono moltiplicati per 3. Perche' non assegnare direttamente x e y?
+------------------------------------------
+Ti rispondo in ritardo, ma 
+Sto cercando il blocco specifico in cui si trovano. 
+Diciamo che, x = 5, y = 5.
+Il blocco particolare inizia a 3,3. E questo e' l'unico modo che mi viene in mente per farlo.
+------------------------------------------
+>>37334068 (OP)
+Sto lavorando su come essere piu' felice e imparare le API di Windows e il kernel di FreeBSD.
+------------------------------------------
+>>37343926
+>piu' felice
+>API Windows
+hhehehe
+------------------------------------------

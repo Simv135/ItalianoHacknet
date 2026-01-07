@@ -1,0 +1,51 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="kfcMainframe" name="Sistema principale aziendale KFC" security="5" type="4">
+  <trace time="320"/>
+  <proxy time="0"/>
+  <firewall level="0"/>
+  <dlink target="kfcWebServer"/>
+  <dlink target="kfcRecordsRepo"/>
+  <admin type="fast" resetPassword="true"/>
+
+  <file path="home/training_files" name="New_Employee_Welcome_Email.txt">
+    %NAME%:
+
+   Benvenuto nella famiglia KFC!
+
+    Kernel's Food Corner offre grandi opportunita' di carriera, un lavoro eccitante e squadre piene di amici - speriamo che tu sia grande con noi!
+    Come membro del team, avrai diritto alla carta sconto del 12% per i dipendenti, che troverai insieme a questa lettera - divertiti!
+
+    Riceverai un'introduzione formale al negozio e al nostro stage durante il tuo primo turno, ma prima voglio darti il benvenuto in famiglia.
+
+    - La direzione
+  </file>
+
+  <file path="home/training_files" name="11_Secret_Herbs_And_Spices.txt">
+    Molti nuovi dipendenti chiederanno la formula segreta, per curiosita' o perche' vogliono essere piu' coinvolti nell'azienda. Purtroppo, la formula e' troppo importante per darla a tutti i dipendenti (soprattutto con i tassi di abbandono che abbiamo avuto ultimamente) ed e' quindi protetta.
+    La combinazione viene regolarmente spedita ai negozi in sacchetti di plastica bianca non contrassegnati e deve essere mescolata con la pastella come indicato.
+
+    La formula non puo' nemmeno essere data alla direzione. In effetti, solo 2 persone al mondo la conoscono in un dato momento (ed e' severamente vietato loro di viaggiare nello stesso veicolo allo stesso tempo).
+
+    Siate certi che la formula del nostro pollo perfetto e' prodotta e ordinata con cura ed e' un segreto strettamente custodito.
+  </file>
+  <file path="home/training_files" name="Order_Records_Guide.txt">
+    Le registrazioni degli ordini di ogni negozio devono essere registrate localmente, e gli aggiornamenti archiviati devono essere inviati annualmente al magazzino centrale di KFC.
+    L'origine degli ordini e' conservata nello stesso magazzino, e i registri sono disponibili solo in caso di emergenza (di solito per la tracciabilita' in caso di intossicazione alimentare) e sono emessi solo di persona, su carta, e su richiesta.
+
+    Magazzino di documenti KFC: 202.7.177.65
+
+  </file>
+
+
+  <file path="home/Media" name="Logo.png">#BINARY#</file>
+  <file path="home/Media" name="Logo_Small.png">#BINARY#</file>
+  <file path="home/Media" name="MediaKit_2011.zip">#BINARY##BINARY#</file>
+  <file path="home/Media" name="Guide.txt">
+    Al Kernel's Food Corner abbiamo una missione: servire il miglior pollo del mondo.
+    Ecco perche' usiamo solo i migliori ingredienti, polli interi consegnati freschi.
+    Poi viene preparato sul posto, battuto a mano con le nostre ricette segrete e cucinato proprio in quel momento dai nostri chef certificati KFC in tutti i nostri ristoranti.
+    e' facile? No. Ma basta un solo morso per ricordarti perche' vale la pena fare uno sforzo in piu'.
+    Perche' appena fatto, ha un sapore migliore. Fermati al tuo KFC locale e provalo.
+  </file>
+
+</Computer>

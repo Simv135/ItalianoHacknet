@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="FileDeletion" target="ppMarketing" file="SECURE_MAILLIST.dec" path="home/WORKSPACE"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Il famoso Counter-Hack">
+Abbiamo recentemente ricevuto la notizia di un'azienda che sta assumendo hacker meno... ehm... hacker ben intenzionati per recuperare alcuni dati sensibili da una societa' concorrente da sfruttare.
+Per dissuadere in futuro le aziende dall'utilizzare la comunita' hacker in questo modo, faremo in modo che l'operazione non vada liscia.
+  </posting>
+  <email>
+    <sender>Entropy Mailbot</sender>
+    <subject>Il famoso contro hacking</subject>
+    <body>Agente:
+
+La societa' "PP Marketing" ha recentemente assunto un hacker freelance per introdursi nei server di una societa' rivale al fine di recuperare alcuni dati sensibili (che crediamo essere una mailing list), cancellarli dal server e trasferirli al gruppo della societa'.
+Naturalmente questo tipo di spionaggio aziendale e' esattamente il tipo di affari che da' ai gruppi di hacker la loro cattiva reputazione, e mentre noi non siamo realmente interessati a monitorarli nella loro interezza, la palese pubblicita' del lavoro attraverso la rete lo rende un affare leggermente piu' pubblico, quindi vorremmo assicurarci che PP non raggiunga il suo scopo.
+
+Non sappiamo esattamente come si chiama il file, quindi potresti dover fare un po' di ricerche mentre sei dentro. Dovrai cercare una mailing list rubata, potrebbe essere archiviata o crittografata. Tieni anche presente che l'azienda potrebbe essere preparata per questa eventualita', e potrebbe avere alcune contromisure di sicurezza in atto.
+
+-Amministratori di Entropy
+    </body>
+    <attachments>
+      <link comp="ppMarketing"/>
+    </attachments>
+  </email>
+</mission>

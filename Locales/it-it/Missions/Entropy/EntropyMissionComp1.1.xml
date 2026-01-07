@@ -1,0 +1,5 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="entropy01.1" name="Server notizie Slash-Bot" security="1" type="4">
+  <missionListingServer name="Slash-Bot News" group="Slashbot" assigner="false" public="true"/>
+  <proxy time="0.5"/>
+</Computer>

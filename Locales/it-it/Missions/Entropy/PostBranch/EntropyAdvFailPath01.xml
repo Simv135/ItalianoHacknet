@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyMissionFail01">
+  <goals>
+    <goal type="getString" target="168.61.82.246"/>
+  </goals>
+  <nextMission>Entropy/PostBranch/EntropyAdv01.xml</nextMission>
+  <email>
+    <sender>Entropy</sender>
+    <subject>Speriamo che questo aiuti</subject>
+    <body>
+Sembra che tu abbia completato il compito richiesto, almeno a occhio nudo. Speriamo che il profilo di questa comunita' rimanga in qualche modo civile ancora per un po'.
+
+Anche se il lavoro sembra ormai fatto, non sono del tutto convinto che non ci fossero altre copie. Speravo di sentire che erano stati rimossi da uno dei canali IRC di hacker che frequento, ma finora niente. Speriamo che sia una reazione ritardata, o qualcosa che stanno cercando di coprire.
+Se volete restare un po' piu' a lungo, fate come volete.
+
+Nel frattempo, c'e' qualcosa in cui potresti darmi una mano. Qualcuno su quei canali ha parlato del lavoro che stavi cercando, dice di avere l'IP del server da cui sono stati presi i file.
+
+Puoi vedere se puoi procurarmelo? Basta rispondere a questo messaggio con l'IP come testo aggiuntivo. Ho creato una traccia semplice su di esso, sembra che i dati siano sul mio link.
+
+Grazie,
+-Tex
+
+    </body>
+    <attachments>
+      <link comp="entropyAdvFail01"/>
+    </attachments>
+  </email>
+</mission>

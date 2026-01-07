@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet08">
+  <goals>
+    <sendemail recipient="gila" subject="MedicalRecord - Sandburg_Jonas"/>
+  </goals>
+  <nextMission>MainHub/Continuations/FirstSet08_Reply.xml</nextMission>
+  <posting title="Esamina una cartella clinica">
+Ottieni una copia della cartella clinica di qualcuno per risolvere una discussione.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Verga di Asclepio</subject>
+    <body>
+Salve,
+
+Allora, potrei, o non potrei, essere entrato in qualche discussione online con qualcuno che posta immagini chiaramente ritoccate di... Beh, non importa.
+Ascolta, ho bisogno della storia medica autentica di questo tizio per risolvere la questione in modo plateale. Lo farei io stesso, ma... ho reso le mie intenzioni fin troppo chiare e sai come e' il CSEC su queste cose.
+Comunque, puoi aiutarmi? Il suo nome e' Jonas Sandburg. Il database medico ha uno strumento per inviare le cartelle alle persone, puoi mandare una copia a gila@jmail.com?
+
+Grazie!
+- G
+    </body>
+    <attachments>
+      <link comp="medical"/>
+      <note title="Note e altro">Amico, mi serve una cartella clinica:
+Jonas Sandburg.
+Invia email a:
+gila@jmail.com
+</note>
+    </attachments>
+  </email>
+</mission>

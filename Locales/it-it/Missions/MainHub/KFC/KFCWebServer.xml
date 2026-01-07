@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="kfcWebServer" name="www.kfc.com" security="2" type="4">
+  <ports>80,25</ports>
+  <trace time="0"/>
+  <addWebServer name="KFC Homepage" url="Content/Web/Presets/KFC/KFCHomePage.html"/>
+  <positionNear target="kfcMainframe" position="0" total="3"/>
+  <link target="kfcMainframe"/>
+
+  <file path="home" name="ServerStructure.txt">Webmaster: Ricordate che questo server e' ESCLUSIVAMENTE per i nostri contenuti pubblici.
+Tutti i file aziendali devono essere memorizzati sul sistema principale e sui server interni, che sono piu' sicuri.
+Questo server mantiene un collegamento al sistema principale per l'aggiornamento e la manutenzione. Questa configurazione non deve essere cambiata.</file>
+  
+</Computer>

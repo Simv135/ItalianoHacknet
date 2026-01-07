@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="getString" target="*******"/>
+  </goals>
+  <nextMission>Entropy/StartingSet/Misc/MilburgReply.xml</nextMission>
+  <posting title="Ritorno a Scuola">
+Una scuola superiore ci ha contattato perche' sospettano che il loro dipartimento IT possa accedere ai dati privati degli studenti (probabilmente su richiesta di un genitore, ma non possiamo dirlo con certezza). Non vogliono cancellare nulla, ma vogliono ottenere con discrezione le password private del loro personale IT per poter investigare autonomamente.
+  </posting>
+  <email>
+    <sender>Entropy Mailbot</sender>
+    <subject>Ritorno a Scuola</subject>
+    <body>Agente:
+
+Il dipartimento amministrativo dell'Istituto Milburgh ci ha contattato alla ricerca di un mezzo per ottenere in modo discreto la password di amministratore del loro personale IT, in modo da poter effettuare un'indagine su quali dati sono in possesso dei loro studenti.
+Una volta dentro, cercate di lasciare tutti i dati come li trovate. Qualsiasi manomissione potrebbe alterare il giudizio.
+Per quanto ti riguarda, devi fare il login, cancellare le tue tracce e rispondere a questo messaggio con la password del server. Contatteremo l'istituto e gli invieremo i dettagli.
+
+Buona fortuna,
+-Amministratori di Entropy
+    </body>
+    <attachments>
+      <link comp="milburgHigh"/>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="pacemakerHWArticle02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Usare questo server">
+Questo server di riferimento utilizza la tecnologia proprietaria di Kellis per il contesto di riferimento e mostrera' solo il contenuto relativo ai prodotti attivi che hai registrato.
+L'indirizzo che usi per accedere a questo server e' importante perche' riflette in modo univoco i dettagli del tuo account nel nostro sistema, quindi per favore non perderlo.
+  </posting>
+    <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Per favore, state in guardia.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

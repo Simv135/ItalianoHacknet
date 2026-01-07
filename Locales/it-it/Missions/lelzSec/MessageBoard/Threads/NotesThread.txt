@@ -1,0 +1,30 @@
+﻿notas
+------------------------------------------
+#Speech
+Che succede con il programma Notes? Com'e' che fa cosi' schifo?
+Perche' una stringa "nota di prova" occupa tipo 100 MB di RAM? Come e' possibile?
+------------------------------------------
+>Com'e' che fa cosi' schifo?
+Davvero? Non lo capisci?
+------------------------------------------
+>Notes
+>Schifo
+Ah, cazzo, qualcuno chiami Duck.
+------------------------------------------
+#Duck
+>qualcuno chiami duck
+ 
+>questo implica che non era gia' qui
+------------------------------------------
+#Academic
+Ok, odio rivelare tutto, ma questa idiozia deve finire. Il programma Notes e' un software incredibilmente ben progettato ed e' ovvio che non stai capendo il suo scopo.
+
+OVVIAMENTE memorizzare una stringa non occupa tutta quella RAM, sta semplicemente sfruttando il display della RAM per mantenere la nota visibile tutto il tempo, riempiendo esattamente lo spazio di cui ha bisogno con dati spazzatura.
+e' un hack, certo, ma significa che e' un programma per note generico che funziona su qualsiasi sistema operativo con un monitor RAM, il che lo rende un programma per note che non richiede un'interfaccia utente appositamente programmata.
+Il che significa che e' sempre utile averlo a portata di mano, nel caso tu abbia bisogno di annotare qualcosa e sia troppo pigro per andare a prendere una fottuta penna.
+
+
+
+
+
+------------------------------------------

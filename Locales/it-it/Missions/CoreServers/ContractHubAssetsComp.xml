@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="mainHubAssets" name="Server dei materiali CSEC" security="4">
+  <adminPass pass="csec-5xg3D11"/>
+  <admin type="fast" resetPassword="false"/>
+  <positionNear target="mainHub" position="5" total="6"/>
+  <file path="home/Templates/DeathRowDatabaseTemplate" name="template.txt">[FIRST_NAME]#[LAST_NAME]#[RECORD_NUM]#32#Rural#N/A#N/A#N/A#[LAST_WORDS]</file>
+  <file path="home/Templates/DeathRowDatabaseTemplate" name="FileNamingScheme.txt">
+Piano di rinominazione dei file del database della Death Row:
+
+ LastName_FirstName[RecordNumber] 
+
+Si raccomanda di scaricare una copia di template.txt, modificarlo localmente e poi rinominarlo secondo il piano prima di inserirlo nel database. 
+Ad esempio: DeTal_Fulano[12345] 
+
+Dato che probabilmente avrete bisogno di sostituire tutti i caratteri jolly nel file modello, dovrete usare la scorciatoia di sostituzione rapida: 
+1: Segna il file come "attivo"  nel tuo sistema operativo (il modo piu' semplice e' leggerlo con il comando cat – "cat template.txt") 
+2: Usare replace senza aggiungerlo al nome del file – (replace "[FIRST_NAME]" "John") 
+3: Continuare il passo 2 fino a quando il file assomiglia a quello che si vuole che assomigli 
+4: Rinominare il file (mv template.txt DeTal_Fulano[12345]) 
+5: Carica il file nel database (connettiti al database remoto), "caricare /home/Doe_John[12345]", assicurati che sia all'interno della cartella in cui vuoi caricarlo!)
+</file>
+  
+  <file path="bin/SQL_Mem_Corrupter" name="SQL_MemCorrupt.exe">#SQL_CRACK#</file>
+  <file path="bin/SQL_Mem_Corrupter" name="info.txt">
+--Leggimi dal SQL Memory Corruption Injector -- 
+   
+L'iniettore di corruzione della memoria SQL (SQL_MemCorrupt.exe) e' un bug sfruttabile in modo mirato per le porte pubbliche SQL (numero predefinito 1433). 
+Inietta una voce di tabella che, quando viene letta, causa un errore di corruzione della memoria nel database, e poi interroga immediatamente quella tabella, causando un immediato crash del database SQL e un dump dei dati. 
+Questo permettera' temporaneamente il traffico non autenticato sulla porta del server SQL prima che il sistema operativo di destinazione corregga la connessione SQL interessata e riavvii il servizio. 
+
+Il programma, quando in modalita' di visualizzazione, mostrera' il suo stato operativo in alto, e l'output del server SQL (idealmente un dump di memoria dell'input iniettato) in basso.
+</file>
+
+  <file path="bin/WebServerWorm" name="WebServerWorm.exe">#WEB_CRACK#</file>
+  <file path="bin/WebServerWorm" name="info.txt">
+--Readme da Web Server Worm-- 
+
+Questo web server shortcut worm e' un eseguibile mirato che puo' attaccare i server web HTTP (di solito in esecuzione sulla porta 80 o 8080). 
+Questo programma utilizza una falla nelle versioni attualmente attive del software del server web, che sfrutta un overflow di memoria per consentire l'iniezione di codice arbitrario (il worm stesso). 
+Questo worm, una volta in esecuzione sul server, inoltrera' qualsiasi traffico esterno che passa attraverso la porta web al sistema operativo, bypassando efficacemente la sicurezza della porta. 
+Questo serve ad aprire la porta per l'uso libero. 
+
+Il worm *non* impedisce le normali azioni sul server web stesso, perche' questo porterebbe normalmente ad una piu' facile individuazione del worm stesso e perche' renderebbe molto chiaro alle altre persone che sta succedendo qualcosa di strano.
+
+</file>
+
+  <file path="bin/Sequencer" name="Sequencer.exe">#SEQUENCER_EXE#</file>
+
+  <file path="Themes" name="CSEC_x-server.sys">#WHITE_THEME#</file>
+  <file path="Themes" name="Mint_x-server.sys">#MINT_THEME#</file>
+  <file path="Themes" name="Teal_x-server.sys">#TEAL_THEME#</file>
+  <file path="Themes" name="Blue_x-server.sys">#BASE_THEME#</file>
+  
+  
+</Computer>

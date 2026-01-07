@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="academic" name="Banca dati accademica internazionale" ip="129.67.0.11" security="5" type="4">
+  <adminPass pass="techtonic"/>
+  <admin type="fast" resetPassword="false"/>
+
+  <portsForCrack val="4"/>
+  <ports>80, 25, 21, 1433</ports>
+  <firewall level="8" solution="ACADEMIC"/>
+  <proxy time="-1"/>
+  <trace time="195"/>
+
+  <file path="academic_data" name="admin.txt">Promemoria: se sei offline a causa della manutenzione, la password per questo server e' &quot;techtonic&quot; per l'attuale ciclo di sicurezza.</file>
+  
+</Computer>

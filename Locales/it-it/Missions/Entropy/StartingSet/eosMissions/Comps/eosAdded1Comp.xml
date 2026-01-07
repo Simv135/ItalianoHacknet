@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="eosAdded1Comp" name="PC Personale di JDel" security="2">
+
+  <eosDevice name="ePhone 4 di Jacob" id="eosAddedPhone">
+    <note>Vacanze
+dal 22
+al 5</note>
+    <note>password
+modificata nel mese di agosto
+
+warsix22
+</note>
+    <note>Musica
+Netsky - Puppy
+She - Coloris
+5.ª di Beethoven - ???
+
+    --
+
+Chilltacular 2014 (playlist di youtube)</note>
+  </eosDevice>
+  
+  <account username="admin" password="warsix22"/>
+</Computer>

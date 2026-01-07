@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education01">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Analisi e soluzioni dei firewall">
+I firewall sono esistiti a lungo nella sicurezza informatica, servendo principalmente a prevenire il traffico di rete esterno e automatizzato, ma non proteggono dagli hacker sofisticati.
+Ma i firewall moderni possono essere configurati per impedire *tutto* il traffico critico per la sicurezza se non e' autorizzato dal firewall (a volte ci si riferisce alle password degli utenti finali, anche se sono due cose diverse).
+
+In questa situazione, il firewall deve essere implementato prima che le intrusioni non autorizzate possano essere tentate, rendendo essenzialmente inutile qualsiasi software di cracking delle password mentre il firewall e' attivo.
+
+La complessita' del firewall puo' essere esaminata con il comando "analyze". Se eseguito piu' volte, rileva automaticamente i modelli nelle intestazioni dei dati e rimuove i caratteri che puo' garantire che non fanno parte del firewall corretto.
+Quando viene trovata una soluzione potenziale, usa il comando «solve [SOLUZIONE]» per tentare un ingresso autorizzato.
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

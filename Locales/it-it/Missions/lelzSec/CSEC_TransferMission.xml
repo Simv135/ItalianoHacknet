@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="lelzSec5" activeCheck="true">
+  <goals>
+    <goal type="delay" time="8.50"/>
+  </goals>
+  <missionEnd val="1">changeSong</missionEnd>
+  <nextMission>MainHub/Intro/Intro02Alt.xml</nextMission>
+  
+  <email>
+    <sender>Stella Polare</sender>
+    <subject>Una vittoria, forse una svolta</subject>
+    <body>
+Non sei passato inosservato. Le tue abilita' e i tuoi risultati qui non sono insignificanti.
+Ti meriti una compagnia migliore. Ti contatteremo a breve.
+      
+Continua cosi'.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

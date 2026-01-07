@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="generatedWebVandal02">
+  <generationKeys Data="Content/Web/BaseCorporateRecruiterPage.html"/>
+  <goals>
+    <goal type="FileChange" removal="true" target="#COMP#" file="#FILE#" path="#PATH#" keyword="@jmail.com"/>
+  </goals>
+  <missionEnd val="5">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Sabota il sito di assunzioni di un'azienda">
+#CLIENT# vuole temporaneamente compromettere la strategia di reclutamento di un'azienda concorrente.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>Sabotaggio delle assunzioni</subject>
+    <body>
+Salve,
+
+La nostra azienda sta per avviare una nuova campagna di reclutamento per acquisire nuovi talenti. Ci piacerebbe avere un vantaggio sui nostri concorrenti, che probabilmente stanno pianificando lo stesso.
+L'operazione non dovrebbe richiedere molto tempo: tutto cio' che vogliamo e' rimuovere i loro dati di contatto dal sito web, per assicurarci che i potenziali candidati si rivolgano prima a noi.
+
+Ti abbiamo fornito il link al sito che deve essere modificato.
+
+Grazie.
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

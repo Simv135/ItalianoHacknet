@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="pressdemoMission01">
+  <goals>
+    <goal type="FileDeletion" target="pointclickerDemo" file="Bit.pcsav" path="PointClicker/Saves"/>
+  </goals>
+  <nextMission>Demo/PressBuild/DemoMission02.xml</nextMission>
+  <email>
+    <sender>Bit</sender>
+    <subject>Volo inaugurale</subject>
+    <body>Congratulazioni!
+La verita' e' che non ho modo di sapere se ce l'hai, ma se stai leggendo questo significa che hai almeno trovato QUALCOSA, quindi presumo che sia effettivamente utile.
+
+Ho un buon test per te, qualcosa per provare questo nuovo programma che ho trovato. C'e' un gioco con cui ho passato una quantita' imbarazzante di tempo, e se sono arrivato a questo punto.... Beh, credo che preferirei che non fosse nella mia eredita'.
+La sicurezza sul server non dovrebbe essere cosi' stretta, voglio che tu entri e cancelli il mio account.
+
+Potresti aver bisogno di usare il tuo nuovo strumento. Se e' cosi', puoi eseguirlo digitando il suo nome e un numero di porta da collegare, ad esempio:
+
+&gt;SSHCrack 22
+ ^filename ^portnumber
+     
+Basta trovare una porta che si vuole decifrare ed eseguirla li'.
+
+Ah, e nel caso tu non lo sappia gia', puoi usare il tab per completare automaticamente i comandi, se premi "ssh" e poi tab dovrebbe completare automaticamente il nome completo, ecc. Funziona per tutto!
+
+ Buona fortuna!
+
+ --Bit
+0
+      
+    </body>
+    <attachments>
+      <note title="Descrizione della missione">Connettiti al server di Point Clicker.
+Usa Probe per vedere quali porte sono aperte.
+Puntarne una con un programma e passare alla porta corretta.
+Ad esempio, "SSHCrack 22"
+    ^filename ^portnumber
+    
+Se si violano abbastanza porte lascia l'obiettivo vulnerabile a una violazione della sicurezza usando "Porthack".
+ Usa il comando "ls" per fare una lista di file e cartelle.
+Cancella il file salvati dell'utente "Bit".
+      </note>
+      <link comp="pointclickerDemo"/>
+    </attachments>
+  </email>
+</mission>

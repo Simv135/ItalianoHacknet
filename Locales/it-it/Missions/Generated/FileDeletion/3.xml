@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="GenMission">
+  <generationKeys File="#LC_CLIENT#_delivery.zip" Path="home"/>
+  <goals>
+    <goal type="FileDeletion" target="#COMP#" file="#FILE#" path="#PATH#"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Vendita per #CLIENT# andata male">
+Un nostro "cliente" ha recentemente acquistato un software di valore e ora si rifiuta di pagare. Elimina cio' che possiede illegittimamente.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>#CLIENT# - Rivalsa commerciale</subject>
+    <body>
+Salve Agente,
+
+Un'azienda cliente ha recentemente richiesto l'acquisto di un costoso pacchetto software da #CLIENT#, la nostra azienda, ma sembra non aver mai avuto alcuna intenzione di saldare il pagamento. Grazie a un'astuta scappatoia legale da parte loro, non possiamo agire contro di loro per vie ufficiali.
+Ed e' qui che entri in gioco tu. Vorremmo chiederti di accedere al loro sistema e rimuovere il software ottenuto da noi in modo fraudolento. I nostri software vengono forniti in archivi, solitamente nominati "#FILE#".
+
+Grazie per il tuo aiuto in questa questione tanto delicata quanto frustrante.
+
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

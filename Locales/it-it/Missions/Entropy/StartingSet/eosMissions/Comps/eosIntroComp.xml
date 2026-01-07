@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="eosIntroComp" name="PowerBook Plus di Jason" security="2" icon="laptop">
+
+<file path="home/documents" name="Kelly.txt">
+[valley] hai bisogno che prenda qualcosa mentre torni a casa?
+[kittyhat22] per quale motivo?
+[valley] Oh, andiamo, pensavo che avessimo finito con questo.
+[kittyhat22] finito con cosa?
+[valley] tutti questi assurdi litigi per niente.
+[kittyhat22] non sei mai a casa e quando sei a casa non ti preoccupi nemmeno di parlarmi.
+[valley] dovresti comunque cercare di ringraziare che mi sto facendo il culo per pagare i nostri debiti cosi' possiamo andarcene da qui.
+[vallenx] cosa fai tutto il giorno?
+[kittyhat22] ora non dare tutta la colpa a me.
+[kittyhat22] sai che sto cercando un lavoro. Almeno cerco di capire i problemi che hai nella tua vita. Non mi chiedi nemmeno della mia.
+[valley] come dici tu. Ci vediamo a casa.
+</file>
+  
+<file path="home/documents" name="lmao.txt">
+[dirtweed] Com'e' stato il tuo fine settimana?
+[willow] Fantastico finche' non sono stato cacciato dalla lavanderia a gettoni.
+[dirtweed] JOJOJOJO
+[dirtweed] Ti hanno cacciato da quel cazzo di posto? Che cazzo hai fatto?
+[willow] Beh... a quanto pare ero piuttosto scoreggione e i buttafuori mi hanno beccato.
+[dirtweed] LOL
+[willow] Cosi', mentre mi portavano fuori, gli ho urlato contro e gli ho detto, "NON SONO COSi' FOTTUTAMENTE UBRIACO"
+[willow] e poi ho vomitato su una delle guardie, davanti a circa 30 persone che erano in fila fuori.
+[dirtweed] Cazzo, che palle!
+[willow] Vado a letto. Ho ancora i postumi della sbornia. Buona notte.
+</file>
+  
+<file path="home/documents" name="lmao.txt" EduSafe="false">
+[budzyyy] ma che cazzo, amico?
+ [heller] Dove cazzo sei?
+[budzyyy] non lo so, amico
+[budzyyy] mi sono svegliato senza maglietta, rintanato in un cespuglio.
+[heller] Ti abbiamo cercato per ore.
+[heller] L'ultima volta che ti ho visto, stavi chiamando E e correvi dietro a un furgoncino dei gelati.
+[budzyyy] abbiamo un furgone dei gelati in citta'?
+[heller] No, ma ieri sera hai pensato che ci fosse.
+[budzyyy] Sono troppo vecchio per queste cose.
+</file>
+  
+  <eosDevice name="ePhone 4S di Jason" id="eosIntroPhone">
+    <note>Panini al maiale
+     
+ ----------------------
+1,5 cucchiaini di zucchero in polvere
+ 250 ml di acqua calda
+  1,5 cucchiaini di lievito
+ 1 cucchiaino di olio vegetale
+1,5 cucchiaino di lievito in polvere
+400 g di farina
+----------------------
+    
+Sciogliere lo zucchero + l'acqua in una ciotola, aggiungere il lievito, coprire e aspettare 10 m.
+   
+ Setacciare i restanti ingredienti, mescolare e impastare in un impasto morbido ed elastico, coprire per 1 ora.
+   
+ Dividere in palline, aggiungere il ripieno a piacere, cuocere a vapore per 20 m.
+
+    </note>
+    <note>Tortillas
+
+----------------------
+2 tazze di farina
+1/2 cucchiaino di sale
+1 cucchiaino di lievito in polvere
+1 cucchiaio di strutto
+3/4 tazze di acqua
+----------------------
+
+Mescolare il lievito e versare il burro. Aggiungere l'acqua e fare un impasto. Impastare fino ad ottenere un risultato liscio.
+
+Fare una base sottile e cuocere in una padella fino a doratura.</note>
+    <mail username="jjstacks@jmail.com" pass="tintin7"/>
+  </eosDevice>
+  
+  <account username="admin" password="tintin7"/>
+</Computer>

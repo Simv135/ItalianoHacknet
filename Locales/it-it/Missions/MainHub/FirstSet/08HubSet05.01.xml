@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="FileUpload" target="hubCrossroads" file="FOF_Screenplay.doc" path="home" destTarget="producerComp" destPath="home/scripts"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Aiuta un aspirante scrittore" reqs="dechead,decypher">
+Un aspirante scrittore vuole che sottoponiamo una delle sue sceneggiature a un produttore.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Una richiesta convincente</subject>
+    <body>
+Uno scrittore vuole che una bozza del suo ultimo lavoro arrivi a un produttore ma ha problemi a superare segretarie e simili.
+Vuole che prendiamo e lasciamo il suo lavoro nella cartella degli script dell'obiettivo da esaminare, per fargli dare un'occhiata.
+
+Il tuo script, FOF_Screenplay.doc, e' stato caricato sul server di scambio.
+Ci ha anche dato uno script concorrente che possiamo usare per tracciare.
+e' anche sul server di scambio, T2_Screenplay.dec.
+
+Carica il tuo script nella cartella degli script sul computer di destinazione.
+Come sempre, ricordati di usare il completamento a tab: digita «upload bin/», poi premi tab per ottenere una lista di file locali da caricare e il completamento automatico.
+
+Buona fortuna,
+- CSEC
+    </body>
+    <attachments>
+      <link comp="hubCrossroads"/>
+      <note title="Dati del contratto">Scarica FOF_Screenplay.doc
+.----
+Traccia T2_Screenplay.dec.
+
+Carica FOF_Screenplay.doc nella cartella degli script dell'obiettivo.</note>
+    </attachments>
+  </email>
+</mission>

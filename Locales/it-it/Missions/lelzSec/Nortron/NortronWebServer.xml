@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="nortronWebServer" name="Server di sicurezza web Nortron" security="2">
+  <ports>80,25</ports>
+  <firewall level="1" solution="NORTRON"/>
+  <trace time="0"/>
+  <addWebServer name="www.NortronSecurity.com" url="Content/Web/Presets/Nortron/NortronPublicPage.html"/>
+  <positionNear target="nortronMainframe" position="0" total="3"/>
+  <link target="nortronInternalServices"/>
+</Computer>

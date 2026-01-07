@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="GenMission">
+  <goals>
+    <goal type="FileDeletion" target="#COMP#" file="#FILE#" path="#PATH#"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="#CLIENT# - Tattiche di Intimidazione">
+Un cliente affermato ha subito atti irrispettosi da parte di colleghi e ha bisogno di inviare un messaggio chiaro.
+Distruggi il loro recente backup del server.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>Tattiche di intimidazione</subject>
+    <body>
+Salve Agente,
+
+Un collega del nostro cliente ha recentemente superato ogni limite con un comportamento estremamente irrispettoso. e' necessario inviargli un messaggio inequivocabile.
+
+Secondo le nostre informazioni, hanno completato di recente un backup aziendale e hanno archiviato i dati su un server separato. Senza intaccare i loro sistemi attivi, riteniamo che eliminare questo file costituira' un segnale sufficiente.
+In allegato trovi i dettagli del bersaglio.
+
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

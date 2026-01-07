@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Computer id="secuLockDrive" name="VIENI A TROVARMI /Unita' di archiviazione sicura SecuLock di EL" ip="69.172.201.208" security="4" type="4" icon="chip">
+
+  <portsForCrack val="4"/>
+  <proxy time="0.2"/>
+  <ports>25, 22, 21, 1433</ports>
+  <trace time="400"/>
+  <adminPass pass="ithoughtyouweremakingtea"/>
+  <admin type="fast" resetPassword="false" isSuper="true"/>
+  
+  
+  <file path="home" name="DeleteMe.txt">Ce l'hai fatta! Rimuovi questo file cosi' so che e' fragile come penso.</file>
+  
+  
+  
+</Computer>

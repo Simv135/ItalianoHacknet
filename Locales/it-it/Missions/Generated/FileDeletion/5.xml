@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="GenMission">
+  <goals>
+    <goal type="FileDeletion" target="#COMP#" file="#FILE#" path="#PATH#"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="#CLIENT# - Fermare la Raccolta">
+Un cliente ha scoperto che un'azienda concorrente sta realizzando profitti raccogliendo illegalmente dati dei clienti e vendendo le loro informazioni a societa' pubblicitarie.
+Basta.
+  </posting>
+  <email>
+    <sender>#CLIENT#</sender>
+    <subject>#CLIENT# - Raccolta rovinata</subject>
+    <body>
+Agente,
+
+La nostra azienda ha recentemente scoperto che un concorrente ha ottenuto un vantaggio sleale e ILLEGALE raccogliendo dati dei clienti (e-mail, nomi, preferenze, ecc.) e vendendoli a societa' pubblicitarie per un profitto.
+Cio' e' ovviamente inaccettabile, non solo per motivi di privacy, onesta' e correttezza, ma anche in violazione delle norme sulla protezione dei dati.
+
+Vogliamo che tu acceda ai loro server e distrugga l'archivio dei dati utente che stanno vendendo. Intraprenderemo azioni legali separatamente (le prove non saranno piu' un problema).
+
+Grazie,
+-#CLIENT#
+    </body>
+    <attachments>
+      <link comp="#COMP#"/>
+    </attachments>
+  </email>
+</mission>

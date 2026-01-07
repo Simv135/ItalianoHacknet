@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="deathRow" name="Database dei registri della Death Row" ip="168.51.178.4" security="5" type="4">
+  <adminPass pass="texas"/>
+  <admin type="fast" resetPassword="false"/>
+
+  <portsForCrack val="3"/>
+  <ports>80, 21, 1433</ports>
+  <firewall solution="AHSUNYAG"/>
+  <proxy time="-1"/>
+  <trace time="160"/>
+  
+  <file path="home/SECURE/ProtectedFolder/AdminOnly" name="InternalMemo.txt">
+  Come direttore di questo programma sto cercando di accedere a questo computer di cui DEVO avere il controllo e il personale informatico ha cambiato la password. NUOVAMENTE!
+  
+  Questo e' successo fin troppe volte e sta costando alla nostra azienda il mio tempo prezioso. D'ora in poi la password qui deve essere tenuta come "texas" – una scelta che ho fatta personalmente.
+  Sto conservando questo promemoria in un luogo sicuro per riferimenti futuri. Ho messo una data su di esso in modo che possa essere usato come materiale legale se insistete a sprecare il mio tempo in futuro.
+    
+NON FATEMELO RIPETERE!
+   
+ PUBBLICATO 02/04/2012 
+  
+ Brad Collier 
+ Direttore esecutivo – Divisione archivi 
+ Dipartimento di giustizia penale
+  </file>
+  
+  <deathRowDatabase/>
+  
+</Computer>

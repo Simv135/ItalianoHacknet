@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="lelzSec4" activeCheck="true">
+  <goals>
+    <goal type="FileDeletion" target="secuLockDrive" file="DeleteMe.txt" path="home"/>
+    <goal type="FileDownload" target="polarSnakeDest" file="SQLBufferOverflow.exe" path="home/Gifts"/>
+  </goals>
+  <nextMission IsSilent="true">lelzSec/CSEC_TransferMissionDelay.xml</nextMission>
+  
+  <email>
+    <sender>Naix</sender>
+    <subject>Non inviato</subject>
+    <body>Questo non dovrebbe essere visto.</body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,36 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet01">
+  <goals>
+    <goal type="FileUpload" target="hubCrossroads" file="C_EXE_contact.dec" path="home" destTarget="hubPubDrop" destPath="Drop/Uploads" decrypt="true" decryptPass="quinnoq"/>
+  </goals>
+  <missionEnd val="1">addRank</missionEnd>
+  <nextMission>NONE</nextMission>
+  <posting title="Decifra una trasmissione sicura" reqs="decypher">
+Hanno inviato un file protetto a un membro del CSEC, che non ha modo di decifrarlo. Possiede le password necessarie per il lavoro.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Due navi nella notte</subject>
+    <body>
+Salve!
+
+Un amico ha inviato alcuni dettagli di un lavoro su cui stiamo lavorando, ma il file e' crittato e non riesco ad aprirlo.
+e' sul server di scambio come C_EXE_contact.dec. Puoi decrittarlo e caricarlo sul server di consegna?
+
+La password dovrebbe essere «quinnoq».
+
+Grazie!
+
+- CSEC Dan
+    </body>
+    <attachments>
+      <link comp="hubCrossroads"/>
+      <link comp="hubPubDrop"/>
+      <note title="Dati del contratto">Scarica C_EXE_contact.dec.
+
+Decrittalo.
+
+Carica il file risultante sul server pubblico di consegna del CSEC.</note>
+    </attachments>
+  </email>
+</mission>

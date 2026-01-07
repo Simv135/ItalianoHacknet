@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyNews05">
+  <goals>
+    <goal type="getAdmin" target="entropy01"/>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Il nuovo brevetto del dongle Opbol fara' gola ai fanboy">
+Fan sfegatati dell'Opbol, mettete in ordine i vostri affari e preparate i vostri portafogli. Un nuovo brevetto depositato oggi dal ragazzo d'oro della tecnologia Opbol Computing suggerisce che l'azienda potrebbe entrare nel mercato delle console domestiche. Il brevetto, per un "dongle estensibile", potrebbe essere un componente di un nuovo
+sistema di videogiochi, dicono gli esperti, forse un controller o un sensore di movimento. Finora, solo il design – un cilindro telescopico con estremita' arrotondate – ha ottenuto il brevetto, ma le nostre fonti dicono che le notizie sulla funzionalita' del dispositivo potrebbero uscire nel giro di pochi giorni. Restate sintonizzati!
+  </posting>
+  <email>
+    <sender>Tom Wilkins</sender>
+    <subject>Entropy deve essere fermata</subject>
+    <body>
+Distruggi il database di Entropy
+    </body>
+    <attachments>
+      <link comp="entropy01"/>
+    </attachments>
+  </email>
+</mission>

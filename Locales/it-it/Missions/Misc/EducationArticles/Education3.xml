@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="education02">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Shell">
+Le shell sono processi remoti, compatti e a bassa memoria che girano su una macchina separata e che possono essere controllati localmente da qualsiasi connessione.
+Questi processi sono molto convenienti e utili per molti compiti, anche se la loro vera capacita' dipende dal tipo di shell in esecuzione.
+Le funzioni comuni sulle reti includono:
+
+Overload:
+Questa funzione, progettata per testare reti e server proxy, inonda la macchina bersaglio con traffico di rete spazzatura dal nodo su cui e' in esecuzione la shell, che riempie la memoria del server proxy e drena il tempo della CPU.
+
+Trap:
+Una shell in esecuzione in questa modalita' informera' l'utente se un utente esterno si connette alla macchina che esegue quella shell e permettera' un'inondazione di emergenza di «forkbombs» da eseguire sugli altri utenti connessi in remoto.
+Questo puo' essere molto utile per mantenere la sicurezza di un computer collegato a una rete remota mentre si svolge qualsiasi altro lavoro.
+  </posting>
+  <email>
+    <sender>ERROR</sender>
+    <subject>ERRORE</subject>
+    <body>
+Se ricevi questa email, si e' verificato un errore imprevisto.
+Rabbrividisco.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

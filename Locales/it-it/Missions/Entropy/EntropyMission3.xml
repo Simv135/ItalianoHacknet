@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="entropyMission03">
+  <goals>
+    <goal type="FileDeletion" target="corp0#IS" file="HacknetOS.rar" path="bin"/>
+    <goal type="FileDeletion" target="corp0#IS" file="HacknetOS_Data.xnb" path="bin"/>
+    <goal type="FileDeletion" target="corp0#IS" file="HacknetOS_Content.xnb" path="bin"/>
+    <goal type="FileDeletion" target="corp0#MF" file="HacknetOS.rar" path="bin"/>
+    <goal type="FileDeletion" target="corp0#MF" file="HacknetOS_Data.xnb" path="bin"/>
+    <goal type="FileDeletion" target="corp0#MF" file="HacknetOS_Content.xnb" path="bin"/>
+    <goal type="FileDeletion" target="corp0#BU" file="HacknetOS.rar_backup" path="bin"/>
+    <goal type="FileDeletion" target="corp0#BU" file="HacknetOS_Data.xnb_backup" path="bin"/>
+    <goal type="FileDeletion" target="corp0#BU" file="HacknetOS_Content.xnb_backup" path="bin"/>
+  </goals>
+  <missionStart val="0">entropyEndMissionSetup</missionStart>
+  <nextMission>AlphaCreditsMission.xml</nextMission>
+  <email>
+    <sender>Entropy</sender>
+    <subject>Un ultimo compito</subject>
+    <body>
+#PLAYERNAME#,
+
+questo e' l'ultimo compito che ti verra' chiesto direttamente dal gruppo Entropy. Se riuscite o fallite, sara' troppo rischioso per noi mantenere un tale... contatto personale diretto.
+
+Questa missione e' una missione di sradicamento. Una grande societa' che abbiamo osservato per qualche tempo sta sviluppando un nuovo sistema operativo noto come "HacknetOS", basato sulle ricerche dell'hacker "Bit" recentemente scomparso.
+Questa e' una grande minaccia per la sicurezza del mondo digitale come lo conosciamo; gli strumenti forniti da questo sistema possono rendere il processo di hacking possibile anche per l'utente piu' elementare con un po' di allenamento.
+
+Questa minaccia deve essere completamente eliminata.
+Avete *tutta* l'assistenza di Entropy in questa materia ed e' per questo che abbiamo aggiunto due nuovi potenti (e costosi) strumenti al server materiale di Entropy perche' possiate usarli in questo compito. Probabilmente ne avrete bisogno. Vi suggerisco di prenderli il piu' presto possibile.
+
+Ho allegato un link alla macchina interna dei servizi aziendali che e' responsabile di questo. Sicuramente avranno diversi backup, e sara' necessario scansionare la loro rete a fondo per assicurarsi che ogni traccia di questa minaccia sia completamente cancellata.
+
+Vi auguriamo buona fortuna. Non ci deluda.
+-Tex
+    </body>
+    <attachments>
+      <link comp="corp0#IS"/>
+    </attachments>
+  </email>
+</mission>

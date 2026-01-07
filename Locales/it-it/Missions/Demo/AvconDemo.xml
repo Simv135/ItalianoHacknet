@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="avconMission">
+  <goals>
+    <goal type="getAdmin" target="avconComp"/>
+  </goals>
+  <nextMission>Demo/AvconDemoEnd.xml</nextMission>
+  <email>
+    <sender>Bit</sender>
+    <subject>Volo inaugurale</subject>
+    <body>Congratulazioni!
+
+Questo tipo di software non si trova ovunque.
+    
+Dovresti provare qualcosa di piu' interessante. Se Viper avesse il tipo di cose per cui e' conosciuta, dovresti avere tutto il necessario per entrare in qualcosa di piu' sicuro.
+Che ne dici del computer accanto a te, che esegue la demo di Glove Slap? Vedi se riesci ad accedervi e ad aprire il vassoio del CD.
+
+Ricorda che i programmi che ottieni hanno bisogno di un numero di porta per funzionare – ad esempio:
+
+&gt;SSHCrack 21
+^filename ^portnumber
+   
+Basta aggiungere una porta per decifrarlo ed eseguirlo.
+
+Assicuratevi di controllare se la cosa funziona per voi.
+
+ Buona fortuna!
+
+ --Bit
+0
+
+    </body>
+    <attachments>
+      <link comp="avconComp"/>
+    </attachments>
+  </email>
+</mission>

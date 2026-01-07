@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mission id="pressdemoMission03">
+  <goals>
+    <goal type="FileDownload" target="bitStashDemo" file="SQL_MemCorrupt.exe" path="bin"/>
+    <goal type="FileDownload" target="bitStashDemo" file="SMTPOverflow.exe" path="bin"/>
+    <goal type="FileDownload" target="bitStashDemo" file="Sequencer.exe" path="bin"/>
+  </goals>
+  <nextMission>Demo/PressBuild/DemoMission04.xml</nextMission>
+  <email>
+    <sender>Bit</sender>
+    <subject>Preparazione</subject>
+    <body>Perfetto,
+ grazie per il tuo aiuto. Considerero' questo come una prova piu' che sufficiente del fatto che sei la persona giusta. Quello che viene dopo sara' molto piu' complicato, quindi ti preparero' per questo.
+
+ Ho allegato un link a uno dei miei file server, con i dati di accesso dell'amministratore. Li', nella cartella /bin/, troverai alcuni nuovi programmi.
+ Non sono il tipo di file che voglio in giro per il web, quindi devi prenderli ora perche' non ho altre opzioni, e hai dimostrato che puoi aiutarmi.
+
+Anche se dovrai prenderli tutti, il file "Sequencer" e' particolarmente importante. e' qualcosa che ho scritto un po' di tempo fa per aiutarmi a sincronizzare tra piu' hack in modo anonimo, ma ho ridisegnato questa versione per te.
+Ti spieghero' cosa fa quando l'avrai scaricato e pronto a partire.
+
+Gli altri due sono cracker di porte: SMTPOverflow inonda una porta SMTP (server di posta), di solito la porta 25.
+SQL_MemCorrupt e' un attacco SQL server injection; di default attacca la porta 1433.
+
+Assicurati di prenderli tutti,
+ --Bit
+0
+    </body>
+    <attachments>
+      <link comp="bitStashDemo"/>
+      <account comp="bitStashDemo" user="admin" pass="traxxex12"/>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="themeHackEndMissionRude" activeCheck="true" shouldIgnoreSenderVerification="true">
+  <goals>
+    <goal type="getString" target="fuck"/>
+  </goals>
+  <missionEnd val="0">rudeNaixResponse</missionEnd>
+  <nextMission>Theme/ThemeHackEndMissionNaixResponseDuplicate.xml</nextMission>
+  
+  <email>
+    <sender>Entropy</sender>
+    <subject>Avviso</subject>
+    <body>
+      Connect-Responder.exe ha rilevato un collegamento esterno dal tuo indirizzo IP a 173.194.35.163.
+      Su questo dispositivo sono vietati i collegamenti esterni. Se ti sei collegato per errore, chiedi aiuto al tuo amministratore di sistema, sysadmin.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

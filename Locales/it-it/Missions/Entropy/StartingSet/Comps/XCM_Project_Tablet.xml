@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Computer id="xcTablet" name="X-C Project Tablet#001//RICERCA" security="2" icon="tablet" type="4">
+  
+  <proxy time="1.0"/>
+  <portsForCrack val="1"/>
+  <!-- Numero di porte da aprire per permettere l'esecuzione di porthack -->
+  <firewall level="-1"/>
+
+  <adminPass pass="cyberdisk"/>
+  
+  <file path="X" name="LaserRifle_mk2.spec">
+X-C_PROJECT:ID#1299
+
+RELAZIONE DI APPROFONDIMENTO CON SCHEMA
+Nome in codice: Sunray
+
+La nostra recente ricerca sulle ottiche migliorate trovate nei dispositivi extraterrestri ha avuto molto successo, e i nostri sforzi iniziali per applicare la tecnologia ai nostri sistemi d'arma sono estremamente promettenti.
+I nostri tentativi iniziali con il fucile laser MK2 per fare un fucile in grado di sparare a lungo per tutto il tempo sono stati infruttuosi, a causa di problemi di surriscaldamento. Il fucile MK2 richiede la dissipazione del calore dopo uno sparo prolungato, emulando la ricarica delle armi tradizionali.
+Anche se non e' l'ideale, permettere questo ha creato un'arma significativamente piu' accurata e letale dei nostri sforzi precedenti, e dovrebbe essere qualcosa come un upgrade piatto da tutti gli aspetti dei nostri fucili attuali.
+
+Mentre i materiali necessari per fabbricare i fucili non sono molto costosi (a parte la necessita' di alcune leghe di recupero), le nostre attuali tecniche di fabbricazione richiedono molti tentativi per produrre una lente di focalizzazione di adeguata chiarezza e stabilita', un sistema che non abbiamo ancora perfezionato.
+A causa di questo, i fucili richiederanno la fabbricazione di circa 100 sistemi di messa a fuoco per crearne uno di qualita' sufficientemente alta (un problema visto nell'attuale produzione di obiettivi fotografici). Aggiungendo piu' ingegneri, potremmo essere in grado di dedicare personale specializzato in queste aree e ridurre questo problema, abbassando cosi' il costo di produzione.
+
+Gli schemi di produzione sono disponibili sul server centrale di ingegneria come ID#1300.
+  </file>
+  
+    <file path="X" name="FlightComputers.rep">
+X-C_PROJECT:ID#1938
+
+RESOCONTO DI RICOSTRUZIONE
+Nome in codice: Lighthouse
+
+Il computer di volo extraterrestre era una ricerca estremamente interessante. Senza i membri del team di ricerca specializzato che hanno trovato un modo per decifrare i sistemi di dati extraterrestri, avremmo fatto ben pochi progressi. Anche se non conosciamo ancora molte delle operazioni eseguibili e programmatiche del computer, abbiamo decrittato molti dati e siamo riusciti a recuperare alcune immagini e suoni dal dispositivo, anche se i linguaggi utilizzati in quelli che presumiamo essere file di testo sono ancora al di la' della nostra comprensione.
+Gran parte dei dati implica che il computer e' specializzato per la navigazione a lunga distanza, funzionale sia su scala planetaria che galattica. Include anche alcune informazioni confuse sulla prevenzione delle collisioni ad altissima velocita'. Anche se il veicolo spaziale non sembra essere influenzato da particelle piu' piccole come gli asteroidi, e' progettato per evitare masse planetarie durante il viaggio. Ci da' molti indizi sulla natura della sua tecnologia di propulsione piu' veloce della luce, che richiedera' ulteriori indagini.
+
+Inoltre, abbiamo trovato alcune immagini sorprendenti sul dispositivo. Cio' che all'inizio sembrava essere informazioni anatomiche e mediche sull'equipaggio del velivolo, dopo una nuova valutazione abbiamo osservato essere una sorta di pornografia extraterrestre. Anche se non ci sono organi riproduttivi visibili, la specie sectoide sembra avere un fascino per il collo e la mascella inferiore, per ragioni che non possiamo ancora capire.
+Anche se non ci sono informazioni concrete, le nostre truppe potrebbero voler considerare questo un punto debole, anche se potrebbe essere difficile da attaccare nel calore della battaglia.
+
+  </file>
+  
+ <file path="X" name="WIP_Xenogenetics.txt">
+X-C_PROJECT:ID#2133
+
+Le specie recuperate sono molto simili, non solo nell'aspetto ma anche nella composizione genetica. La mia interpretazione iniziale che fossero cloni potrebbe essere errata; anche se il DNA tra gli organismi e' identico, forse questo e' un tratto comune delle loro specie, le differenze individuali sono puramente sistemi mentali.
+
+I sistemi nervosi tra le specie sono molto simili a quelli dei mammiferi terrestri (compreso l'uomo). Cosa dice questo sulle nostre origini? e' una costante universale? Perche'?
+
+Nessuna specie rilevata sembra avere alcun tipo di odore, anche se i loro sensi visivi sembrano molto simili a quelli di alcuni insetti, ma molto piu' sviluppati. L'apertura facciale nella regione del naso sembra essere usata per il gusto, anche se ha praticamente la stessa funzione.
+  </file>
+
+  <file path="X/Personal" name="Penetrator_mk1.spec">
+X-C_PROJECT:ID#4991
+
+RAPPORTO DI RICERCA CON SCHEMA
+Nome in codice: Gaping Dragon
+
+Requisiti:
+x 22 Leghe
+x 2 Alimentazione UFO
+x 10 Elerium
+x 185 Crediti
+
+Questo dispositivo alimentato con elerio e' in grado di estendere e ritrarre un'asta in lega di lunga durata fino a 60 cm ad una velocita' di 200 oscillazioni al secondo con una durata virtualmente illimitata senza bisogno di ulteriori alimentazioni.
+L'innovativa alimentazione consentira' tempi di funzionamento e intensita' finora irraggiungibili. Bisogna prestare particolare attenzione al supporto esterno del braccio, che permette il fissaggio di un certo numero di "teste" diverse e dovrebbe fornire una vestibilita' sicura.
+
+Notate anche che l'asta deve essere rimovibile, come descritto nella nota A-12.
+Questo dispositivo dovrebbe permetterci di... migliorare molto la ricerca in modo efficiente e dovrebbe essere una priorita'. Gli schemi necessari sono stati inviati al dottor Shen per la fabbricazione immediata.
+
+RIF. DATI. SCHEMA:
+#BINARY#
+
+  </file>
+  
+</Computer>

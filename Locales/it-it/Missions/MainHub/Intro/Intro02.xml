@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubIntro2">
+  <goals>
+    <goal type="FileUpload" target="kfcRecordsRepo" file="Seasoning_Order_Placement_Template_Pt1.docx" path="home/Ordering" destTarget="hubPubDrop" destPath="Drop/Uploads"/>
+    <goal type="FileUpload" target="kfcRecordsRepo" file="Seasoning_Order_Placement_Template_Pt2.docx" path="home/Ordering" destTarget="hubPubDrop" destPath="Drop/Uploads"/>
+  </goals>
+  
+  <missionEnd val="0">assignPlayerToHubServerFaction</missionEnd>
+  <nextMission>MainHub/Intro/Intro03Pass.xml</nextMission>
+  <email>
+    <sender>CSEC Admin</sender>
+    <subject>Invito CSEC: Affermativo</subject>
+    <body>
+#PLAYERNAME#:
+
+Congratulazioni per aver superato il test automatico, non tutti ce la fanno (il che ti fa pensare «Perche' li hanno invitati?», davvero), quindi si passa al round 2. Questo significa che devo inventarmi qualcosa, e renderlo divertente.
+
+Ho in mente una buona cosa per te, ma non dovrebbe nemmeno essere troppo facile!
+
+Voglio che tu vada nei server KFC e mi trovi le 11 erbe e spezie segrete.
+
+Se riesci a mettere le mani sulla lista e a caricarla sul server pubblico di consegna del CSEC, saro' felice di farti entrare.
+
+Buona fortuna!
+
+- Vap0r
+Amministratore del CSEC
+
+    </body>
+    <attachments>
+      <link comp="kfcWebServer"/>
+      <link comp="hubPubDrop"/>
+    </attachments>
+  </email>
+</mission>

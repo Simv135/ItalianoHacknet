@@ -1,0 +1,40 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<mission id="hubSet09">
+  <goals>
+    <goal type="HasFlag" target="E_Whit:DEAD"/>
+  </goals>
+  <missionStart val="9" suppress="true">changeSong</missionStart>
+  <missionEnd val="1">junebugComplete</missionEnd>
+  <nextMission>BitPath/BitAdv_Intro.xml</nextMission>
+  <branchMissions>
+    <branch>MainHub/PacemakerSet/PacemakerSet_Deny_Branch.xml</branch>
+  </branchMissions>
+  <posting title="Progetto Junebug" reqs="dechead, decypher,csecRankingS2Pass">
+Si e' creata una situazione incredibilmente delicata che richiede il coinvolgimento di un agente esterno, anonimo e competente, disposto a compiere alcune azioni discutibili per aiutare immensamente una persona in difficolta'.
+  </posting>
+  <email>
+    <sender>CSEC Hub Services</sender>
+    <subject>Il progetto Junebug</subject>
+    <body>
+Hacker,
+
+Questa non e' una richiesta normale e non la tratteremo come tale. Ci e' stato chiesto di eseguire un'eutanasia.
+Ovviamente, abbiamo mandato altri a raccogliere dati (alcuni di gruppi esterni, per non destare sospetti) qualche tempo fa e, in generale, tutto risulta pulito. L'uomo in questione, un certo Elliot Whit, e' ricoverato in ospedale con grandi dolori e, contro la sua volonta', gli e' stata negata la possibilita' di morire.
+La sua famiglia ci ha provato, ma ha fallito e non ha osato farlo di nuovo, finche' uno dei membri della famiglia ha proposto questa opzione. A quanto pare, il pacemaker che porta con se' permette l'accesso remoto, con la dovuta autorizzazione, e credono che potrebbe essere il modo per esaudire la sua richiesta.
+
+Naturalmente, data la natura di questa richiesta, accetteremo che tu non voglia essere coinvolto. Rispondi con «negare» nel messaggio e ti rimuoveremo dal progetto.
+
+Se decidi di aiutarci, devi essere consapevole del fatto che ci sara' probabilmente molta ricerca e test coinvolti perche', per quanto ne sappiamo, questo non e' mai stato provato prima.
+Si consiglia di iniziare con la storia medica dell'obiettivo, identificare il dispositivo, trovare il produttore e continuare da li'.
+
+- Amministratori CSEC
+    </body>
+    <attachments>
+      <link comp="medical"/>
+      <note title="Dettagli del progetto">
+Obiettivo: Elliot Whit
+Azione: Eutanasia
+</note>
+    </attachments>
+  </email>
+</mission>
