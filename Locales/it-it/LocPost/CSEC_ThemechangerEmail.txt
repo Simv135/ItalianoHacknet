@@ -1,0 +1,11 @@
+Agente,
+
+Un nuovo strumento e' stato aggiunto al server attivo per l'uso.
+Si tratta di uno scambio x-server chiamato "ThemeChanger.exe". Potete trovarlo al percorso:
+
+/bin/ThemeChanger/
+
+Siete liberi di scaricarne una copia e utilizzarla come ritenete opportuno.
+
+Grazie,
+{0}

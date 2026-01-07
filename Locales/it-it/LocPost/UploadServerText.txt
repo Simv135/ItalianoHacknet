@@ -1,0 +1,9 @@
+Siete autorizzati a caricare il file aperto sul server.
+Utilizzare il comando "upload [NOME_FILE_LOCALE]" per caricare i file.
+
+RICORDA: I file scaricati con "scp" saranno salvati in "~/home"  
+(o "~/bin" per gli eseguibili).  
+Per caricare da quella cartella, specificare il percorso:  
+"home/[NOME_FILE]".  
+Il tasto "Tab" puo' essere utilizzato per completare automaticamente  
+i percorsi e i nomi dei file locali da caricare.

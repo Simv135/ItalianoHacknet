@@ -1,0 +1,7 @@
+------ ATTENZIONE -----  
+
+"config.sys" e' un file di sistema essenziale.  
+NON CANCELLARLO O RINOMINARLO.  
+In caso contrario, il programma si guastera'.  
+
+Le modifiche alla configurazione devono essere apportate solo durante la manutenzione programmata per evitare problemi.

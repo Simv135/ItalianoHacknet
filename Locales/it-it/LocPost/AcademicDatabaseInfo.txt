@@ -1,0 +1,4 @@
+Benvenuti nel database accademico internazionale.  
+Questo server ad accesso pubblico offre un accesso centralizzato a tutti i documenti accademici di tutte le universita' riconosciute nel mondo.  
+Il nostro database e' gestito e mantenuto dagli amministratori di questo terminale sicuro e da alcune selezionate principali universita' che contribuiscono al database.  
+Se sei il vice-cancelliere di un'universita' che desidera contribuire a questo database ed essere riconosciuto, invia un'email ai nostri amministratori a admin@mail.academic.org

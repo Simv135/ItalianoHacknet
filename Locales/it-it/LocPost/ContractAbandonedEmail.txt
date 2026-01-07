@@ -1,0 +1,7 @@
+Agente,  
+Avete abbandonato il vostro attuale contratto, pertanto non e' piu' possibile completarlo.  
+Siete liberi di accettare nuovi contratti dal database.  
+Il vostro grado attuale e' {0} di {1}.  
+
+Grazie,  
+{2}

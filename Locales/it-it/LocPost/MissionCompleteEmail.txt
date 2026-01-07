@@ -1,0 +1,9 @@
+Congratulazioni,
+
+Il cliente del vostro ultimo contratto ha riportato un successo ed e' soddisfatto del vostro lavoro.
+Ora siete liberi di accettare nuovi contratti dal database.
+
+Il vostro grado attuale e' {0} su {1}.
+
+Grazie,
+{2}

@@ -1,0 +1,9 @@
+Agente,
+
+Gli amministratori hanno concesso al tuo account i permessi per accettare un contratto critico.  
+e' elencato come {0} nella lista.
+
+Si prega di notare che l'accettazione di questo contratto potrebbe richiedere tempo o comportare riservatezza e separazione da altri progetti per un periodo determinato. Procedere solo con l'aspettativa che altri contratti e, eventualmente, alcuni servizi {0} non saranno disponibili nel frattempo.
+
+Grazie,  
+{0}

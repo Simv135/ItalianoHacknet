@@ -1,0 +1,8 @@
+1. Ottenere l'accesso come amministratore su un computer che si sospetta abbia un dispositivo eOS sincronizzato.
+2. Eseguire "eosdevicescanner.exe" per scansionare i dispositivi collegati e aprire automaticamente la connessione.
+3. Connettersi al dispositivo individuato.
+4. Accedere con:
+   - Utente: admin
+   - Password: alpine
+
+La password e' la stessa per tutti i dispositivi eOS!
