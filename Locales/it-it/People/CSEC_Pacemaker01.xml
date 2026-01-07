@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person id="csec_med_01" handle="Ehwitt" firstName="Elliot" lastName="Whit" isMale="true">
+  <Birthplace name="Londra"/>
+  <Degrees>
+    <Degree uni="Universita' di Manchester" gpa="3.3">Master in Giurisprudenza</Degree>
+    <Degree uni="Universita' di Manchester" gpa="3.1">Laurea in Scienze Politiche</Degree>
+  </Degrees>
+  <DOB>09/09/61 22:00:00</DOB>
+  <Medical>
+    <Blood>B-</Blood>
+    <Height>166</Height>
+    <Allergies>NESSUNA</Allergies>
+    <Perscription>Ivermectina X35 al mese :: regolazione della frequenza cardiaca</Perscription>
+    <Notes>Gravi problemi di aritmia ricorrente nel cuore del paziente sono stati sistemati con un pacemaker che consente alcuni aggiustamenti per tenere conto di variabili sconosciute senza intervento chirurgico invasivo.
+    Riferimento:
+    ID di connessione pacemaker: 202.6.141.219
+    Documentazione e osservazioni: 66.96.147.84
+    Altre informazioni: Prima di eseguire azioni che possono disturbare il pacemaker o interventi chirurgici invasivi, consultare i produttori per confermarne la stabilita'.
+    </Notes>
+  </Medical>
+  <Notes>Missione pacemaker</Notes>
+</Person>

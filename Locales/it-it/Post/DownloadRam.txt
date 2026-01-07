@@ -1,0 +1,23 @@
+﻿Come posso scaricare la ram?
+
+Ciao, io sono 4chums, un amico mi ha detto che era possibile scaricare ram invece di comprarla nei negozi, ma la maggior parte dei siti che ho visitato erano semplici imitatori inaffidabili; la maggior parte delle "ram" che ho scaricato era una semplice foto di un computer e il resto erano cartelle .zip piene di foto di pecore. Cosa sto sbagliando?
+
+Risposta 1: OP, che sistema operativo usi?
+
+Risposta 2: Eliminare System32
+
+Risposta 3: [OP] Uso Windows Vista. Questo sminuisce la mia capacita' di scaricare ram?
+
+Risposta 4: Come ha detto D3m0nSworD99, e' necessario trovare ed eliminare la directory "System32". Questa cartella contiene un pacchetto software per Windows che aiuta a prevenire la pirateria, compresa la pirateria ram e la cui funzione principale e' quella di convertire la RAM in foto. Quando la elimini, puoi tornare ai siti dove hai scaricato la memoria e troverai quelle foto di pecore convertite in memoria installabile.
+
+Risposta 5: Si', questo ragazzo ha ragione, e' cosi' che viene scaricata la RAM. Anche se a volte non funziona: se il computer inizia a dare problemi, dovrete aprirlo e utilizzare un potente magnete per rimuovere tutte le tracce di System32.
+
+Risposta 6: [OP] Ehi, gente, lo sto postando dal mio computer di lavoro. Credo di aver fatto qualcosa di sbagliato mentre seguivo le tue istruzioni. Ho fatto il trucco con il magnete ma penso di non aver usato la giusta polarita' o qualcosa del genere perche' il mio computer non si accende piu'. Aiutami, per favore
+
+Risposta 7: 8/10!
+
+Risposta 8: Ahahaha, oh mio dio
+
+Risposta 9: [MOD] Oh mio Dio. Vittimizzato.
+
+Risposta 10: [OP] Ragazzi? Ho bisogno di aiuto....

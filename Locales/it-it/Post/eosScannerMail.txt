@@ -1,0 +1,14 @@
+﻿Ciao, ragazzi,
+
+Dunque, lo scanner per dispositivi eOS viene caricato sul server delle risorse (~/bin/eosDeviceScanner.exe). Dovrebbe funzionare come una connessione standard mirata all'eseguibile.
+
+Per leggere i numerosi file in una cartella di sistema (al fine di ottenere informazioni sul dispositivo sincronizzato con il computer di destinazione), e' necessario innanzitutto l'accesso amministratore al computer di destinazione: una volta ottenuto, dovrebbe rimanere valido anche in caso di perdita o disconnessione.
+
+Sostanzialmente, funziona controllando i backup eseguiti quando un dispositivo e' sincronizzato con un computer, per poi tentare di stabilire una nuova connessione wireless con il dispositivo stesso e sfruttare un exploit per aprire una porta, eccetera.
+
+Ecco il trucco: poiche' agli utenti eOS non e' consentito l'accesso al terminale del proprio dispositivo, tutte le password di amministratore sono identiche (!), per tutta la gamma di prodotti!
+
+Sono "alpine": non devi ringraziarmi, forse ti ho risparmiato qualche milione di anni o simili.
+Aspetto il pagamento concordato non appena questo upload sara' completato, ok?
+
+-vtfx

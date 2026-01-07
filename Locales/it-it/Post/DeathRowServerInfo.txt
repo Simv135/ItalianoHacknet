@@ -1,0 +1,19 @@
+﻿Questo database esiste per conservare e preservare le informazioni dei criminali giustiziati nella Death Row, inclusi, tra gli altri dati, le loro ultime parole e informazioni sui loro crimini.
+
+Statistiche razziali e di genere dei criminali nel Death Row
+
+Razza       | Donna   | Uomo    | Totale
+---------------------------------------------
+Bianco      | 5       | 76      | 81
+            | (55.6%) | (28.7%) | (29.6%)
+
+Nero        | 3       | 107     | 110
+            | (33.3%) | (40.4%) | (40.1%)
+
+Ispanico    | 1       | 78      | 79
+            | (11.1%) | (29.4%) | (28.8%)
+
+Altri       | 0       | 4       | 4
+            | (0.0%)  | (1.5%)  | (1.5%)
+
+TOTALE      | 9       | 265     | 274

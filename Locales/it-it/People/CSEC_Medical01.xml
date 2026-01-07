@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person id="csec_med_01" handle="Whitewash" firstName="Jonas" lastName="Sandburg" isMale="true">
+  <Birthplace name="Londra"/>
+  <Degrees>
+    <Degree uni="Universita' di Manchester" gpa="2.9">Master in Informatica</Degree>
+  </Degrees>
+  <DOB>03/05/93 14:00:00</DOB>
+  <Medical>
+    <Blood>B-</Blood>
+    <Height>166</Height>
+    <Allergies>NESSUNA</Allergies>
+    <Perscription>Albendazolo X70 ogni due mesi :: Leggere le avvertenze</Perscription>
+    <Perscription>Ivermectina X35 al mese :: Leggere le avvertenze</Perscription>
+    <Notes>Il paziente presenta un caso acuto di elefantiasi testicolare, osservato per la prima volta all'eta' di 8 anni, ed e' stato trattato regolarmente da allora con buoni risultati. Sebbene l'infiammazione delle aree interessate sia notevolmente evidente, le eccellenti abitudini igieniche e il trattamento continuo l'hanno resa gestibile.
+    </Notes>
+  </Medical>
+  <Notes>Caso medico CSEC per M_09</Notes>
+</Person>

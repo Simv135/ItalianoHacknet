@@ -1,0 +1,159 @@
+﻿<#
+Da ora in poi sei a rischio!
+#>
+Impara il piu' possibile. Avvia la serie di tutorial premendo il pulsante Continua in basso.
+
+%&%&%&%
+Connettiti a un computer digitando "connect [IP]" nel terminale o facendo clic sul nodo nella mappa di rete.
+<#
+Connettiti ora al tuo computer
+#>
+cliccando sul cerchio verde nella mappa sottostante.
+
+%&%&%&%
+Bene.
+
+La prima cosa da fare, in qualsiasi sistema, e' analizzare il computer per individuare nodi adiacenti. I computer trovati vengono aggiunti automaticamente alla panoramica della rete.
+
+<#
+Esegui la scansione di questo computer
+#>
+
+premendo il pulsante Scansiona Network nel modulo di visualizzazione.
+
+%&%&%&%
+Dovrebbe bastare per ora.
+<#
+Disconnettiti dalla tua macchina
+#>
+
+%&%&%&%
+e' ora che tu ti connetta a un computer esterno.
+
+Ti avvertiamo che tentare di violare la sicurezza di computer altrui e' illegale secondo la legge statunitense (U.S.C. Act 1030-18).
+
+Agisci a tuo rischio e pericolo
+<#
+connettiti a un computer esterno
+#>
+facendo clic su un nodo blu nella mappa della rete.
+
+%&%&%&%
+Il modulo del terminale della macchina virtuale e' stato attivato. Questa sara' la tua interfaccia principale per navigare e interagire con i nodi.
+
+Per eseguire un comando devi digitarlo e premere Invio.
+
+Il sistema di sicurezza e le porte aperte di un computer possono essere analizzati utilizzando il comando
+<#
+probe
+#>
+(o "nmap"). Analizza il computer a cui sei connesso.
+
+%&%&%&%
+Qui puoi vedere le porte attive, le misure di sicurezza attive e il numero di porte aperte necessarie per violare con successo questa macchina usando PortHack.
+Questa macchina non ha sicurezza attiva e non richiede porte aperte. Se sei pronto, e' possibile violare questo computer usando il programma "PortHack".
+
+<#
+Esegui il programma PortHack
+#>
+|Per eseguire un programma sul computer a cui sei connesso, digita il nome del programma come comando del terminale.
+Il nome del programma non richiede il ".exe" finale.
+
+%&%&%&%
+Congratulazioni, hai preso il controllo di un sistema esterno e ora sei il suo
+amministratore. Puoi farci tutto quello che vuoi, ma dovresti iniziare
+<#
+analizzando i nodi locali
+#>
+per individuare altri computer. Fallo usando il comando "scan".
+
+%&%&%&%
+Nessun risultato: Non e' un problema.
+
+Ora dovresti esaminare il file system.
+<#
+Elenca i file e le cartelle nella directory corrente
+#>
+
+|Elenca file e cartelle usando il comando "ls".
+
+Il modulo di visualizzazione e' stato riattivato per essere utilizzato.
+
+%&%&%&%
+<#
+Esplora la cartella "bin"
+#>
+(binaria) per cercare eseguibili utili usando il comando
+
+"cd [NOME DELLA CARTELLA]"
+
+(Attenzione allo spazio)
+
+%&%&%&%
+Per vedere il contenuto della cartella corrente in cui ti trovi, usa il comando "ls".
+
+Qui non ci sono programmi, ma dovresti
+<#
+guardare dentro il config.txt
+#>
+nel caso contenga informazioni utili.
+
+|Leggi il contenuto di qualsiasi file utilizzando il comando cat. Ovvero:
+
+"cat config.txt"
+
+Avviso: Leggere dati senza autorizzazione e' illegale e punibile con l'incarcerazione ai sensi del diritto internazionale.
+
+%&%&%&%
+Completamente inutile!
+
+Ora copri le tue tracce prima di sparire.
+<#
+Torna indietro nell'albero delle directory
+#>
+usando "cd .."
+
+Avviso: il carattere ".." indica "Torna indietro" o "Directory superiore".
+
+%&%&%&%
+<#
+Passa alla cartella dei log (registri).
+#>
+"cd [NOME DELLA CARTELLA]"
+
+%&%&%&%
+<#
+Elimina tutti i file in questa directory
+#>
+
+Puoi cancellare un file usando il comando
+<#
+rm [NOME DEL FILE]
+#>
+se lo desideri e' possibile eliminare TUTTI i file dalla directory corrente con il comando
+
+<#
+rm *
+#>
+
+Avviso: il carattere "*" indica "Tutti".
+
+%&%&%&%
+Lavoro eccellente.
+
+<#
+Disconnettiti da questo computer
+#>
+
+Puoi farlo usando il comando "dc" o "disconnect"
+
+%&%&%&%
+Complimenti, hai completato la parte guidata di questo tutorial.
+
+<#
+Per terminarlo, devi individuare l'ID di processo del programma di esercitazione e terminarlo.
+#>
+
+Il comando "help" ti dara' una lista completa di comandi in qualsiasi momento.
+
+|Il comando "ps" elenca il PID di ogni processo attualmente in esecuzione

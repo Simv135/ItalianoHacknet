@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person id="csec_med_01" handle="Sal" firstName="Elanor" lastName="Helleran" isMale="false">
+  <Birthplace name="Londra"/>
+  <Degrees>
+    <Degree uni="Universita' di Manchester" gpa="3.1">Master in Informatica</Degree>
+  </Degrees>
+  <DOB>08/06/91 14:22:00</DOB>
+  <Medical>
+    <Blood>A+</Blood>
+    <Height>167</Height>
+    <Allergies>NESSUNA</Allergies>
+    <Perscription>Amiodarone (Cordarone) X70 ogni due mesi</Perscription>
+    <Notes>Paziente con diagnosi di aritmia. Inizialmente un caso lieve, peggiorato a causa di un consumo eccessivo di caffeina e altri stimolanti. La paziente e' stata ripetutamente avvertita sui rischi della quantita' di bevande energetiche e caffe' che ha ammesso di consumare, ma le ricadute sono comuni. Si raccomanda un esame del sangue per stimolanti (legali e non) prima di formulare una diagnosi completa.</Notes>
+  </Medical>
+  <Notes>Caso medico per la stampa</Notes>
+</Person>

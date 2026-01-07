@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person id="entechboss" handle="Jojo" firstName="Joseph" lastName="Jorioni" isMale="true">
+  <Birthplace name="California"/>
+  <Degrees>
+    <Degree uni="Universita' di California" gpa="2.9">Laurea in ingegneria informatica</Degree>
+  </Degrees>
+  <Medical>
+    <Blood>A+</Blood>
+    <Height>178</Height>
+    <Allergies>NESSUNA</Allergies>
+    <Perscription>Spironolattone X70 ogni mese :: Inibitore dell'aldosterone come regolatore cardiaco</Perscription>
+    <Notes>Il paziente soffre di un caso acuto di angina pectoris: il flusso sanguigno che porta ossigeno al cuore e' notevolmente piu' basso del normale a causa di malformazioni vascolari presenti fin dalla nascita. Il paziente e' dotato di un monitor di regolazione che puo' avvisare quando la saturazione parziale di ossigeno e' bassa, poiche' presenta un rischio molto elevato di insufficienza cardiaca e deve reagire rapidamente. Non si tratta di un pacemaker, ma semplicemente di un sistema di allerta rapido.</Notes>
+  </Medical>
+  <Notes>
+  </Notes>
+</Person>
