@@ -1,1 +1,921 @@
+﻿﻿#23396 +(35362)- [X]
 
+<Donut[AFK]> CIAO EURAKARTE
+ <Donut[AFK]> INSULTO
+ <Eurakarte> RISPOSTA
+ <Donut[AFK]> CONTRO-RISPOSTA
+ <Eurakarte> QUESITO SULLE PREFERENZE SESSUALI
+ <Donut[AFK]> SUGGERIMENTO PER CHIUDERE IL BECCO
+ <Eurakarte> CREA UN VUOTO
+ <Donut[AFK]> RISPOSTA
+ <Donut[AFK]> AGGIUNTA RISPOSTA
+ <Eurakarte> CONTRO-RISPOSTA
+ <Donut[AFK]> RISPOSTA DELLA CONTROPARTE
+ <Eurakarte> AFFERMAZIONE SENZA SENSO CHE COINVOLGE IL PLANCTON
+ <Miles_Prower> RISPOSTE CONTRO DICHIARAZIONI ALEATORIE E MINACCE PER BANDIRE LE OPPOSTE PARTI IN CAUSA
+ <Eurakarte> COMPLIMENTI PER IL CIBO A BASE DI PESCE
+ <Miles_Prower> RICONOSCIMENTO E ACCETTAZIONE DELLE CONDIZIONI
+
+#244321 +(32935)- [X]
+
+<Cthon98> ehi, se digiti la tua password, appaiono degli asterischi
+ <Cthon98> ********* Guarda!
+ <AzureDiamond> hunter2
+ <AzureDiamond> non vedo asterischi.
+ <Cthon98> <AzureDiamond> *******
+ <Cthon98> questo e' cio' che vedo.
+ <AzureDiamond> Sul serio?
+ <Cthon98> Certo
+ <AzureDiamond> vai a prendere hunter2 e torna a prendere altri hunter2
+ <AzureDiamond> ha ha, pensi che sia divertente?
+ <Cthon98> Si', molto bene. Quando TU scrivi hunter2, noi vediamo *******
+ <AzureDiamond> Che figata, non sapevo che IRC lo facesse
+ <Cthon98> sí, come scrivi hunter2, vedremo *******
+ <AzureDiamond> fantastico!
+ <AzureDiamond> aspetta, come fai a sapere la mia password?
+ <Cthon98> ho copiato e incollato I TUOI ****** e appare a TE come hunter2 perche' e' la tua pw
+ <AzureDiamond> ah, ok.
+
+#5273 +(30069)- [X]
+
+<erno> hm. Ho perso un computer… perso letteralmente. Risponde al ping, funziona perfettamente, solo che non riesco a capire dove sia nel mio appartamento.
+#99060 +(30047)- [X]
+
+t0rbad> stavo camminando lungo un corridoio
+ BlackAdder> credo di parlare a nome di tutti quando diro' che…
+ BlackAdder> HO CHIUSO CON TE, STRONZO.
+ BlackAdder> SONO STUFO DI TE
+ BlackAdder> E DELLE TUE PATETICHE STORIE
+ BlackAdder> NESSUNO PENSA CHE TU SIA DIVERTENTE
+ BlackAdder> NESSUNO VUOLE SENTIRE LE TUE STORIE
+ BlackAdder> E IN EFFETTI
+ BlackAdder> SE TI DOVESSI UCCIDERE IN QUESTO MOMENTO
+ BlackAdder> A NESSUNO IMPORTEREBBE
+ BlackAdder> VEDIAMO COS'HAI DA DIRE SU QUESTO, STRONZO.
+ *** t0rbad ha bannato: +b BlackAdder*!*@*.*
+ *** BlackAdder e' stato bannato da t0rbad ( )
+ t0rbad> camminavo lungo un corridoio
+ CRCError> si
+ heartless> Si.
+ r3v> si
+
+#4281 +(27825)- [X]
+
+<Zybl0re> alzati
+ <Zybl0re> sali su
+ <Zybl0re> alzati
+ <Zybl0re> sali su
+ <phxl|paper> e DANZA
+ * nmp3bot danza :D-<
+ * nmp3bot danza :D|-<
+ * nmp3bot danza :D/-<
+ <[SA]HatfulOfHollow> saro' ricco e famoso quando inventero' qualcosa che ti permettera' di pugnalare la gente in faccia su Internet.
+
+#99835 +(24129)- [X]
+
+<Guo_Si> Cameriere, questa banana e' molliccia!
+ <TheXPhial> fallo stare zitto
+ <Guo_Si> Dottore, nessuno mi ascolta.
+ <TheXPhial> Il prossimo!
+ <Guo_Si> Cosa dice un pesce a un altro pesce?
+ <TheXPhial> Niente?
+
+#5300 +(23796)- [X]
+
+<AjejeBrazorf> salve, ho un problema tecnico
+<tatclass> di pure
+<AjejeBrazorf> sono bloccato. non posso ne' scendere ne' salire
+<tatclass> nell'ascensore? devo chiamare i pompieri?
+<AjejeBrazorf> no, nel terminale. sono nella root / e "cd .." da' "Permission denied", ma "ls" non mostra niente
+<tatclass> come diavolo hai fatto
+<AjejeBrazorf> ho fatto sudo su - e poi forse ho rimosso la cartella corrente
+<tatclass> ah. quindi non puoi ne' scendere (in una sottocartella) ne' salire (alla parent). hai cancellato il pavimento sotto i tuoi piedi
+<AjejeBrazorf> esatto. sono un utente root senza terra. metaforico e letterale
+<tatclass> riavvia.
+<AjejeBrazorf> e' la soluzione a tutto. grazie
+<tatclass> prego.
+
+#287414 +(23126)- [X]
+
+<DeadMansHand> ha, ha, ieri io e Pete siamo usciti per festeggiare il suo matrimonio e ci siamo divertiti.
+ <DeadMansHand> abbiamo avuto la grande idea di seppellirci nella sabbia in riva al mare per vedere chi riusciva a resistere piu' a lungo.
+ <DeadMansHand> Dopo mezz'ora, l'acqua mi e' arrivata in faccia, ho avuto paura e mi sono tirato fuori.
+ <DeadMansHand> Ho guardato per vedere se vedevo Pete, ma deve aver dato di matto prima di me e deve essere andato a casa o qualcosa del genere.
+ <DeadMansHand> Cosa hai detto quando ti sei svegliato stamattina?
+ <Thirteen-> Cosa? Non e' ancora tornato a casa, pensavo fosse con te.
+ <DeadMansHand> la puttana.
+ <DeadMansHand> spero che non sia vero quello che sto pensando
+ <DeadMansHand> torno alla spiaggia per assicurarmi
+ <DeadMansHand> se torna a casa, fammelo sapere, in modo che non mi preoccupi.
+ <Thirteen-> Certo, spero che non sia ancora sepolto o ne prenderai una bella grossa.
+ <-- DeadMansHand e' uscito
+ <Tyran> Ma che cazzo? Pete e' tornato a casa ieri sera, figlio di puttana. Ken trascorrera' la giornata super preoccupato.
+ <Thirteen-> ha, ha, si, ma sara' divertente finche' dura
+ partecipa: (PeteRepeat) (bob@3F8C4655.11D1C8C.18637D35.IP)
+ <PeteRepeat> Ken e' un bastardo
+ <PeteRepeat> il bastardo mi ha sepolto ieri sulla spiaggia, ho resistito per 5 minuti e l'ho lasciato li come un idiota
+ <quiqsilver> Pete, Ken non e' tornato a casa ieri, pensavo fosse con te.
+ <PeteRepeat> oh, cazzo.
+ <PeteRepeat> se Ken si fa vivo, assicurati che non sappia che sono in spiaggia a cercare il suo corpo. Non voglio che pensi che mi importi o altro.
+ <-- PeteRepeat e' uscito
+ <Thirteen-> sono fuori di testa. Vedrai che sorpresa avranno quando si incontreranno sulla spiaggia.
+ <Tyran> non posso credere che il loro tempismo sia stato perfetto
+
+#414593 +(20160)- [X]
+
+DragonflyBlade21: Una donna ha un amico intimo. Questo significa che e' interessato a lei, ecco perche' passa cosi' tanto tempo con lei. Lei lo vede solo come un amico. Inizia sempre con: "Sei fantastico, ma non mi piaci in quel senso". E' l'equivalente di un tizio che va a un colloquio di lavoro e gli viene detto: "Hai un ottimo curriculum, tutte le qualifiche che stiamo cercando, ma non ti assumeremo". Ma useremo il tuo curriculum per confrontare gli altri candidati. Anche se assumeremo qualcuno molto meno qualificato e probabilmente un alcolizzato. E se non ci piaci, assumeremo qualcun altro, ma non te. Infatti, non ti assumeremo mai. Ma vi chiameremo di tanto in tanto per lamentarci della persona assunta.
+
+#207373 +(20063)- [X]
+
+<anamexis> mamma mia
+ <anamexis> ho iniziato ad aprire una Coca
+ > Beefpile (~mbeefpile@cloaked.wi.rr.com) si e' unito a #themacmind
+ <anamexis> ed ha schizzato
+ <anamexis> ALMENO su tutta la mia tastiera
+ <anamexis> ma l'ho spinta via appena in tempo
+ <-- Beefpile e' uscito (voi siete malati)
+ <anamexis> :<
+
+#835030 +(19334)- [X]
+
+<Khassaki> CIAO A TUTTI!!!!!
+ <Judge-Mental> premere il tasto CAPS LOCK
+ <Khassaki> GRAZIE!!! COSI' E' MOLTO MENO DIFFICILE SCRIVERE PER ME!!!
+ <Judge-Mental> uccidetemi
+
+#5775 +(18889)- [X]
+
+* ab e' andato, se qualcuno parla nei prossimi 25 minuti per me sara' bm.
+   facendo la figura del coglione           
+ <ab> HA HA HA, LASCIA PERDERE, SONO SOLO SUCCHIACAZZI.
+
+#330261 +(17967)- [X]
+
+<i8b4uUnderground> d-_-b
+ <BonyNoMore> Come si fa la b rovesciata?
+ <BonyNoMore> aspetta
+ <BonyNoMore> non importa
+
+#4753 +(17719)- [X]
+
+<xterm> Il problema dell'America e' la stupidita'. Non sto dicendo che la stupidita' dovrebbe essere punita con la pena di morte, ma perche' non eliminiamo le etichette di sicurezza e lasciamo che il problema si risolva da solo?
+
+#23601 +(16195)- [X]
+
+<mage> Mia sorella deve fare una scansione completa.
+ <Kevyn> Dille di abbassare le mutande e respirare profondamente.
+ <mage> DEL DISCO RIGIDO, IDIOTA!
+
+#111338 +(15799)- [X]
+
+<JonJonB> Solo per amore della scienza, ho finto che Harry Potter abbia fatto un provino per il GS VIP.
+ <JonJonB> Vediamo il risultato...
+
+ <JonJonB> "Buonasera, professore", disse Harry.
+ 
+ <JonJonB> "Harry, ho saputo che vuoi andare al GRANDE SORELLA VIP e tu sai cosa bisogna fare per entrare."
+ <JonJonB> "ma ho un timore grande che tu possa..."
+ 
+ <JonJonB> "Mi dica, " 
+
+ <JonJonB> "avere una bacchetta piccola"
+ <JonJonB> "Non c'e' niente di piu' deprimente."
+
+ <JonJonB> "In realta' ho una bacchetta enorme. Professore"
+
+ <JonJonB> "Ti ho comprato un bel giubotto di pelle. Sarebbe bello abbinarlo ad un jeans a vita bassa e stivaletto San Lagran"
+ <JonJonB> "Oppure potresti scegliere qualcosa sul sito di Dolce e Babbana"
+ 
+ <JonJonB> "Va bene, "
+ 
+ <JonJonB> "Ma mi raccomando, non dire mai nulla di noi"
+ <JonJonB> "Neppure ad Hagrid"
+ <JonJonB> "La segretezza e' l'unica cosa che ti chiedo. Me lo prometti?"
+ 
+ <JonJonB> "Lo prometto."
+ 
+ <JonJonB> "Bene. E ora afferralo. Voglio essere la tua isola che non c'e'"
+ 
+ <alonso> O_______O
+ 
+ <JonJonB> "Sai quanti vorrebbero salire sul mio carro?"
+ 
+ 
+#349567 +(15313)- [X]
+
+Rabidplaybunny87: Ok, i miei vicini mi odiano, e' ufficiale.
+ GarbageStan23: Perche'?
+ Rabidplaybunny87: David, Andrew ed io stavamo mangiando degli hot dog sul fuoco in giardino. Improvvisamente abbiamo sentito le sirene e abbiamo visto un camion dei pompieri nella strada di fronte a noi.
+ Rabidplaybunny87: Siamo usciti per vedere cosa stava succedendo e la casa del vicino era in fiamme!
+ GarbageStan23: no merda!
+ Rabidplaybunny87: Si, siamo arrivati, la moglie stava piangendo, abbracciando il marito, e siamo rimasti li a guardarli, e poi ci hanno guardato male per circa dieci secondi.
+ Rabidplaybunny87: Stavamo guardando le fiamme con gli spiedini di salsiccia nelle nostre mani....
+ Rabidplaybunny87: tempismo impossibile…
+
+#602698 +(15145)- [X]
+
+<death09>la mia ragazza mi ha lasciato e mi ha mandato una foto di lei a letto con il suo nuovo ragazzo
+ <ktp753>Che casino!
+ <death09>L'ho inoltrata a suo padre.
+
+#258908 +(15060)- [X]
+
+<Ben174> : se sapessero che il 90% degli straordinari che mi pagano e' perche' resto a giocare con Kazaa quando la banda larga funziona bene fuori dalle ore di punta...
+ <ChrisLMB> : Se uno dei miei dipendenti lo facesse, lo licenzierei all'istante.
+ <Ben174> : Dove lavori?
+ <ChrisLMB> : Sono il responsabile informatico di LowerMyBills.com.
+ *** Ben174 (BenWright@TeraPro33-41.LowerMyBills.com) Uscita (uscire)
+
+#670375 +(14934)- [X]
+
+<JonTG> Amico, il mio cazzo e' cosi' grande che se lo mettessi sulla tastiera, andrebbe dalla A alla Z.
+ <JonTG> aspetta... merda.
+
+#405221 +(14742)- [X]
+
+<T-Wolf> amico, la mia ragazza mi ha scaricato per un gay di nome Robert
+ <RdAwG20> non vivi a Hope Mills, vero?
+ <T-Wolf> Si, perche'?
+ <RdAwG20> ha ha, non importa, ti chiami Alisson?
+ <T-Wolf> figlio di puttana
+
+#104383 +(14611)- [X]
+
+bloodninja: Tesoro, ho avuto una notte difficile, quindi trattami bene
+ BritneySpears14: Ok.
+ bloodninja: Togliti i pantaloni, amore.
+ BritneySpears14: Li togliero' solo per te, bloodninja.
+ bloodninja: E' cosi' che mi piace. Ho gia' messo la mia tunica e il cappello da mago.
+ BritneySpears14: Ah, adoro i costumi.
+ bloodninja: E io.
+ BritneySpears14: Ti bacio lentamente sul petto.
+ bloodninja: Invoco l'erotismo di livello 3. Tu diventi uno schianto.
+ BritneySpears14: Ehi…
+ bloodninja: Medito per recuperare il mio mana prima di evocare il pollo dell'infinito di livello 8.
+ BritneySpears14: Non capisco.
+ bloodninja: Spendo le mie riserve di mana per evocare la Polvere Potente dell'Oltre.
+ BritneySpears14: Sei il peggiore dei cyber roll. Che mucchio di stronzate.
+ bloodninja: Non prendermi per il culo, sono il mago piu' potente del posto.
+ bloodninja: Rubo la tua anima ed evoco un fulmine di livello 1.000.000. Il tuo corpo esplode in una nebbia sanguinolenta perche' sei un druido di livello 2.
+ BritneySpears14: Non mandarmi piu' messaggi, figlio di un ****.
+ bloodninja: I robot cercano di perforare il mio cervello, ma il mio scudo di fulmini infligge un attacco immediato e i robot finiscono tra le fiamme metalliche.
+ bloodninja: Re Artu' si congratula con me per aver distrutto il malvagio esercito delle Repubbliche Socialiste Robotiche di Robotnik. Fine della guerra fredda. Reagan ruba i miei successi e li fa sembrare come se fossero opera sua.
+ bloodninja: Sei ancora li, amore? Mi sta venendo un'erezione.
+ bloodninja: Amore?
+ --------------
+ BritneySpears14: Ok, pronto?
+ eminemBNJA: Si, sono pronto.
+ BritneySpears14: Mi piace la tua musica, Em... E' forte.
+ eminemBNJA: heh, heh, si, lo faccio per le ragazze.
+ BritneySpears14: Beh, ci piace molto. Te lo dimostrero'.
+ BritneySpears14: Mi tolgo i pantaloni e ti faccio un massaggio su quel corpo.
+ eminemBNJA: Ah, come mi piace. Ho messo la tunica e il cappello da stregone.
+ BritneySpears14: Ma che *****, ti ho detto di non mandarmi piu' messaggi.
+ eminemBNJA: *****
+ BritneySpears14: Se mi scrivi di nuovo, ti denuncio alla compagnia e dico loro che mi hai mandato dei video per adulti, cog*****.
+ eminemBNJA: *****
+ eminemBNJA: devo ricordarmi di scrivere il nome
+
+#178890 +(14081)- [X]
+
+*** Ora si parla in #christian
+-Word_of_God- Benvenuto su #christian, Abstruse. Sono Bible Bot. Info: /msg Word_of_God !info
+<Abstruse> !kjv numeri 22:21
+<Word_of_God> Numeri 22:21 -- Cosi' Balaam si alzo' la mattina, sello' la sua asina e ando' con i principi di Moab. - (KJV)
+*** SageRider banna: +b *!*@c211-30-208-111.rivrw3.nsw.optusnet.com.au
+*** Word_of_God kickato da SageRider (niente volgarita')
+<Abstruse> So che non potro' piu' tornare qui, ma ne e' valsa la pena.
+
+#171987 +(13942)- [X]
+
+<Th3No0b> Saro' il prossimo Hitler
+ <Th3No0b> Uccidero' tutti gli ebrei + 1 pagliaccio
+ <RageAgainsttheAmish> perche' un pagliaccio?
+ <Th3No0b> Vedi, nessuno si preoccupa degli ebrei.
+ <RageAgainsttheAmish> XD
+
+#261501 +(13899)- [X]
+
+<jeebus> Oggi ho visto uno fare la carbonara.
+ <jeebus> Era un fottuto impostore.
+ <jeebus> Ha usato la panna.
+
+#104052 +(13532)- [X]
+
+<NES> xD
+ <NES> Ho scaricato una cosa da Napster
+ <NES> Lo stesso tizio da cui l'ho scaricata se l'e' riscaricata da me appena ho finito.
+ <NES> Gli ho scritto: "Che fai? L'ho appena presa da te".
+ <NES> "Rivoglio la mia canzone, bastardo"
+
+#262353 +(13190)- [X]
+
+<MooseOnDaLoose> Ciao, Mike
+ <goatboy> Cosa?
+ <MooseOnDaLoose> Figa.
+ <goatboy> Come?
+ <MooseOnDaLoose> Figa.
+ <goatboy> E quindi?
+ <MooseOnDaLoose> Figa.
+ <goatboy> ...
+ <MooseOnDaLoose> Figa.
+ <goatboy> Non capisco
+ <MooseOnDaLoose> E NON SCOPERAI MAI.
+ <goatboy> figlio di puttana
+
+#240849 +(12847)- [X]
+
+<Patrician|Away> E cosa fa il tuo robot, Sam?
+ <bovril> raccoglie dati dall'ambiente circostante per poi scartarli e schiantarsi contro i muri
+
+#125283 +(12833)- [X]
+
+<Jeedo> Ehi, amore, come va?
+ <Indidge> beh... niente.
+ <Jeedo> Oggi vengo a casa tua e facciamo sesso?
+ <Indidge> Aspetta... volevi parlare con mia figlia?
+ <Jeedo> Si, signora Miller... :-/
+
+#25464 +(12717)- [X]
+
+<kow> "Ci sono solo 10 tipi di persone al mondo... quelle che capiscono il codice binario e quelle che non lo capiscono.". 
+ <SpaceRain> Sono 2 tipi di persone, sappilo.
+ <SpaceRain> IDIOTA
+
+#400459 +(12686)- [X]
+
+<byteMe> Mamma, per liberare spazio devi svuotare il Cestino.
+ <mum68> Ok tesoro. *si alza, va nel corridoio e ribalta il cestino della carta straccia*
+ <byteMe> No! Quello del computer!
+ <mum68> Ah. E come faccio a prenderlo in mano?
+
+#50891 +(12683)- [X]
+
+<Eticam> Ero a lezione di biologia e l'insegnante ha detto che lo sperma contiene zucchero.
+ <Eticam> Una ragazza ha chiesto come mai non aveva un sapore dolce
+ <Eticam> Rendendosi conto di quello che aveva detto, divenne rossa come un pomodoro.
+ <Eticam> E l'insegnante gli disse che la dolcezza si cattura con la punta della lingua, con la parte in cui si trova la gola.
+ <Eticam> La ragazza si mise a piangere e lascio' la classe. ^^
+
+#21516 +(12541)- [X]
+
+<turno> Non vedo l'ora di scoparmi Michelle... e che anche sua sorella si unisca a noi.
+ <Seeker> Ehi, turn, tua madre legge i post di bash.org?
+ <turno> Ti ammazzo, CAZZO! !
+ <Seeker> Tua madre non lavora in chiesa? Se leggesse quello che hai detto si incazzerebbe molto, vero?
+ <turno> Non ne hai davvero idea, amico, sul serio... mi rovineresti la vita.
+ <Seeker> Tranquillo, non lo pubblico.
+ [Privmsg] <Seeker> Ehi, incollo qualcosa, lo pubblichi su bash.org?
+ [Privmsg] <opiate> la cosa di turn? haha, fottuto bastardo!
+ [Privmsg] <Seeker> heh, heh, sua madre lo prendera', lo portera' nella chiesa che frequentano e lo fara' sodomizzare dal prete.
+ [Privmsg] <opiate> Si, e poi ci uccidera', ma ne varra' la pena. ;)
+ [Privmsg] <turno> Non lo pubblicherai, vero? Non farlo, per favore. Ti supplico.
+ [Privmsg] <Seeker> Non lo pubblichero':) e anche se lo sapesse, non sa che il tuo alias, turn, e' suo figlio Michael Savu.
+ [Privmsg] <turno> *uf* credo che tu abbia ragione
+
+#9322 +(12328)- [X]
+
+<tag> Ouroboros: andiamo a giocare a Pong
+ <Ouroboros> Ok.
+ <tag> |    .
+ <Ouroboros> .    |
+ <tag> |  .
+ <Ouroboros>    . |
+ <tag> | .
+ <Ouroboros>      | .
+ <Ouroboros> Ops
+
+#8814 +(12314)- [X]
+
+<Night-hen-gayle> Devo andare.  C'e' un tizio accanto a me che spettegola sulla mia scrittura, comincia a darmi una brutta sensazione.  Si, ragazzo accanto a me, sto parlando di te.
+
+#85514 +(12297)- [X]
+
+<Reverend> IRC e' un blocco di note multiplayer.
+
+#309397 +(12275)- [X]
+
+<VolteFace> Non odiate quando cagate per terra e la sentite cadere, ma poi non sapete dove e' caduta e passate 5 minuti a cercarla?
+ <peng> ...
+ <peng> cosa?
+ <VolteFace> merda
+ <VolteFace> intendevo quando si fa cadere della merda sul pavimento.
+
+#127039 +(12275)- [X]
+
+<wolf> 1. Conservate tutte le offerte di carte di credito gratuite che ricevete e mettetele in un mucchio. 
+ <wolf> 2. Conservate tutti i coupon gratuiti che ricevete e metteteli in un altro mucchio. 
+ <wolf> 3. Ora aprite le buste affrancate che arrivano con  
+        le carte di credito. 
+ <wolf> 4. Prendi i coupon dal secondo mucchio e mettili nella busta 
+        che tieni in mano. 
+ <wolf> 5. Lasciate cadere le buste piene fino all'orlo nella vostra posta e andate via 
+        fischiettando. 
+ <wolf> Ho ricevuto ora due telefonate dalle societa' di carte di credito 
+        dicendomi che hanno ricevuto una busta imbottita con coupon 
+        invece che la mia domanda. Mi hanno informato che non sono contenti 
+        di aver pagato il conto per la merda che gli ho mandato. Rispondo con "C'e' scritto 
+        Business Reply Mail" Vi sto suggerendo dei coupon per far si che il vostro 
+        business abbia piu' successo. Mi hanno prontamente riattaccato. 
+ <wolf> Ora, ho fatto questo per circa un mese prima che diventasse noioso, quindi ho 
+        un' idea in piu'! Ho aggiunto esattamente 33 centesimi di dollaro alla busta 
+        cosi' hanno pagato EXTRA a causa del peso. Ho ricevuto una chiamata che mi informava 
+        del denaro, ho detto che si trattava di un errore e ho preteso il rimborso. Dopo 
+        aver urlato al commesso e poi al supervisore, hanno accettato le mie 
+        richieste e mi hanno staccato un assegno. In questo momento ho in mano 
+        un assegno della GTE Visa di esattamente 33 centesimi.
+
+#608100 +(12110)- [X]
+
+<cassius_clay13> l'altro giorno ero con il mio amico Bryan in un bar
+ <cassius_clay13> beh, si e' ubriacato e ha detto che stava per vomitare
+ <cassius_clay13> l'ho aiutato ad andare in bagno 
+ <cassius_clay13> ma erano tutti occupati
+ <emoti_conartist> xD
+ <cassius_clay13> Bryan gioca a rugby... e' enorme
+ <cassius_clay13> ha dato un CALCIO alla porta e l'ha sfondata
+ <cassius_clay13> dentro c'era un tizio che stava cagando
+ <emoti_conartist> hahahahahaha
+ <cassius_clay13> e bryan ha lanciato la porta sopra di lui
+ <cassius_clay13> poi (questo e' geniale) bryan pensa 'oh merda... se stessi cagando e qualcuno entrasse e mi stesse vomitando addosso, dovrei farlo a pezzi... quindi e' meglio che lo colpisca prima'.
+ <cassius_clay13> ha dato un PUGNO IN FACCIA al tipo.
+ <cassius_clay13> e se ne ando'
+ <cassius_clay13> immagina il tizio... LA PEGGIORE NOTTE DELLA SUA VITA
+
+#434593 +(11993)- [X]
+
+*** L'argomento in #doghouse e: 'I nostri cuori sono rivolti alle 17 vittime della recente frode su internet'.
+ * Anubis si e' unito a #doghouse
+ <Anubis> Che frode?
+ <Kadmium> Non hai sentito?
+ <Anubis> No
+ <Kadmium> Puoi leggere l'intera storia su http://www.tubgirl.com
+ <Anubis> Fanculo, wtf!
+ *** Kadmium cambia l'argomento in 'Siamo con le 18 vittime della recente frode su internet'.
+
+#9501 +(11921)- [X]
+
+<AgentSmith> Sembra che lei abbia condotto una doppia vita, signor Anderson. In una vita e' Robert Anderson, un cameriere in un Jack in the Box a Mesquite. Nella seconda, usa lo pseudonimo "Randerson" per fare propaganda omosessuale, dire bugie e in generale essere un immaturo moccioso...
+ <AgentSmith> Una di quelle vite... ha un futuro.
+ <Randerson> xD COSA VUOI? Dov'e' il cellulare? Devo dirlo a Dean
+ <AgentSmith> Come pensi di usare il telefono se non puoi... parlare?
+
+#77904 +(11181)- [X]
+
+<Sui88> Il 67% delle ragazze sono idiote.
+ <V-girl> Io appartengo all'altro 13%.
+
+#201579 +(11180)- [X]
+
+<by> Come posso dire al mondo che sono un idiota?
+ <Seven7> Facile, scrivi il tuo nome, dove vivi e la tua confessione.
+ <by> Ok
+ <by> Sono Mark Duval dal Belgio, e sono un idiota.
+ <by> ?
+ <by> Cosa c'e' dopo?
+ <Seven7> Non preoccuparti, e' fatta.
+
+#412248 +(11135)- [X]
+
+<Locl-Yocl> Ho aiutato i servizi di emergenza in un incidente d'auto e sono finito coperto di sangue. Sembrava che avessi ucciso 20 persone con una forchetta... Sono entrato in un negozio e ho detto che la mia ragazza aveva bisogno di un assorbente. Il tizio al bancone ha quasi avuto una crisi.
+
+#790133 +(11081)- [X]
+
+<third_planet> L'altra sera il mio amico aveva dell'erba e voleva che la fumassi con lui, ma non avevamo un posto dove fumarla perche' entrambi i nostri genitori erano a casa.
+ <third-planet> Cosi' abbiamo cercato un parcheggio per poter fumare in macchina.
+ <third-planet> Alla fine siamo finiti in un parcheggio di Wendys...
+ <Mr-Butlertron> Molto logico, si...
+ <third-planet> Lo so, era un'idea assurda. Eravamo disperati ed e' stato il primo posto che abbiamo trovato.
+ <third-planet> Cosi' abbiamo parcheggiato sotto un albero, era buio e pensavamo di essere abbastanza nascosti. Accendiamo la canna e un poliziotto si ferma. Siamo rimasti fermi per vedere se il poliziotto pensasse che la macchina fosse vuota e si fosse appena parcheggiata. O se non ci ha visto.
+ <third-planet> Il poliziotto ha fatto il giro del parcheggio e ha parcheggiato dietro di noi. Cosi' il mio amico Bobby prese l'erba e la mise nel vano portaoggetti. Ma la macchina puzzava di erba e pensavamo che ci avesse beccato. 
+ <third-planet> Bobby ha detto che dovevamo distrarre il poliziotto. In un secondo, si e' tolto la camicia, ha sbottonato i miei pantaloni e ha infilato la mano dentro. Prima che potessi elaborare quello che stava succedendo, il poliziotto ha bussato al finestrino. Si e' voltato e ha visto Bobby senza maglietta con la sua mano nei miei pantaloni e divento' rosso come un pomodoro. 
+ <third-planet> Abbasso il finestrino e il poliziotto mi dice con voce stupita e la faccia rossa: "Siate buoni". E' salito in macchina e se n'e' andato.
+ <third-planet> Non ha nemmeno sentito l'odore di spinelli.
+ <third-planet> Siamo tornati a casa in un silenzio imbarazzante.
+
+#406373 +(11068)- [X]
+
+<[TN]FBMachine> una volta sono stato cacciato da una libreria per aver messo tutte le bibbie nella sezione fantasy.
+
+#328464 +(10807)- [X]
+
+SparTacus (rulimbaww@3B942731.dsl.stlsmo.swbell.net) si e' unito a #santcuary
+ *SparTacus ora si chiama Betty_Guns
+ wacko Jacko (lbeedy@1C57684.dsl.stlsmo.swbell.net) si e' unito a #santcuary
+ <wacko_Jacko>Ok, Spartacus e' appena entrato qui'. Chi di voi e' quel babbeo?
+ <hunney> Sono io Spartacus
+ <ji_pper>no, io sono Spartacus.
+ <Betty_Guns>Io sono Spartacus
+ <mistr andersn>IO SONO SPARTACUS
+ <wacko_Jacko>siete tutti secchioni 
+
+#142934 +(10663)- [X]
+
+docsigma2000: cazzo
+ docsigma2000: Ammazzo mio figlio
+ c8info: Perche'?
+ docsigma2000: Ha navigato su siti con dominio .eu, toccati
+ docsigma2000: HA FATTO ROAMING DATI
+ docsigma2000: Ci arrivera' una bolletta mostruosa
+ c8info: Ahia, che sfortuna. Il roaming dati in UE costa 5 dollari al megabyte.
+ docsigma2000: ...!!!!!! CAZZO CAZZO CAZZO
+ docsigma2000: Non posso fare un'offerta?
+ docsigma2000: C'e' roba buona in Europa, ma non voglio pagare cosi' tanto.
+ c8info: No, spiacente. Non ci sono piani, dovrai fartene una ragione.
+ docsigma2000: Beh, posso vivere senza siti .eu.
+ docsigma2000: Ma finche' non so bloccarli, lo ammazzo.
+ c8info: Ah, comunque... io sono in Italia. Quindi sto facendo roaming anche ora.
+ ** docsigma2000 e' uscito (Connessione ripristinata)
+
+#8102 +(10604)- [X]
+
+<glome> Ha parlato al meeting il tipo del reparto IT. Ha detto "basta fare il pendolare, usate la VPN".
+ <content> Glome non ha capito niente!
+ <glome> Chi, io?
+ <content> Si', tu!
+ <glome> Ma che dici!
+ <content> Allora CHI?
+ <glome> e' stato Woody! Lui crede che VPN voglia dire "Vieni Presto a Narnia"!
+ *** glome e' stato bannato da DrWoody (io so cosa vuol dire VPN, stronz*o. e' "Vaffanculo, Perdona Nessuno").
+
+#180081 +(10451)- [X]
+
+<kylev> AHAHAHAHAHAHAHAHA
+ <kylev> hahahahaha
+ <kylev> nel nostro stabilimento si e' appena presentata una zia
+ <kylev> offrendo favori sessuali a chiunque facesse il suo lavoro di sociologia per lei.
+ <kylev> gli ho chiesto in cosa consisteva il lavoro
+ <kylev> e mi ha raccontato delle conquiste e dell'ascesa del femminismo
+ <Neo> hahahahaha
+
+#334762 +(10401)- [X]
+
+<UKDJ|Planet> Lo giuro su Dio
+ <UKDJ|Planet> Ho appena sentito un'anatra raccontare una barzelletta.
+ <Jock> ma va...
+ <UKDJ|Planet> C'era uno stormo di anatre in uno stagno vicino a dove vivo.
+ <UKDJ|Planet> una delle anatre si allontanava e starnazzava, guardando dritto verso uno stormo di una decina di anatre.
+ <UKDJ|Planet> improvvisamente si e' fermata e le altre anatre sono impazzite.
+ <UKDJ|Planet> sembrava un monologo di un'anatra
+
+#120296 +(10363)- [X]
+
+<link>una volta stavo navigando sul web in cerca di video... quando, debole ed esausto ho cliccato sul mio bookmark preferito ed e' apparso un messaggio di avvertimento, e il mio cuore si e' riempito di dolore, triste ho pianto: "Non e' possibile...", ho sussurrato... il server ha risposto un semplice 404.
+ <hokage> *cavolo*, spaventoso...
+
+#262417 +(10214)- [X]
+
+<_kr4m3r> Non posso credere a quanti delinquenti ci siano
+ <salvin> Ehi, se mandiamo tutti i criminali in un continente vuoto, lasciamoli morire li.
+ <salvin> e ci saremmo presentati 50 anni dopo dicendo: "Cosa sta succedendo?".
+ <salvin> Cosa pensate che direbbero?
+ <FoSZoR[bg]> qualcosa come "buongiorno, amico"
+
+#368808 +(10212)- [X]
+
+<@David> Bene, oggi il mio capo mi dara' quello che stavo aspettando! E' passato un mese e non ne posso piu'
+ <@Sony> ...........
+ <@Sony> Troppe informazioni
+ <@David> Solo per pochi dollari, ma e' meglio di niente.
+ <Malpine> Grazie per le informazioni
+ <@David> Cosa?
+ <@David> Oggi ricevo il mio stipendio
+ <@David> Di cosa pensavi che stessi parlando?
+ <@David> figa
+
+#151227 +(10189)- [X]
+
+IronChef Foicite: beh, ci sono molte ragioni
+ IronChef Foicite: rose solo per un paio di settimane
+ IronChef Foicite: e questo se le lasci nell' acqua
+ IronChef Foicite: ed esistono solo per essere belle.
+ IronChef Foicite: quindi e' come dire
+ IronChef Foicite: "il mio amore per te e' temporaneo e basato solo sul tuo aspetto"
+ IronChef Foicite: ora pensa a una patata
+ IronChef Foicite: le patate durano un anno, amico
+ IronChef Foicite: Infatti, non solo non marciscono, ma mettono anche radici se si lasciano nel sacchetto.
+ IronChef Foicite: questo da solo e' un buon segno
+ IronChef Foicite: ma c'e' di piu'
+ IronChef Foicite: ci sono molti modi per godersi una patata, la si puo' anche usare per fare una batteria.
+ IronChef Foicite: ed e' come dire "ti mostro il mio amore in molti modi"
+ IronChef Foicite: e le patate saranno anche brutte, ma sono fantastiche.
+ IronChef Foicite: ed e' come dire "qualunque cosa tu sia, ti amero' ancora"
+
+#6460 +(10159)- [X]
+
+<studdud> perche' xD sembra una faccia che ride?
+
+#14207 +(10021)- [X]
+
+<h|tler> COME CAZZO FAI A SAPERE CHE HO 13 ANNI DA COME SCRIVO?????
+
+#136524 +(10003)- [X]
+
+<Raven> Ho provato ad usare "minchia" come password per Hotmail.
+ <Raven> Mi ha detto che non era abbastanza lunga. :(
+
+#83627 +(9942)- [X]
+
+<scirDSL> Odio andare ai matrimoni. Vengono tutte le nonne a dirmelo: "Tu sarai il prossimo". Hanno smesso di farlo quando ho iniziato a farlo per loro ai funerali.
+
+#88575 +(9876)- [X]
+
+<Stormrider> Dovrei bombardare qualcosa
+ <Stormrider> ...e per commenti come questo di solito non faccio lunghe conversazioni. 
+ <Stormrider> Nel caso in cui l'FBI abbia bisogno di scoprire qualcosa su di me.
+ <Elzie_Ann> Sicuramente possono ottenerlo da qualcuno che fa lunghe conversazioni.
+ *** L'FBI si e' unita a #gamecubecafe
+ <FBI> Abbiamo visto tutto allo stesso modo.
+ *** FBI ha lasciato IRC (Uscita: )
+
+#246405 +(9846)- [X]
+
+<[BAC]Draxon|TWL>  "Gli animali lo scopriranno!", ruggi' il pinguino leccapiedi mentre il nano ben dotato succhiava il suo pene trasudante tappando la sua terza gamba ammaccata nel  
+ <[BAC]Draxon|TWL> vai a
+ <[BAC]Draxon|TWL> ho sbagliato finestra
+ <d|syztem> che CAZZO
+
+#362137 +(9810)- [X]
+
+<reo4k> digita /exit per uscire da irc
+ * luckyb1tch ha lasciato IRC (rheaven)
+ * r3devl ha lasciato IRC (rheaven)
+ * sasopi ha lasciato IRC (rheaven)
+ * phhhfft ha lasciato IRC (rheaven)
+ * blackersnake ha lasciato IRC (rheaven)
+ <ibaNreo4k[ex]> che fatica
+ <rheaven> :(
+
+#334331 +(9750)- [X]
+
+<LordChewy> mio padre ha trovato la mia cartella piena di video per adulti
+ <LordChewy> e si e' incazzato molto
+ <LordChewy> ha detto: "Ti ho sorpreso? Non sono un idiota"
+ <LordChewy> "Lo so, papa'"
+ <LordChewy> "cos'hai da dire in tua difesa?"
+ <LordChewy> In quel momento, l'ho guardato negli occhi e gli ho detto "C:Documents and SettingsRickyMy Documentsfaxessent faxes"
+ <LordChewy> e cadde in silenzio
+ <kingKahn> E che cos'e'?
+ <LordChewy> la tua cartella 18+
+
+#329292 +(9603)- [X]
+
+<Batty> il mio browser e' lentissimo. come lo faccio andare piu' veloce?
+ <zeep> premi alt+f4, libera la cache.
+ <Batty> aspetta... si e' chiuso tutto.
+ <zeep> si', la cache e' libera ora.
+ <Batty> ma ho perso 15 schede aperte!
+ <zeep> vedi? ora e' molto piu' veloce a riaprirle.
+
+#577451 +(9557)- [X]
+
+<DmncAtrny> Scrivero' su un enorme blocco di cemento "SE ACCETTATE QUESTO MATTONE CONTRO LA FINESTRA, LO ACCETTATE COSI' COM'E', SENZA ALCUNA GARANZIA, ESPRESSA O IMPLICITA, E SENZA ALCUNA RESPONSABILITA', DIRETTA, INDIRETTA, CONSEQUENZIALE O INCIDENTALE, DERIVANTE DALL'INSTALLAZIONE DI QUESTO MATTONE NEL VOSTRO EDIFICIO.".
+ <DmncAtrny> Poi lo lancero' contro la finestra di un agente della Sony.
+ <DmncAtrny> e scappero' via
+
+#126218 +(9490)- [X]
+
+<WiLdSeXyPrInCeSs> amo i ragazzi, dove sarebbero senza di noi?
+ <XeNoX> Saremmo ancora nel giardino dell'Eden, puttana.
+
+#6441 +(9397)- [X]
+
+<Zanthis(ALE)> AFK a causa di un tornado
+
+#758379 +(9381)- [X]
+
+< Alkivar> L'altro giorno stavamo tornando dalla festa del fine settimana a New York... era domenica pomeriggio, ci stavamo dirigendo verso ovest.
+ < Alkivar> stavamo facendo 200-220 km/h.
+ < Alkivar> Mentre passavamo, c'era una macchina di pattuglia sul lato della strada.
+ < Alkivar> ha acceso le luci, ha messo la sirena e ha iniziato a inseguirci.
+ < Alkivar> non sapevamo se fermarci o meno, perche' non saremmo stati presi.
+ < Alkivar> alla fine ci siamo comportati bene e ci siamo fermati
+ < Alkivar> il poliziotto ci ha raggiunto, si e' avvicinato a noi con la sua pipa puntata su di noi, incazzato.
+ < Alkivar> si e' avvicinato alla macchina e ha detto:
+ < Alkivar> "MOSTRAMI LA TUA PATENTE DI GUIDA"
+ < Alkivar> Jason ha preso la sua fottuta patente di guida.
+ < Alkivar> il poliziotto e' rimasto con la bocca aperta
+ < Alkivar> Ero cosi' spaventato che non mi crederai mai
+ < Alkivar> e quasi piagnucolando, disse: "Fuori di qui"
+ < Alkivar> non ci ha fatto la multa... deve avergli dato troppa corda.
+ < Alkivar> Non dimentichero' mai quel giorno in vita mia
+ < Alkivar> Pensavo che ci avrebbe mandato in prigione
+
+#830747 +(9336)- [X]
+
+<Caruso> ok, cinese per cena... io propongo il "pene alla pechino".
+ <Dauntless> … MI STAI PRENDENDO PER IL CULO
+ <Caruso> eh, ci siamo.
+ <Dauntless> Puoi finire su Spotted Unict?
+ <Caruso> perche'? per diventare la millesima citazione di un nerd che parla di "RAM" intendendo la ragazza?
+ <Caruso> Fanculo.
+ <Caruso> Se devo essere citato, voglio la citazione epica:
+ <Caruso> MONTY PRESENTA IL POST DEFINITIVO
+ <Caruso> CAZZO, mia sorella e' entrata in camera in perizoma e invece di provarci ho pensato "oddio la ventola RGB della CPU non e' sincronizzata". Poi ha dato fuoco alla scrivania ma ero in modalita' nerd, quindi invece di spegnere il fuoco ho pensato "buona occasione per testare il backup cloud".
+ <Caruso> Quindi ora sto qui su IRC a scrivere: DIO, IL MIO PC LAGGA! NO ASPETTA, e' SOLO WINDOWS VISTA. Ora, la battuta obbligatoria su Windows Vista che tutti hanno usato ma nessuno ammette.
+ <Caruso> VISTA e' COME IL MIO FUTURO: BELLO IN TEORIA, MA POI TI CRASHA TUTTO.
+ <Caruso> E ora, la parte dove parlo di hardware come se fosse sessuale:
+ <Caruso> HO UNA RTX 4090... Si', e' UNA SCHEDA VIDEO, NON UNA RAGAZZA. PUo' FARE RAY TRACING A 4K MA NON PUo' ABBRACCIARMI.
+ <Caruso> Poi accenno alla mia vita sessuale inesistente, ma lo faccio passare per scelta ("preferisco ottimizzare i database").
+ <Caruso> Ah, dimenticavo il classico: "NON ESCO MAI DI CASA".
+ <Caruso> IERI HO VISTO UNA RAGAZZA VERA AL SUPERMERCATO E HO PENSATO "CHE STRANO MODELLO 3D". POI HO REALIZZATO CHE ERA UNA PERSOMA VERA E SONO CORSO A CASA A SCARICARE 80 GB DI TORRENT.
+ <Caruso> </fine sfogo>
+ <Caruso> Comunque, come dicevo... vado ad ordinare la pizza. Torno tra poco.
+ <Dauntless> o_o
+
+#409 +(9155)- [X]
+
+<DaZE> nella mia scuola... e' venuto un ragazzo a parlarci di droga e ha passato 3 spinelli per mostrarli alla classe... Ha detto: "Se non li riavro' tutti e tre, chiudero' la scuola e perquisiro' tutti gli studenti finche' non saltano fuori.". 30 minuti dopo, quando tutti li avevano visti e glieli avevano restituiti, ce n'erano 4
+
+#870063 +(9073)- [X]
+
+<djahandarie> Io regno sul codice, comando qui
+ <djahandarie> Ogni mio verso e' netto, ogni comando va li'
+ <http402> Fai lo smanettone ma non conosci il PHP
+ <http402> Il tuo codice e' un macello, la tua rima gia' sa
+ <djahandarie> Parli di linguaggi ma formatti col mago?
+ <djahandarie> Sei un principiante, rimani vago
+ <http402> Mio nipote di sei anni scripta piu' di te
+ <http402> Tu batti i tasti a caso, non sai cos'e' un .deb
+ <djahandarie> Screenshot non li fai, mai catturato un frame
+ <http402> E hai perso la battle, finisce proprio qui il game
+ <djahandarie> Ok, mi inchino, sei forte davvero
+ * http402 fa un tap dance sul tasto INVIO
+
+#462310 +(9071)- [X]
+
+< robT> Dimmi UNA cosa che il tuo computer Windows puo' fare e che il mio MAC non puo' fare.
+ < bawss> Click destro.
+
+#376790 +(8996)- [X]
+
+Mike3285: cosa e' un palindromo?
+ MaroonSand: No, non lo e'.
+
+#574642 +(8979)- [X]
+
+ * Porter cambia nickname in TUTTOAPPOSTOGRAZIE
+<Strayed> hai finito di parlare con la pubblica amministrazione?
+
+#214810 +(8939)- [X]
+
+<Fulgore> cos'e' un bambino complesso?
+ <sparks> uno con la madre reale e il padre immaginario.
+ <Fulgore> vaffanculo
+
+#583977 +(8799)- [X]
+
+<DannyB> Una ragazza mi ha fermato per strada e mi ha chiesto: "Hai trovato la salvezza?"
+ <DannyB> Io le ho detto: "Si', ho fatto un salvataggio manuale al checkpoint principale due minuti fa".
+ <DannyB> "Se muoio, ricarico da li'. Perche', anche tu giochi?"
+ <DannyB> Sembrava che le avessi parlato in Klingon.
+
+#352172 +(8768)- [X]
+
+<NHBoy> Come si chiamera' questo piccolo riflesso nell'occhio?
+ <rycool> ...
+ <NHBoy> Pupilla.
+ <NHBoy> E la mia si dilata solo per te.
+
+#365072 +(8702)- [X]
+
+<xGirlygirlx> Grazie per avermi ascoltato.
+ <xGirlygirlx> Sei sempre disposto ad ascoltare.
+ <xGirlygirlx> Tesoro, dimmi qualcosa, per favore.
+ <Sandaedar> Ok, sono tornato.
+
+#1730 +(8690)- [X]
+
+<Mikkel> Se fossi in campeggio, con il tuo amico diventeresti TREMENDAMENTE cieco. 
+ e ti svegliassi il giorno dopo con un preservativo nel culo, lo diresti a qualcuno? 
+ <Celestya> non credo 
+ <Mikkel> Andiamo in campeggio?
+
+#628630 +(8682)- [X]
+
+<samsim> dicono che un tizio si e' introdotto nel recinto dei leoni allo zoo.
+ <samsim> e che si e' fatto male
+ <samsim> hanno detto che ci dovrebbero essere piu' difese per evitare che la gente entri nelle gabbie.
+ <samsim> un mio amico ha trovato un modo per dissuadere la gente
+ <samsim> ad esempio, mettere in gabbia un animale feroce, che attacca chiunque gli si avvicini
+
+#420855 +(8681)- [X]
+
+gentoogod: madre di dio
+ gentoogod: oggi ho incontrato le 3 persone piu' alte del mondo
+ gentoogod: i loro cervelli non potevano risolvere il dilemma che aveva di fronte una persona bassa
+ siral21: cosa e' successo?
+ gentoogod: Ok, prima ti diro'
+ gentoogod: che sia successo proprio cosi', e' vero al 100%.
+ gentoogod: una signora alta e' andata da McDonalds e ha ordinato un Big Mac.
+ gentoogod: poi ha ordinato 2 mcgrittles per i suoi due bambini. uno con pancetta e uno senza.
+ gentoogod: i bambini avevano tipo 18 o 19 anni, non erano piccoli
+ gentoogod: e' andata al bancone furiosa perche' il figlio che voleva la pancetta non l'aveva e quello che non la voleva aveva la pancetta.
+ gentoogod: mi sono buttato a terra ridendo a crepapelle
+ gentoogod: alla fine le ho chiesto di ripetermelo, nel caso fosse ubriaca.
+ gentoogod: giuro su Dio che mi ha guardato in faccia e ha ripetuto la stessa cosa. e i 2 figli erano accanto a lei incazzati perche' non avevano ottenuto quello che avevano chiesto.
+
+#217453 +(8661)- [X]
+
+<@Chin^> L'altra settimana, mia sorella mi ha sorpreso a masturbarmi e mi ha chiamato pervertito.
+ <@Chin^> l'altro giorno sono entrato nella sua stanza e ho beccato mia sorella che si masturbava
+ <@Chin^> e tu mi chiami pervertito un'altra volta?
+ <@Chin^> che mondo ingiusto...
+
+#1578 +(8605)- [X]
+
+<calin> c'era un ragazzo al liceo che si dipingeva le labbra di nero... aveva un qualcosa di gotico... e un giorno lo abbiamo sorpreso a comprare un vibratore anale 
+ <ecoli> Che schifo.
+ <ecoli> aspetta, che significa che ce l'hai?
+ <ecoli> eri in fila al negozio di vibratori anali?
+ <Aero> nessuna risposta
+ *** Partenze: calin (senza percorso verso l'host)
+
+#117002 +(8602)- [X]
+
+<YuFFie> QUINDI MI HACKERERAI, EH?
+ <YuFFie> BEH, SAPPI CHE ORA HO PIU' FIREWALL, SONO AL SICURO, IN PIU' USO WINDOWS 98 QUINDI SONO AL SICURO DAGLI HACKER COME TE. RINUNCIA, VISTO CHE NON HAI NIENTE DA FARE.
+ * YuFFie (~mirc@3B942731.dsl.stlsmo.swbell.net) Uscita
+ * YuFFie (~mirc@3B942731.dsl.stlsmo.swbell.net) si e' unito a #
+ <YuFFie> AIUTO, IL MIO MOUSE SI MUOVE DA SOLO
+
+#2999 +(8602)- [X]
+
+<kyourek> Ho perso l'1% della batteria del portatile.
+ <nappyjallapy> Oddio, praticamente scarico! Dovresti metterlo in carica!
+ <kyourek> Non ti degnero' neanche di una risposta. Ti ignorero' fino alla morte termica dell'universo.
+
+#424487 +(8597)- [X]
+
+JstWnnaHveFuN08: Pensi che dovrei chiamare un amico e raccontargli i miei problemi, o mi ignorera'?
+ Thilo: Ecco come funziona: se un ragazzo ti aiuta con i tuoi problemi, sei obbligato a fargli un pompino.
+ JstWnnaHveFuN08: haha grazie, mi hai tirato su il morale
+ Thilo: Non c'e' di che. Mi devi un pompino.
+
+#12431 +(8597)- [X]
+
+<Hiroe> Il mio amico, in costume da Cavaliere Oscuro alla Comic-Con, con l'armatura nera e la voce modificata, ha condiviso l'ascensore con una suora anziana.
+ <Hiroe> Nel silenzio piu' totale, la suora lo guarda e sospira: "I giovani d'oggi..."
+ <Hiroe> Lui, senza pensarci due volte, abbassa la distorsione vocale e risponde con la sua voce normale da ragazzo del sud: "Si', signora, ha proprio ragione".
+
+#10958 +(8596)- [X]
+
+(morganj): 0 e' falso e 1 e' vero, giusto?
+ (alec_eso): 1, morganj
+ (morganj): bastardo.
+
+#139697 +(8593)- [X]
+
+<frank> potete aiutarmi a installare GTA3?
+ <knightmare> Per prima cosa, chiudete tutti i programmi che non state usando.
+ Frank ha lasciato IRC. (Uscita)
+ <knightmare> ...
+
+#665807 +(8592)- [X]
+
+Cazzo, e' Zack, che forza: il mio insegnante di matematica pinza le domande di lavoro di Burger King a chi viene bocciato.
+
+#202477 +(8592)- [X]
+
+(Mootar) idioti.
+ (Mootar) i vicini del mio palazzo sono collegati al mio wifi
+ (Mootar) credono di essere dei megahacker per essersi introdotti nella mia rete non protetta.
+ (Mootar) sfortunatamente, la connessione funziona in entrambi i sensi
+ (Mootar) conclusione, ora hanno un computer pieno di video per adulti.
+
+#348498 +(8591)- [X]
+
+<MasterG> .....................................................................
+           ..................................
+ <judas> dov'e' pacman quando hai bisogno di lui?
+
+#283491 +(8591)- [X]
+
+<BronsonTheBeef> Ho ricevuto un ospite a una delle mie lezioni.
+ <BronsonTheBeef> per parlarci di diversita', razzismo e roba del genere.
+ <BronsonTheBeef> l'insegnante non lo conosceva...
+ <BronsonTheBeef> All'improvviso e' entrato il tipico gangster del ghetto dall'aspetto scuro.
+ <BronsonTheBeef> portava una catena d'oro al collo, indossava abiti larghi e tutto il resto.
+ <BronsonTheBeef> Indossava un orologio d'oro e un anello su ogni dito, e puzzava di erba e birra.
+ <BronsonTheBeef> portava persino una calza in testa e una sigaretta dietro l'orecchio. 
+ <BronsonTheBeef> e' entrato come un rapper, facendo gesti con le mani
+ <BronsonTheBeef> l'insegnante disse: "Sei tu Jeff?"
+ <BronsonTheBeef> ha detto: "Certo, stronzo". E lui disse: "Come va, sfigati?" 
+ <BronsonTheBeef> ha iniziato ad agitare le braccia e a cantare sciocchezze contro di noi
+ <BronsonTheBeef> gli ha detto di parlarci della diversita' ed e'
+ <BronsonTheBeef> ha iniziato a parlare dell'abuso dei bianchi, che sono degli stronzi.
+ <BronsonTheBeef> un minuto dopo e' entrato un altro uomo di colore vestito elegante
+ <BronsonTheBeef> e ha detto: "Scusate il ritardo".
+ <BronsonTheBeef> Si e' scoperto che il primo nero era fatto. E non e' nemmeno andato all'universita'.
+ <BronsonTheBeef> voleva vendere erba nel dormitorio
+
+#369 +(8591)- [X]
+
+<Beeth> Le ragazze sono come i nomi di dominio, quelli che mi piacciono sono gia' presi.
+ <honx> beh, puoi sempre ottenerne uno da un paese lontano. :-P
+
+#514353 +(8590)- [X]
+
+<Insomniak> fottuto Google del cazzo
+ <Insomniak> "Il" e' una parola comune e non e' stata inclusa nella tua ricerca
+ <Insomniak> "Chi" e' una parola comune e non e' stata inclusa nella tua ricerca
