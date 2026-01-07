@@ -1,4 +1,4 @@
-**Traduzione italiana (IT) di Hacknet**
+**Traduzione italiana (IT) di [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)**
 
 [![preview](https://github.com/user-attachments/assets/158ec32c-2c3a-41c6-b3ff-cefbdb82776a)](https://steamcommunity.com/sharedfiles/filedetails/?id=3641295746)
 
