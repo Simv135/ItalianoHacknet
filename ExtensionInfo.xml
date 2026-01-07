@@ -1,0 +1,70 @@
+<HacknetExtension>
+
+  <Name>Hacknet: Italiano</Name>
+  
+  <AllowSaves>false</AllowSaves>
+  <StartingVisibleNodes></StartingVisibleNodes>
+  <StartingMission>Missions/StartingMission.xml</StartingMission>
+  <StartingActions>Actions/StartingActions.xml</StartingActions>
+
+  <Description>Traduzione in ITALIANO (IT) di Hacknet
+  
+  Per installare leggere la procedura di installazione sulla pagina dell'estensione su Steam.
+  
+  Hacknet:Italiano</Description>
+  
+  <Faction></Faction>
+  <StartsWithTutorial>False</StartsWithTutorial>
+  <HasIntroStartup>false</HasIntroStartup>
+  <StartingTheme></StartingTheme>
+  <IntroStartupSong></IntroStartupSong>
+
+  <WorkshopDescription>Traduzione in ITALIANO (IT) di Hacknet
+
+Procedura di installazione:
+
+1) Sottoscrivere l'estensione
+
+2) Andare al percorso:
+
+	C:\Program Files (x86)\Steam\steamapps\workshop\content\365450\3641295746\
+
+3) Copiare la cartella "Locales"
+
+4) Andare al percorso:
+
+	C:\Program Files (x86)\Steam\steamapps\common\Hacknet\Content\
+	
+5) Incollare all'interno della cartella e Sostituire il file nella destinazione
+
+6) Avviare il gioco e selezionare l'italiano dalle impostazioni
+
+_____
+
+Include le traduzioni in lingua italiana di:
+- Menu e interfaccia
+- Missioni e dialoghi
+- Email e documenti di gioco
+- Tutorial
+
+_____
+
+Translation into ITALIAN (IT) by Hacknet
+
+Includes Italian translations of:
+- Menu and interface
+- Missions and dialogues
+- Game emails and documents
+- Tutorial</WorkshopDescription>
+
+  <WorkshopLanguage>Italian</WorkshopLanguage>
+
+  <WorkshopVisibility>2</WorkshopVisibility>
+
+  <WorkshopTags>Translation, Italian, Language, Localization</WorkshopTags>
+
+  <WorkshopPreviewImagePath>Logo.png</WorkshopPreviewImagePath>
+  
+  <WorkshopPublishID>3641295746</WorkshopPublishID>
+  
+</HacknetExtension>
