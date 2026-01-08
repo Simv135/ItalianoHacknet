@@ -1,0 +1,26 @@
+*** STOP: 0x000000050 (0x8872A990, 0x00000001, 0x804F35D7, 0x00000000)
+
+È stato rilevato un problema e HackNetOS è stato arrestato per evitare danni al computer.
+
+**KERNEL_MEMORY_CORRUPTION**
+
+Se è la prima volta che vedi questa schermata di errore Stop,
+riavvia il computer. Se questa schermata dovesse riapparire, segui questi passaggi:
+
+Verifica che qualsiasi nuovo hardware o software sia installato correttamente.
+Se si tratta di una nuova installazione, richiedi all'azienda produttrice dell'hardware o del software
+gli eventuali aggiornamenti di HackNetOS di cui potresti aver bisogno.
+
+Se i problemi persistono, disabilita o rimuovi qualsiasi hardware o software installato di recente.
+Disabilita le opzioni di memoria del BIOS come la cache o lo shadowing.
+Se devi utilizzare la Modalità Provvisoria per rimuovere o disabilitare componenti, riavvia il computer,
+premi F8 per selezionare le opzioni di Avvio avanzato, quindi seleziona Modalità Provvisoria.
+
+Informazioni tecniche:
+
+*** STOP: 0x000000050 (0x8872A990, 0x00000001, 0x804F35D7, 0x00000000)
+*** ati3diag.dll - Indirizzo ED80AC55 base a ED88F000, Date Stamp 3dcb24d0
+
+Inizio dump della memoria fisica
+Dump della memoria fisica completato.
+Contatta l'amministratore di sistema o il supporto tecnico per ulteriore assistenza.

@@ -7,23 +7,23 @@
   <nextMission>NONE</nextMission>
   <posting title="Rimuovi un falso documento della Death Row">
 Questo e' un lavoro di pulizia per rimuovere alcune informazioni false che un hacker ha inserito nel database della Death Row.
-Per motivi sconosciuti, e' stato aggiunto un falso record duplicato ai registri della Death Row, probabilmente come una sorta di furto d'identita' o piano di sabotaggio.
-Vorremmo che questo record falso venisse rimosso.
+Per motivi sconosciuti, e' stato aggiunto un falso registro duplicato ai registri della Death Row, probabilmente come una sorta di furto d'identita' o piano di sabotaggio.
+Vorremmo che questo registro falso venisse rimosso.
   </posting>
   <email>
     <sender>CSEC Hub Services</sender>
-    <subject>Impostori nel Death Row</subject>
+    <subject>Impostori nella Death Row</subject>
     <body>Questo contratto e' stato aggiunto da un membro anonimo del CSEC. Sebbene sia possibile scoprire l'identita' dello sponsor attraverso questo contratto, il CSEC chiede, come sempre, di rispettare la privacy e l'anonimato dei suoi membri e di non farlo.
 
  Contratto:
-Il record di Joseph Felman nel Death Row (No. 119080) e' un chiaro duplicato del record di Alva Curry (No. 999080), che e' senza dubbio l'originale.
-Rimuovi il record di Joseph Felman dal database: la sua presenza non e' solo un rischio per qualsiasi vero Joseph Felman, ma anche un insulto alla dichiarazione originale fatta dal Sig. Curry. Correggilo.
+Il registro di Joseph Felman nel Death Row (No. 119080) e' un chiaro duplicato del registro di Alva Curry (No. 999080), che e' senza dubbio l'originale.
+Rimuovi il registro di Joseph Felman dal database: la sua presenza non e' solo un rischio per qualsiasi vero Joseph Felman, ma anche un insulto alla dichiarazione originale fatta dal Sig. Curry. Correggilo.
 
 - CSEC
     </body>
     <attachments>
       <link comp="deathRow"/>
-      <note title="Dati del record">Elimina il record
+      <note title="Dati del registro">Elimina il registro
 Nome: Joseph Felman</note>
     </attachments>
   </email>
