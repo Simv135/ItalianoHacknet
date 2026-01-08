@@ -1,11 +1,11 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 <mission id="hubSet01">
   <goals>
-    <goal type="modifyDeathRowRecord" name="John Boorman">Sono pronto, Direttore.</goal>
+    <goal type="modifyDeathRowRecord" name="John Boorman">Sono pronto, guardia</goal>
   </goals>
   <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
-  <posting title="Aggiungi un record della Death Row per un membro della famiglia">
+  <posting title="Aggiungi un registro della Death Row per un membro della famiglia">
 Un familiare di un prigioniero giustiziato e' venuto da noi per far aggiungere la sua scheda della Death Row alle liste ufficiali.
 Sembra che ci sia qualcosa di strano nella condanna (sono convinti che sia stato condannato ingiustamente) e pare che gli sforzi per coprirlo abbiano fatto si' che il documento fosse lasciato fuori dalle liste ufficiali. Come hanno detto: «Almeno vorremmo che le sue ultime parole fossero conservate.».
   </posting>
@@ -13,7 +13,7 @@ Sembra che ci sia qualcosa di strano nella condanna (sono convinti che sia stato
     <sender>CSEC Hub Services</sender>
     <subject>Assenza ingiustificata</subject>
     <body>
-Vorremmo creare un record di un condannato a morte. La famiglia del prigioniero giustiziato ha chiesto che la sua presenza sia aggiunta al database con i seguenti dettagli:
+Vorremmo creare un registro di un condannato a morte. La famiglia del prigioniero giustiziato ha chiesto che la sua presenza sia aggiunta al database con i seguenti dettagli:
 
 ------------------------------------
 Nome: John
@@ -23,8 +23,8 @@ Cognome: Boorman
 Ultime parole: «Sono pronto, guardia».
 ------------------------------------
 
-Gli altri dettagli non dovrebbero essere importanti, ma sarebbe meglio se assomigliassero il piu' possibile agli altri record. Per aiutare, un modello di record e' stato caricato sul server delle risorse CSEC (in /home/Templates).
-Ti consigliamo di copiarlo, modificarlo localmente e poi caricarlo quando sei connesso. Ricordati di rinominare correttamente il file (comando «mv») per riflettere il nome e il numero di record che usi.
+Gli altri dettagli non dovrebbero essere importanti, ma sarebbe meglio se assomigliassero il piu' possibile agli altri registri. Per aiutare, un modello di esempio e' stato caricato sul server delle risorse CSEC (in /home/Templates).
+Ti consigliamo di copiarlo, modificarlo localmente e poi caricarlo quando sei connesso. Ricordati di rinominare correttamente il file (comando «mv») per riflettere il nome e il numero di registro che usi.
 
 Un messaggio del richiedente:
 «Grazie mille per il vostro aiuto. Tutto cio' che riguarda il processo ha avuto una cattiva atmosfera fin dall'inizio. Crediamo ancora fermamente che fosse innocente e stiamo facendo tutto il possibile per assicurarci che venga riconosciuto, anche adesso.
@@ -33,7 +33,7 @@ Il fatto che non sia nel database e' un insulto alla sua memoria. Vorremmo almen
     <attachments>
       <link comp="mainHubAssets"/>
       <link comp="deathRow"/>
-      <note title="Dati del record">Nome: John
+      <note title="Dati del registro">Nome: John
 Cognome: Boorman
 Ultime parole: «Sono pronto, guardia».</note>
     </attachments>

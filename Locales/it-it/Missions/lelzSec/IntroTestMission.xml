@@ -1,7 +1,7 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 <mission id="lelzSec0">
   <goals>
-    <goal type="FileChange" target="nortronWebServer" file="index.html" path="web" keyword="dicks"/>
+    <goal type="FileChange" target="nortronWebServer" file="index.html" path="web" keyword="cazzi"/>
   </goals>
   <missionStart val="10">changeSong</missionStart>
   <nextMission>lelzSec/NortronBreakIn.xml</nextMission>

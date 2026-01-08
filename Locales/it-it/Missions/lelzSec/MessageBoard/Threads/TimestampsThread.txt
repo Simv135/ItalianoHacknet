@@ -3,7 +3,7 @@
 Ehi ragazzi,
 Notizia: ho disabilitato i timestamp sul forum.
 
-Questo e' puramente per motivi di sicurezza, in modo che eventuali azioni legali siano molto piu' difficili se i nostri file dovessero essere compromessi.
+Questo e' esclusivamente per motivi di sicurezza, in modo che eventuali azioni legali siano molto piu' difficili se i nostri file dovessero essere compromessi.
 Per quanto sia triste vederli sparire, penso che siano stati ignorati comunque, e vale la pena disattivarli per un po' piu' di sicurezza.
 -Mods
 ------------------------------------------

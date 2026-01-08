@@ -11,8 +11,5 @@
     <thread>Content/Missions/lelzSec/MessageBoard/Threads/NotesThread.txt</thread>
     <thread>Content/Missions/lelzSec/MessageBoard/Threads/TestThread.txt</thread>
     <thread>Content/Missions/lelzSec/MessageBoard/Threads/ClockThread.txt</thread>
-    <!--
-    <thread>Content/Missions/lelzSec/MessageBoard/Threads/PLACEHOLDER_LinksThread.txt</thread>
-    -->
   </messageBoard>
 </Computer>
